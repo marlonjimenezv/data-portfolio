@@ -36,7 +36,7 @@ Orden de trabajo: 1 → 2 → 3 → 4 → 5 → 6 → 7 → 8. Cada proyecto se 
 
 ## Publicación
 
-Esta sesión solo puede escribir en el repo `marlonjimenezv/DATOMIA`, que hoy es el sitio web de Datomia. Por eso el portafolio vive en la carpeta `data-portfolio/` de la rama de trabajo. Para publicarlo como repo independiente `data-portfolio` con GitHub Pages hay que seguir `PUBLICAR.md` (lo haces tú, son 5 comandos).
+Publicado en https://github.com/marlonjimenezv/data-portfolio y https://marlonjimenezv.github.io/data-portfolio/ (ver `PUBLICAR.md`).
 
 ## Archivos de la raíz
 
@@ -50,7 +50,7 @@ Esta sesión solo puede escribir en el repo `marlonjimenezv/DATOMIA`, que hoy es
 
 ## Bloqueos y pendientes (solo los puedes hacer tú)
 
-- **Publicar** el repositorio `data-portfolio` y activar Pages: ver `PUBLICAR.md`.
+- ~~Publicar el repositorio y activar Pages~~: hecho.
 - **Power BI** (proyecto 2): armar el `.pbix` en Power BI Desktop con `POWERBI_PASO_A_PASO.md`.
 - **Upwork**: subir los proyectos con `PORTAFOLIO_UPWORK.md`.
 - **Proyecto 4**: 61 sitios no se pudieron verificar desde el servidor de esta sesión (fuera de Colombia). Opcional:
