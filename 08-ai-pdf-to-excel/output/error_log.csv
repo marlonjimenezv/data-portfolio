@@ -1,0 +1,6 @@
+﻿severity,file,invoice_no,supplier,check,problem,found,action
+Error,SAMPLE_cleaning_CL-2026-33.pdf,,,no_text,No text layer: the PDF is a scanned image,,"Scanned image: run OCR or the AI step, or key it in by hand."
+Error,SAMPLE_cloud_CS-88206.pdf,CS-88206,Demo Cloud Services LLC (Sample),line_math,"Line 1: 2 x 25.00 = 50.00, but the invoice says 25.00",Backup storage 500 GB (month),"Ask the supplier which is right (quantity, price or amount) before paying."
+Error,SAMPLE_office_OS-2026-104.pdf,OS-2026-104,Demo Office Supplies S.A.S. (Sample),total,"Subtotal + tax = 2.887.535, total says 2.897.535",,Total does not equal subtotal + tax: ask the supplier for a corrected invoice.
+Error,SAMPLE_tech_TR-1042_resent.pdf,TR-1042,Demo Tech Rentals S.A.S. (Sample),duplicate,Duplicate of SAMPLE_tech_TR-1042.pdf,,Same supplier and invoice number as another file: do not pay twice.
+Warning,SAMPLE_tech_TR-1049.pdf,TR-1049,Demo Tech Rentals S.A.S. (Sample),dates,Due 2026-05-23 is before issue 2026-05-24,,Due date is before the issue date: confirm the payment term.

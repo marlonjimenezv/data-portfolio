@@ -1,0 +1,21 @@
+step,rule,detail,affected,unit,rows_after
+1,Load raw file,"SECOP II registered suppliers in Boyacá, organisation company types",4164,rows,4164
+2,Trim spaces and blank out placeholders,"18,062 placeholder cells ('No Provisto', 'No Definido'...) set to empty; 283 cells had extra spaces",18345,cells,4164
+3,Split NIT and check digit,10-digit values were NIT + check digit; check digit verified with the DIAN modulo-11 rule,614,rows,4164
+4,Exclude personal ID numbers,"Records whose ID is a personal ID (cédula), not an organisation NIT: excluded so no personal data is published",428,rows,3736
+5,Check: NITs registered to a natural person,Safety check: RUES says the NIT belongs to a person (none found after the previous rule),0,rows,3736
+6,Privacy: names that look like a person's name,"29 replaced with the legal name from RUES; 64 without a registry record excluded (heuristic: 2-4 plain words, no acronym and no word that organisations use)",93,rows,3672
+7,Remove duplicate NITs,"103 NITs appeared more than once; kept the record with the most contact fields, then the most recent",103,rows,3569
+8,Standardise names,"Upper case, single spaces, one spelling per legal form (SAS / S.A.S -> S.A.S.)",1782,rows,3569
+9,Check legal form vs company type,SECOP company type disagrees with the legal form in RUES (or in the name suffix when RUES has no record); legal_form column holds the corrected value,157,rows (corrected),3569
+10,Find possible duplicates by name,"Same name (ignoring accents, punctuation and legal form) but different NIT",26,rows (flagged),3569
+11,Standardise phone numbers,To +57 format; old 7-digit landlines get the 608 area prefix (2021 numbering plan); fax used when the phone was missing (4),3532,rows,3569
+12,Standardise e-mails,"Lower case, spaces removed; 2 domain typos fixed (gmail.con -> gmail.com)",202,rows,3569
+13,Privacy: mask personal-looking e-mails,"Mailbox is not a role (info@, ventas@...) and does not contain the organisation's name, so it may belong to a person",821,rows,3569
+14,Privacy: partly hide mobile numbers,Mobiles may be personal: only the operator prefix and the last 2 digits are published (landlines are shown in full),3271,rows,3569
+15,Standardise websites,"Lower case, https:// added, trailing slash removed; e-mails typed as websites and invalid domains blanked",417,rows,3569
+16,Standardise addresses,"Colombian abbreviations (CALLE/CLL -> CL, CARRERA/CRA -> KR, No./N° -> #)",3023,rows,3569
+17,Add DANE municipality code,"Matched to DIVIPOLA (DANE), ignoring accents and case; 'Güicán' -> official name 'Güicán de la Sierra'",3539,rows,3569
+18,Parse dates from both sources,SECOP: 2024-03-25T22:44:28.000 · RUES: 19971015 and 2026/06/18 11:31:29.553 -> ISO dates (YYYY-MM-DD),6244,cells,3569
+19,Cross-check with the business registry (RUES),"2,675 found; status, registration date and last renewal added; 469 active records not renewed for 2026",2675,rows,3569
+20,Compare names with RUES,"Ignoring spaces, punctuation, legal form and small typos; legal name kept in name_in_registry; 55 companies are 'en liquidación'",251,rows (flagged),3569

@@ -1,0 +1,1372 @@
+supplier_code,name,field,issue,action,value_shown
+712615053,Colombia Diversa Tours SAS,nit,check digit does not match,"kept, flagged for review",9011357169
+712635655,CONSORCIO INTERVENTORIA EDIFICACIONES,nit,invalid length,"kept, flagged for review",90001
+713495240,FUNDACIÓN INTEGRAL PARA EL SERVICIO SOCIAL,nit,check digit does not match,"kept, flagged for review",9010744414
+713497428,union temporal vias rondon,nit,check digit does not match,"kept, flagged for review",9999999991
+713519338,Gisol2021,nit,missing,"kept, flagged for review",
+713771681,CONSORCIO MANTENIMIENTO VIAL 2021,nit,invalid length,"kept, flagged for review",90100
+713889913,CONSORCIO MANTENIMIENTO HOSPITAL21,nit,invalid length,"kept, flagged for review",900001
+713930451,CONSORCIO OBRAS VIALES 2021,nit,invalid length,"kept, flagged for review",900100
+713942878,Consorcio Madrid IT,nit,missing,"kept, flagged for review",
+714021110,Consorcio Saucedo y Saucedo,nit,missing,"kept, flagged for review",
+714464187,ESVILLA E.S.P//,nit,check digit does not match,"kept, flagged for review",8000067555
+715226536,JUNTA DE ACCIÓN COMUNAL CENTRAL DEL MUNICIPIO DE MARIPÍ,nit,check digit does not match,"kept, flagged for review",8901119446
+718596562,CONSORCIO A&A PAIPA 2022,nit,invalid length,"kept, flagged for review",0000004524933
+719904542,HIJOS DEL MONTE,nit,check digit does not match,"kept, flagged for review",9011255990
+721227239,EPAZ CLEAN SERVICIOS DE ASEO Y LIMPIEZA SAS,nit,check digit does not match,"kept, flagged for review",9076879089
+725201735,Confiar Cooperativa Financiera,nit,check digit does not match,"kept, flagged for review",9809813951
+725412688,JUNTA DE ACCION COMUNAL BARRRIO SUCRE SECTOR LA FLORESTA,nit,check digit does not match,"kept, flagged for review",9012822431
+726883861,Y&G INGENIERIA S.A.S,nit,check digit does not match,"kept, flagged for review",9017974399
+727336869,ASOPROCVILLA - MERCADO CAMPESINO ALTERNATIVO VILLALEYVANO,nit,check digit does not match,"kept, flagged for review",9008749538
+727594137,CONSTRUCCIONES ROMAS SAS,nit,check digit does not match,"kept, flagged for review",9018336581
+728697129,DICONS LTDA,nit,check digit does not match,"kept, flagged for review",8260000002
+731082855,Punto Arquitectura,nit,check digit does not match,"kept, flagged for review",9012987235
+732200373,INGENIERIA Y CONSTRUCCION CIVIL LTDA,nit,invalid length,"kept, flagged for review",11111111111111111111
+732720214,CONSORCIO REGISTRADURIA CHITA 2025,nit,invalid length,"kept, flagged for review",123456465578822
+733779474,ASOCIACION DE MUEJRES CAMPESINAS DE RAMIRIQUI,nit,check digit does not match,"kept, flagged for review",9019524085
+734176449,JUNTA DE ACCIÓN COMUNAL DE LA VEREDA BARZAL DEL MUNICIPIO DE TENZA,nit,check digit does not match,"kept, flagged for review",9001584561
+735368748,ASOCIACION DE PRODUCTORES AGROPECUARIOS DEL MUNICIPIO DE SOCOTÁ,nit,check digit does not match,"kept, flagged for review",9001020692
+735753048,ITECH NETWORKS COLOMBIA S.A.S,nit,check digit does not match,"kept, flagged for review",9002920261
+735900037,Fundacion para el desarrollo social KORU,nit,check digit does not match,"kept, flagged for review",9000502060
+736876038,AGROP ASOCIACION AGROPECUARIA SIN ANIMO DE LUCRO,nit,check digit does not match,"kept, flagged for review",9011670474
+738068535,JUNTA DE ACCION COMUNAL DE LA VEREDA EL SALITRE,nit,check digit does not match,"kept, flagged for review",9010457555
+700161037,MEDRANO ASESORES S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+702445016,REM EQUIPOS INGENIERIA BIOMEDICA S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+702871401,A.P.P. CONTROL INGENIERIA S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+703233932,SERVICIOS EN SALUD ANDINA S.A.S.,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+703931626,GRANADOS GOMEZ Y CIA S.A.S. E.S.P.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+703951293,CLINICA ODONTOLOGICA ORTOSONRIA ESTETICA DENTAL S.A.S.,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+703984096,DAGA,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+704365592,COMPANY MEDIQBOY OC S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+704435247,INCCA S.A.S.,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+704527399,ASPRO S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+706709474,DISTRIBUIDORA DE COMBUSTIBLES EL SOL S.A.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+706908811,CONSTRUBOY S.A.S.,company_type,SECOP type 'Sociedad en Comandita Simple colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita Simple colombiana
+707169553,WOW PUBLICIDAD,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+709383327,SOFSA INGENIERIA S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+710760125,WMPC & ASOCIADOS S.A.S.,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+711852459,SERVICIOS PROFESIONALES DE INGENIERÍA CIVIL CONSULTORÍA AUDITORIA,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+712375534,TORAL CONSTRUCTORES Y CONSULTORES S.A.S.,company_type,SECOP type 'Sociedad en Comandita por Acciones colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita por Acciones colombiana
+713255701,ESPINO S.A.S.,company_type,SECOP type 'Sociedad en Comandita Simple colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita Simple colombiana
+713263333,CLINICA DE ESPECIALISTAS S.A.,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SA,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+713288314,INVERSIONES RVF LTDA.,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+713411270,SITEXA S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+713454635,INGENIERIA PMA DISEÑO & CONSTRUCCION S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+713727543,NCT COMUNICACIONES S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+713727626,CENTRAL DE ABARROTES DS S.A.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says S EN C,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+713962256,INVERSIONES ESTATALES S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+713964708,LAFC,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+714259041,SOLUCIONES EMPRESARIALES EN CONSTRUCCIÓN CONSULTORÍA Y SUMINISTRO LIMITADA,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+714374741,PRODUCCIONES WML S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+714382652,CENTRO INTELIGENTE DE COMPENTENCIAS E INNOVACION ITDH S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+714392891,INGEPLANOS S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+714493194,SOMERT S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+714533056,DIMAP BOYACA S.A.S.,company_type,SECOP type 'Sociedad en Comandita por Acciones colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita por Acciones colombiana
+714706264,GRUPO EMPRESARIAL ARGON PUBLICIDAD S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+714789575,GRIPO DOMUS AUREA S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+714916046,MC PROYECTOS & SERVICIOS S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+715544557,3MA S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+715751889,GARCIA Y RESTREPO CONSTRUCSERVICIOS S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+715866265,SILYCON INGENIERIA S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+716028816,CONSTRUCTORA BELFORT S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+716240106,INTERTECK S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+716348909,INSIGHT INGENIERÍA LTDA.,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+716370283,MEGA - ELECTROREPUESTOS S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+716948401,CORTILINE S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+717074082,CENTRO DE DIAGNOSTICO AUTOMOTRIZ SOGAMOSO LTDA.,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+717200224,INMUNIZADORA DE MADERAS DEL ORIENTE LTDA.,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+717334197,INDUSTRIAS CONSTRUCCIONES CIVILES Y ESTRUCTURAS METALMECANICAS S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+717397095,COMERCIALIZADORA MERCA PASION,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+717669089,DAGA INGENIERIA Y CONSULTORIA S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+718025075,SERVICIOS DE INGENIERIA MANTENIMIENTO MONTAJES Y OBRAS S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+718401821,PCA GROUP,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+718528029,CONSTRUCTORA SURICH S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+718583131,"SUMINISTROS, CONSTRUCCIONES Y MANTENIMIENTO S.A.S.",company_type,SECOP type 'Sociedad en Comandita Simple colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita Simple colombiana
+718660566,TURQUESA PRODUCTOS ALIMENTICIOS S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+719162364,BRICEÑO VISUAL SEGURITY S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+719401895,SERVICIOS DIESEL JCMB S.A.S.,company_type,SECOP type 'Sociedad en Comandita Simple colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita Simple colombiana
+719852683,ASESORAMOS LIMITADA,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+719938466,INVERSIONES TYS S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+720034057,AQUATERRA SERVICIOS AMBIENTALES Y DE SANEAMIENTO LTDA.,company_type,SECOP type 'Sociedad por acciones simplificada' but the registry says LTDA,legal_form column set from the registry,Sociedad por acciones simplificada
+720845056,SCIRE SOLUTIONS S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+721100212,JR ENGINEERING S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+721152726,DISTRIBUCIO FUTURO S.A.S.,company_type,SECOP type 'Sociedad en Comandita Simple colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita Simple colombiana
+721231298,MULTISERVICIOS LMB S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+721414670,ROBERVALDI INGENIERIA S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+721742336,SURTIHIERROS TOCA S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+721760072,CONSTRUCTORA LENCOVA S.A.S.,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+721853554,GIITSON LTDA.,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+721874097,SALUD EN SU DOMICILO S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+722044468,CENTRO DE NEGOCIOS Y LOGÍSTICA SERVIFLAS C.N.L. S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+722556792,GIAR MULTISERVICIOS S.A.S.,company_type,SECOP type 'Sociedad en Comandita Simple colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita Simple colombiana
+722617107,GALPE INGENIERIA S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+722660289,OBCIENERGY S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+722766516,SERVICIOS DE SOLDADURA Y MONTAJES S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+723150025,CONSTRUGES ING S.A.S.,company_type,SECOP type 'Sociedad en Comandita por Acciones colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita por Acciones colombiana
+723286753,GUSTYTORTAS S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+723458048,TICEL INGENIERIA,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+723677316,PROYECTAR CONSTRUCCIONES E INGENIERÍA S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+723717179,SISTEMAS Y SOLUCIONES DAVID S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+723966388,ORIGEN GRUPO EMPRESARIAL,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+724023817,EGAF INGENIERIA S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+724042056,ACUAFIVRES LTDA.,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+724057203,GRUPO WVD S.A.S.,company_type,SECOP type 'Sociedad en Comandita por Acciones colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita por Acciones colombiana
+724121728,SUMINISTROS LAYE S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+724652037,INGEOBRAS EP S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+724660477,PROINCO,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+725143713,GRUPO PROSPERAR ABB S.A.S.,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+725178156,INVERSIONES Y SUMINISTROS FR S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+725334494,MAXIMA TECNOLOGIA EN INTERNET SOCIEDAD POR ACCIONES SIMPLIFICADA,company_type,SECOP type 'Sociedad en Comandita por Acciones colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita por Acciones colombiana
+725346043,INGENIERIA MONTAJE Y SUMINISTROS INDUSTRIALES S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+725602460,EMARRINNA SOLUCIONES EMPRESARIALES COLOMBIANAS NACIONAL & INTERNACIONAL S.A.S.,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+725633143,EMPRESA DE CONSULTORIA Y ASESORIA TERRITORIAL,company_type,SECOP type 'Sociedad por acciones simplificada' but the registry says LTDA,legal_form column set from the registry,Sociedad por acciones simplificada
+725754527,MEGAINVERSIONES EL PORVENIR S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+725764633,CONSTRUCCIONES FYH S.A.S.,company_type,SECOP type 'Sociedad en Comandita por Acciones colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita por Acciones colombiana
+725927552,UPTELCOM,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+726208358,ALDASAN LTDA.,company_type,SECOP type 'Sociedad por acciones simplificada' but the registry says LTDA,legal_form column set from the registry,Sociedad por acciones simplificada
+726251234,MULTI PROYECTOS S.A.S.,company_type,SECOP type 'Sociedad en Comandita por Acciones colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita por Acciones colombiana
+726252208,RENOVAR SYG S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+726252307,SEGURIDAD Y SALUD BOYACA SSB S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+726253248,TAIYO INGENIERÍA S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+726338999,RENACEMOS Y EVOLUCIONAMOS S.A.S.,company_type,SECOP type 'Sociedad en Comandita por Acciones colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita por Acciones colombiana
+726414394,MANUEL ISNARDO PADILLA Y CIA S.A.S.,company_type,SECOP type 'Sociedad en Comandita Simple colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita Simple colombiana
+726615636,CDA CONTROL AUTOS CHIQUINQUIRA LIMITADA,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+726727050,ALSAING COLOMBIA S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+727476533,DM CONTRATISTA S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+727865941,ASESORES ESPECIALIZADOS S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+728428269,CONGARCOL S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+728723271,SUDICOL S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+728750118,CAD INGENIERIA Y PROCESOS S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+728779810,SEEDS COLOMBIA,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+729196014,CONSTRUCCIONES SIVIC S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+729325969,CONSYCON CONSULTORIAS Y CONSTRUCCIONES S.A.S.,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+729435925,M&M ASESORES E INVERSORES S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+729474825,ELITE ADMINISTRACION Y SERVICIOS DE COLOMBIA S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+729576454,CENTRAL COLOMBIANA DE ASEO S.A. E.S.P.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+729636530,IPSUM INGENIERÍA Y DESARROLLO S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+729671156,FES INGENIERIA Y CONSULTORIA,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+730155462,AGROTRANS MC S.A.S.,company_type,SECOP type 'Sociedad en Comandita Simple colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita Simple colombiana
+730717253,COLNAN S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+730731148,FONSECA SOLUCIONES TECNOLOGICAS S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+731055653,AGINNOVA,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+731082855,DESARROLLOS INFORMATICOS AU S.A.S. EN LIQUIDACIÓN,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+731169561,TRANSPORTADORA ESPECIAL SALINAS S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+731364220,PROCONSTRUARQ S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+731598298,CONASOL INGENIERIA S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+731690293,NIRO INGENIEROS Y ARQUITECTOS,company_type,SECOP type 'Sociedad en Comandita Simple colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita Simple colombiana
+731782025,CONSTRUCTIVAS SIV S.A.S.,company_type,SECOP type 'Sociedad en Comandita Simple colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita Simple colombiana
+732260849,PINTO HOGAR SERVICES S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+732311246,ICSEN CONSULTING S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+732351036,INDUSTRIAS GYA S.A.S.,company_type,SECOP type 'Sociedad en Comandita Simple colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita Simple colombiana
+732354956,D & V PROFESSIONAL GROUP S.A.S.,company_type,SECOP type 'Sociedad en Comandita Simple colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita Simple colombiana
+733811194,CIVISUM,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+734027394,PROYECTOS CONSTRUCCIONES E INTERVENTORIAS A-L S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+734045628,A I C DISEÑO Y CONSTRUCCION LIMITADA,company_type,SECOP type 'Sociedad por acciones simplificada' but the registry says LTDA,legal_form column set from the registry,Sociedad por acciones simplificada
+734100241,CEO INGENIERÍA E INNOVACIÓN S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+734154198,CIVILPROYECTOS FG S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+734725294,HUNZA IPS S.A.S.,company_type,SECOP type 'Sociedad en Comandita Simple colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita Simple colombiana
+735155087,ELEVAR PROYECTOS,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+735339962,C-204 SISTEMA DE GESTION DOCUMENTAL SGD S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+735520199,DIGITALTECH CENTER S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+735595126,INTEGRAL SOLUCIONES DIPAE S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+735632374,EDS FUEL Y GAS S.A.S.,company_type,SECOP type 'Sociedad en Comandita por Acciones colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad en Comandita por Acciones colombiana
+735743171,TAX INVERSIONES S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+735753048,ITECH NETWORKS COLOMBIA S.A.S.,company_type,SECOP type 'Sociedad por acciones simplificada' but the registry says LTDA,legal_form column set from the registry,Sociedad por acciones simplificada
+735808032,DHISMO S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+736102484,VICTORIA CR S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+736192030,DEAL INGENIERIA S.A.S.,company_type,SECOP type 'Sociedad de Responsabilidad Limitada colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad de Responsabilidad Limitada colombiana
+736395666,GREEN FIRE ROTOR S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+736808486,PROYECTOS AMBIENTALES Y DE CONSTRUCCION S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+736982034,AQUA SOLUCIONES INGENIERÍA S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+737203042,MAXA CONSULTING S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+737297671,SERVICIOS Y SUMINISTROS J&C S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+737617852,VITALSIS BIOMEDICAL S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+737629279,INVERSIONES PRESTIGE GROUP S.A.S.,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+738079524,"DISEÑOS, ASESORIAS Y COMERCIALIZACION CELYGA S.A.S.",company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+738116102,VIRTOPING,company_type,SECOP type 'Sociedad Anónima Abierta colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Abierta colombiana
+738203439,ESTRATEGIAS SOCIALES Y TERRITORIALES S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+738342120,JPA CONSTRUCTORA S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+738368190,ESPECTEL S.A.S.,company_type,SECOP type 'Sociedad Anónima Cerrada Colombiana' but the registry says SAS,legal_form column set from the registry,Sociedad Anónima Cerrada Colombiana
+700619059,SERINGMA S.A.S.,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",SERINGMA S.A.S.
+704632546,SERINGMA S.A.S.,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",SERINGMA S.A.S.
+708899661,"ASOCIACION DE PADRES USUARIOS DE LOS HOGARES COMUNITARIOS DE BIENESTAR FAMILIAR, OTRAS MODALIDADES DE ATENCION A LA PRIMERA INFANCIA Y MADRES COMUNITA",name,same name as another record with a different NIT,"kept, flagged (possible duplicate)","ASOCIACION DE PADRES USUARIOS DE LOS HOGARES COMUNITARIOS DE BIENESTAR FAMILIAR, OTRAS MODALIDADES DE ATENCION A LA PRIMERA INFANCIA Y MADRES COMUNITA"
+709297089,"ASOCIACIÓN DE PADRES USUARIOS DE LOS HOGARES COMUNITARIOS DE BIENESTAR FAMILIAR, OTRAS MODALIDADES D",name,same name as another record with a different NIT,"kept, flagged (possible duplicate)","ASOCIACIÓN DE PADRES USUARIOS DE LOS HOGARES COMUNITARIOS DE BIENESTAR FAMILIAR, OTRAS MODALIDADES D"
+709302103,"ASOCIACIÓN DE PADRES USUARIOS DE LOS HOGARES COMUNITARIOS DE BIENESTAR FAMILIAR, OTRAS MODALIDADES D",name,same name as another record with a different NIT,"kept, flagged (possible duplicate)","ASOCIACIÓN DE PADRES USUARIOS DE LOS HOGARES COMUNITARIOS DE BIENESTAR FAMILIAR, OTRAS MODALIDADES D"
+709303366,"ASOCIACIÓN DE PADRES USUARIOS DE LOS HOGARES COMUNITARIOS DE BIENESTAR FAMILIAR, OTRAS MODALIDADES DE ATENCIÓN A LA PRIMERA INFANCIA Y MADRES COMUNITA",name,same name as another record with a different NIT,"kept, flagged (possible duplicate)","ASOCIACIÓN DE PADRES USUARIOS DE LOS HOGARES COMUNITARIOS DE BIENESTAR FAMILIAR, OTRAS MODALIDADES DE ATENCIÓN A LA PRIMERA INFANCIA Y MADRES COMUNITA"
+709305015,"ASOCIACIÓN DE PADRES USUARIOS DE LOS HOGARES COMUNITARIOS DE BIENESTAR FAMILIAR, OTRAS MODALIDADES DE ATENCIÓN A LA PRIMERA INFANCIA Y MADRES COMUNITA",name,same name as another record with a different NIT,"kept, flagged (possible duplicate)","ASOCIACIÓN DE PADRES USUARIOS DE LOS HOGARES COMUNITARIOS DE BIENESTAR FAMILIAR, OTRAS MODALIDADES DE ATENCIÓN A LA PRIMERA INFANCIA Y MADRES COMUNITA"
+709306112,"ASOCIACION DE PADRES USUARIOS DE LOS HOGARES COMUNITARIOS DE BIENESTAR FAMILIAR, OTRAS MODALIDADES DE ATENCIÓN A LA PRIMERA INFANCIA Y MADRES COMUNITA",name,same name as another record with a different NIT,"kept, flagged (possible duplicate)","ASOCIACION DE PADRES USUARIOS DE LOS HOGARES COMUNITARIOS DE BIENESTAR FAMILIAR, OTRAS MODALIDADES DE ATENCIÓN A LA PRIMERA INFANCIA Y MADRES COMUNITA"
+709338727,"ASOCIACIÓN DE PADRES USUARIOS DE LOS HOGARES COMUNITARIOS DE BIENESTAR FAMILIAR, OTRAS MODALIDADES DE ATENCIÓN A LA PRIMERA INFANCIA Y MADRES COMUNITA",name,same name as another record with a different NIT,"kept, flagged (possible duplicate)","ASOCIACIÓN DE PADRES USUARIOS DE LOS HOGARES COMUNITARIOS DE BIENESTAR FAMILIAR, OTRAS MODALIDADES DE ATENCIÓN A LA PRIMERA INFANCIA Y MADRES COMUNITA"
+709348114,"ASOCIACIÓN DE PADRES USUARIOS DE LOS HOGARES COMUNITARIOS DE BIENESTAR FAMILIAR, OTRAS MODALIDADES DE ATENCIÓN A LA PRIMERA INFANCIA Y MADRES COMUNITA",name,same name as another record with a different NIT,"kept, flagged (possible duplicate)","ASOCIACIÓN DE PADRES USUARIOS DE LOS HOGARES COMUNITARIOS DE BIENESTAR FAMILIAR, OTRAS MODALIDADES DE ATENCIÓN A LA PRIMERA INFANCIA Y MADRES COMUNITA"
+719533200,CONSTRUGES ING S.A.S.,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",CONSTRUGES ING S.A.S.
+720066067,JUNTA DE ACCION COMUNAL SANTA BARBARA,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",JUNTA DE ACCION COMUNAL SANTA BARBARA
+721604098,MULTISERVICIOS S.A.S.,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",MULTISERVICIOS S.A.S.
+723150025,CONSTRUGES ING S.A.S.,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",CONSTRUGES ING S.A.S.
+727594137,CONSTRUCCIONES ROMAS S.A.S.,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",CONSTRUCCIONES ROMAS S.A.S.
+728969528,MULTISERVICIOS S.A.S.,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",MULTISERVICIOS S.A.S.
+729256966,PROVEEDOR,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",PROVEEDOR
+730279239,HORUS S.A.S.,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",HORUS S.A.S.
+731712717,CONSTRUCCIONES ROMAS S.A.S.,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",CONSTRUCCIONES ROMAS S.A.S.
+731953733,PROVEEDOR,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",PROVEEDOR
+733162226,INGELYMEC.S.A.S.,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",INGELYMEC.S.A.S.
+733188148,INGELYMEC,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",INGELYMEC
+733456941,PROVEEDOR,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",PROVEEDOR
+733824106,HORUS S.A.S.,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",HORUS S.A.S.
+733965933,PROVEEDOR,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",PROVEEDOR
+737288159,JUNTA DE ACCION COMUNAL SANTA BARBARA,name,same name as another record with a different NIT,"kept, flagged (possible duplicate)",JUNTA DE ACCION COMUNAL SANTA BARBARA
+702946013,DEV.CONSULTORIAS Y PROYECTOS,phone,invalid length or format,blanked,
+704574615,ANALIZAR LTDA.,phone,invalid length or format,blanked,
+707518403,COMERCIAL COLOMBIANA DE ELEVADORES,phone,invalid length or format,blanked,
+710241290,COOPERATIVA MULTIACTIVA DE TRANSPORTES DE TENZA,phone,invalid length or format,blanked,
+710738998,CONSORCIOCIVIL09,phone,invalid length or format,blanked,
+714306131,CTPCONVIVENCIA,phone,invalid length or format,blanked,
+715326419,ASOCIACIÓN DE DANZA Y CULTURA ¨CARLOS EDUARDO LOBO PEÑA¨,phone,invalid length or format,blanked,
+715885067,INGARQ CONSTRUCCION Y SUMINISTROS S.A.S.,phone,invalid length or format,blanked,
+715955936,INMOBILIARIA MACANI S.A.S.,phone,invalid length or format,blanked,
+718494156,CLUB DEPORTIVO DE MOTOCICLISMO ACELERANDO MOTOS DE SOGAMOSO,phone,invalid length or format,blanked,
+718814742,CONSORCIO HEMOCENTRO DEL CENTRO ORIENTE COLOMBIANO,phone,invalid length or format,blanked,
+718867237,"FUNDACIÓN AMBIENTE, CULTURA Y SOCIEDAD UNIDA",phone,invalid length or format,blanked,
+719992265,DISEÑOS INTERVENTORIA E INGENIERIA M&J S.A.S.,phone,invalid length or format,blanked,
+721550069,CONTINENTAL EXPERIENCES S.A.S.,phone,invalid (dummy number),blanked,
+723754156,MARO,phone,invalid length or format,blanked,
+723983565,FUNDACIÓN CAMPEONES DE AMOR,phone,invalid length or format,blanked,
+724314091,ALTO DEL SOTE S.A.S.,phone,invalid length or format,blanked,
+724406137,ASOCIACIÓN DE CACAOTEROS DE SANTA MARIA,phone,invalid length or format,blanked,
+726062086,INVERSIONES Y CONTRATOS B.R S.A.S.,phone,invalid length or format,blanked,
+726112295,FUNDACION TEJIDOS DE LUZ,phone,invalid length or format,blanked,
+726249345,ALTAID S.A.S.,phone,invalid (dummy number),blanked,
+726748346,AGROTERRA SOLUCIONES S.A.S.,phone,invalid length or format,blanked,
+726964455,CONSTRUPUENTES S.A.S.,phone,invalid (dummy number),blanked,
+728890864,FUNDACION REFLEJOS DE AMOR Y ESPERANZA FUNRAE,phone,invalid (dummy number),blanked,
+729282590,JUNTA DE ACCION COMUNAL DE LA VEREDA GUAYABAL DEL MUNICIPIO DE MARIPI,phone,invalid length or format,blanked,
+730994951,CORPORACIÓN CULTRAL AMERO MARARAY,phone,invalid (dummy number),blanked,
+732200373,INGENIERIA Y CONSTRUCCION CIVIL LTDA.,phone,invalid (dummy number),blanked,
+732853825,ASOCIACIÓN CHINAVITENSE DE APICULTORES MULTIACTIVOS,phone,invalid length or format,blanked,
+734278021,CORPORACION AGUINALDO GARAGOENSE,phone,invalid length or format,blanked,
+736395666,GREEN FIRE ROTOR S.A.S.,phone,invalid length or format,blanked,
+737303818,JUNTA DE ACCION COMUNAL DE LA VEREDA DE SOAPAGA PARTE ALTA,phone,invalid length or format,blanked,
+737876953,CAMPO VERDE DE OCCIDENTE S.A.S.,phone,invalid length or format,blanked,
+738202126,ASOPMAGAR,phone,invalid length or format,blanked,
+738318690,SOLUCIONES INTEGRALES J&M&A S.A.S.,phone,invalid length or format,blanked,
+708616867,HOGAR INFANTIL PERSONITAS,email,invalid format,blanked,
+729157149,CONSORCIO MUJERES RURALES,email,invalid format,blanked,
+737292227,IBÁÑEZ & ARANGO ABOGADOS S.A.S.,email,invalid format,blanked,
+724711213,FUNDACION PRISBA,website,invalid domain,blanked,www.fundacionprisba2023
+702139072,C.B.V.C.,address,no street type or number,"kept, flagged",VÍA SALIDA A RAMIRIQUÍ
+702508078,CREPIB,address,no street type or number,"kept, flagged","BLOQUE 6 CASA 3, BRR LA COLINA UPTC SEDE CENTRAL"
+703797043,LIGA DE KARATE DO DE BOYACÁ,address,no street type or number,"kept, flagged",COLISEO MAYOR INDEPORTES BOYACÁ
+704005016,FUNGERVIDE,address,no street type or number,"kept, flagged",TUNJA BOYACA
+704571637,ASOCIACIÓN HOTELERA Y TURÍSTICA DE COLOMBIA COTELCO CAPÍTULO BOYACÁ,address,no street type or number,"kept, flagged",CENTRO COMERCIAL PLAZA REAL BLOQUE CENTRAL OF 219 A
+706119419,COOPERATIVA DE TRABAJO ASOCIADO LA ESPERANZA SABOYA,address,no street type or number,"kept, flagged",SABOYA CENTRO
+706879160,INCOAZ S.A.S.,address,no street type or number,"kept, flagged",TRV 11 31 A 12
+707688719,SOCIEDAD CLINICA BOYACA S.A.S.,address,no street type or number,"kept, flagged",150462
+708803739,ASOCIACIÓN DE PADRES DE FAMILIA Y OTRAS MODALIDADES DE ATENCION A LA PRIMERA EINFANCIA DEL HOGAR INFANTIL JOSE MARIA AVELLANEDA DE GUATEQUE,address,no street type or number,"kept, flagged",TRASVERSAL 5 # 6A-07
+708996061,MPR CONSTRUCCIONES Y SUMINISTROS S.A.S.,address,no street type or number,"kept, flagged",BRR EL COGOLLO MACANAL
+709299028,ASOCIACION DE PADRES USUARIOS DE LOS HCBF OTRAS MODALIDADES DE ATENCION A LA PRIMERA INFANCIA Y MADRES COMUNITARIAS DEL SECTOR AMERICAS DE DUITAMA,address,no street type or number,"kept, flagged",TRANV 14 # 10-08 BRR ORQUIDEAS
+709300073,ASOPADRESHCB DE SECTOR CORRALES,address,no street type or number,"kept, flagged",TRANSCERAL 1 A # 2-48
+709306112,"ASOCIACION DE PADRES USUARIOS DE LOS HOGARES COMUNITARIOS DE BIENESTAR FAMILIAR, OTRAS MODALIDADES DE ATENCIÓN A LA PRIMERA INFANCIA Y MADRES COMUNITA",address,no street type or number,"kept, flagged",EL PARAISO ETF 1P7 CASA 2168
+709311229,ASOPADRES BORBUR,address,no street type or number,"kept, flagged",SANTA BARBARA
+709430763,COOPERATIVA DE ORGANISMOS DE SALUD DE BOYACA O COOSBOY,address,no street type or number,"kept, flagged",K4 VIA TUNJA SORACA
+709668339,TIERRASUA S.A.S.,address,no street type or number,"kept, flagged","BLOQUE C, PISO 2, LC 4 C DEL CENTRO EMPRESARIAL DE GREEN HILLS TUNJA"
+711852459,SERVICIOS PROFESIONALES DE INGENIERÍA CIVIL CONSULTORÍA AUDITORIA,address,no street type or number,"kept, flagged",ESPAÑOL
+712338078,FUPAVID,address,no street type or number,"kept, flagged",PARQUE INDUSTRIAL DEL NORTE
+712375534,TORAL CONSTRUCTORES Y CONSULTORES S.A.S.,address,no street type or number,"kept, flagged",CALLE41 # 1-51 ESTE AP 915 BRR LA ESMERALDA TUNJA
+712401199,"ASOCIACIÓN DE PADRES DE FAMILIA, OTRAS MODALIDADES DE ATENCIÓN A LA PRIMERA INFANCIA DEL HOGAR INFANTIL NEVADO DEL MUNICIPIO DE EL COCUY",address,no street type or number,"kept, flagged",CARREA 4 # 7-39
+712603224,DISAUTOS,address,no street type or number,"kept, flagged",AVENIDAS NORTE 34-35
+712794155,CAMARA COLOMBIANA DE AVALUADORES,address,no street type or number,"kept, flagged",CAR 10 # 42-30 PISO 7
+713050086,SIGMASAS,address,no street type or number,"kept, flagged",CLB 16A-26
+713237048,INGESIG ASESORES,address,no street type or number,"kept, flagged",TUNJA
+713404077,PARROQUIA DE NUESTRA SEÑORA DEL ROSARIO DE PAYA,address,no street type or number,"kept, flagged",CASA CURAL-MUNICIPIO DE PAYA
+713682409,COOPERATIVA MULTIACTIVA CAMPESINA DE RISTA,address,no street type or number,"kept, flagged",CENTRO DE MOTAVITA
+713944270,IVERSA S.A.S.,address,no street type or number,"kept, flagged",CARREA 11 # 22-21
+713952570,CORPORACION DE DESARROLLO DE CHIQUINQUIRA,address,no street type or number,"kept, flagged",CAM BLOQUE 2 SEGUNDO PISO
+713962256,INVERSIONES ESTATALES S.A.S.,address,no street type or number,"kept, flagged",GLORIETA GOBERNADOR
+714056850,CONGREGACION DE DOMINICAS DE SANTA CATALINA DE SENA,address,no street type or number,"kept, flagged",KILOMETRI 1 VIA GUANANI
+714181666,CORPORACION CENTRO DE ESTUDIOS HISTORICOS DE VILLA DE LEIVA,address,no street type or number,"kept, flagged",ESPAÑOL
+714191483,CIM S.A.S.,address,no street type or number,"kept, flagged",CARERRA 22 8 25 P3
+714306131,CTPCONVIVENCIA,address,no street type or number,"kept, flagged",VENIDA CENTRAL DEL NORTE 39-11
+715249215,ASOCIACION DE JUNTAS DE ACCION COMUNAL DE CHINAVITA,address,no street type or number,"kept, flagged",CENTRO URBANO CHINAVITA
+715395307,CORPORACION DE CINE Y AUDIOVISUALES LABERINTO,address,no street type or number,"kept, flagged",150001
+715762159,JUNTA DE ACCIÓN COMUNAL VEREDA SALAMANCA SECTOR LA FÁBRICA,address,no street type or number,"kept, flagged",CENTRO POBLADO LA FÁBRICA
+715772752,JUNTA DE ACCION COMUNAL CENTRAL DE TIPACOQUE,address,no street type or number,"kept, flagged",LA HACIENDA
+715925558,MAMAPACHAEXPERIENCESAS,address,no street type or number,"kept, flagged",CRR5 # 5-25
+715939112,JUNTA DE ACCIÓN COMUNAL VEREDA LOMA GORDA,address,no street type or number,"kept, flagged",LOMA GORDA
+716370283,MEGA - ELECTROREPUESTOS S.A.S.,address,no street type or number,"kept, flagged",CHIQUINQUIRA
+716960612,CUERPO DE BOMBEROS VOLUNTARIOS DE PAIPA,address,no street type or number,"kept, flagged",PLAZA DE MERCADO LC 2 PAIPA
+717120729,LOCINGPRO S.A.S.,address,no street type or number,"kept, flagged","VILLAS DEL MUNDIAL, PORTERÍA C, BLOQUE 4, AP 101"
+717225148,JCA CAMUNICAIONES Y REDES S.A.S.,address,no street type or number,"kept, flagged",VILLA DE LEYVA
+717252357,CONSTRUCCIONES E INVERSIONES A.B.S. S.A.S.,address,no street type or number,"kept, flagged",123
+717404032,ECORCITUR S.A.S.,address,no street type or number,"kept, flagged",AVENIDAD UNIVERSITARIA NO42 A-100
+717410146,MLV CONSTRUCTORA S.A.S.,address,no street type or number,"kept, flagged",VILLA DEL SOL
+718613045,NETTU TELECOMUNICCIONES S.A.S.,address,no street type or number,"kept, flagged",BOYACÁ
+718912512,SERVINSALUD LTDA.,address,no street type or number,"kept, flagged",CLLE 12B # 26-32
+719104572,CATAR CONSTRUCTORES S.A.S.,address,no street type or number,"kept, flagged",CARREA 1F 40 195 OFIC 316
+719428542,FUNDACION CAMINO A UN SUEÑO,address,no street type or number,"kept, flagged",CALLE13 10-04
+719431512,CORPORACION PARA LA PROYECCION SOCIAL DE OTANCHE CORPROSOL,address,no street type or number,"kept, flagged",C R 5 N 3 46 BRR CENTRO
+720119726,SERVICIO VETERINARIOS Y AGROEMPRESARIALES BIOFARVET S.A.S.,address,no street type or number,"kept, flagged",MIRAFLORES
+720127661,MR PROYECTOS Y GESTIÓN,address,no street type or number,"kept, flagged",PLAZA DE BOLIVAR
+720650233,ACCION PUBLICA INTEGRAL S.A.S.,address,no street type or number,"kept, flagged",TRANSEVERSAL 2 # 64 74 BLOQUE 4 AP 302
+720843416,CUERPO DE BOMBEROS DE AQUITANIA,address,no street type or number,"kept, flagged",CENTRO
+721095032,CER CLINICAL IPS S.A.S.,address,no street type or number,"kept, flagged",CENTRO EMPRESARIAL GREEN HILLS OF 325
+721408938,FUNDACION INTERNACIONAL DE AYUDA Y APOYO AL CAMPO COLOMBIANO,address,no street type or number,"kept, flagged",GUAYATA BOYACA
+721530673,MEGAMARKET FWR S.A.S.,address,no street type or number,"kept, flagged",AQUITANIA CENTRO
+721611275,INHCA SOCIEDAD POR ACCIONES SIMPLIFICADA,address,no street type or number,"kept, flagged",CLL25 # 21-18 EDIFICIO CENTRAL PARK-OF 503
+721733541,CARGANDO S.A.S.,address,no street type or number,"kept, flagged",KILOMETRO16 VIA DUITAMA-NOBSA
+721733657,CARGANDO INNOVA S.A.S.,address,no street type or number,"kept, flagged",KILOMETRO16 VIA DUITAMA-NOBSA
+722018579,DEFENSA CIVIL JUNTA PAIPA,address,no street type or number,"kept, flagged",CENTRO DE INTEGRACION CIUDADANA PLAZA DE MERCADO PAIPA
+722084126,JUNTA DE ACCION COMUNAL DE LA REGION PUENTE DE BALSA,address,no street type or number,"kept, flagged",PUENTE DE BALSA
+722148202,JUNTA DE ACCIÓN COMUNAL BARRIO LA PAZ,address,no street type or number,"kept, flagged",DIAGONNAL 25 # 20-26
+722148731,JUNTA DE ACCION COMUNAL SECTOR BELLA VISTA VEREDAS SIRATA Y SAN ANATONIO SUR,address,no street type or number,"kept, flagged",CARREA 1 # 1-05
+722197613,JUNTA DE ACCION COMUNAL MOMBITA SECTOR CUARTEL,address,no street type or number,"kept, flagged",CENTRO
+722198868,JUNTA DE ACCION COMUNAL DEL BARRIO LIBERTADOR DE DUITAMA,address,no street type or number,"kept, flagged",CALLE17 3-24
+722201043,ASOCIACION COMUNAL DE JUNTAS DEL MUNICIPIO DE TIBASOSA,address,no street type or number,"kept, flagged",ALCALDIA MUNICIPAL
+722210796,JUNTA ACCION COMUNAL DEL BARRIO EL PROGRESO,address,no street type or number,"kept, flagged",BRR EL PROGRESO
+722212289,JUNTA DE ACCION COMUNAL CORREGIMIENTO DE PUERTO PINZON,address,no street type or number,"kept, flagged",PUERTO PINZON
+722215092,JUNTA DE ACCION COMUNAL DE LA VEREDA DE HATO VIEJO DEL MUNICIPIO DE SAN MIGUEL DE SEMA,address,no street type or number,"kept, flagged",HATO VIEJO
+722417649,SERVITECA LA 5TA S.A.S.,address,no street type or number,"kept, flagged",CRARRERA 5 # 11-49
+722525078,SEPI LTDA.,address,no street type or number,"kept, flagged",CARREAR 12 20 34
+722608478,CREATE BUSINESS S.A.S.,address,no street type or number,"kept, flagged",VRDA FORANTIVA
+722972098,INVERSIONES APONTE L&A S.A.S.,address,no street type or number,"kept, flagged",AVENIDS NORTE 50 89 OFC 201
+723575197,ANFE OM S.A.S.,address,no street type or number,"kept, flagged",GLORIETA GOBERNADOR
+723733689,ASOCIACION DE ARTES GASTRONOMIA ARTESANIAS CULTURAL ECOLOGICA Y POSTRES,address,no street type or number,"kept, flagged",CASA7
+723781233,DISTRITUC S.A.S.,address,no street type or number,"kept, flagged",TUNJA
+723817474,POWER GRID S.A.S.,address,no street type or number,"kept, flagged",CIUDADELA INDUSTRIAL DE DUITAMA
+723835112,CUERPO DE BOMBEROS VOLUNTARIOS DE SOTAQUIRA,address,no street type or number,"kept, flagged",SOTAQUIRA CENTRO
+723841029,EXPRESS COMBUSTIBLES S.A.S.,address,no street type or number,"kept, flagged",CENTRO
+723894143,AMBIENTE Y SERVICIOS INTEGRALES S.A..S.,address,no street type or number,"kept, flagged",K 10 B BS 35 77
+723969796,ASOCIACION COMUNAL DE JUNTAS,address,no street type or number,"kept, flagged",RAQUIRA-CENTRO
+723983326,ASOCIACION COMUNAL DE JUNTAS DEL MUNICIPIO DE SAN PABLO DE BORBUR,address,no street type or number,"kept, flagged",BRR CENTRO
+723983565,FUNDACIÓN CAMPEONES DE AMOR,address,no street type or number,"kept, flagged",CRA11 N 24-46
+724210018,JUNTA DE ACCION COMUNAL CENTRAL DEL MUNICIPIO DE BOYACA BOYACA,address,no street type or number,"kept, flagged",CENTRO URBANO MUNICIPIO DE BOYACA
+724406269,ASOCIACION DE PRODUCTORES AGROPECUARIOS Y CAMPESINOS DE SANTA CRUZ DE MOTAVITA,address,no street type or number,"kept, flagged",MOTAVITA
+724718077,BOMBEROS VOLUNTARIOS DE OICATÀ,address,no street type or number,"kept, flagged",MUNICIPIO DE OICATÀ CENTRO
+724745294,CUERPO DE BOMBEROS VOLUNTARIOS DE SAN EDUARDO,address,no street type or number,"kept, flagged",SAN EDUARDO-BOYACÁ
+724944194,JUNTA ACCION COMUNAL CENTRAL,address,no street type or number,"kept, flagged",SAN EDUARDO-BOYACÁ
+725135792,JUNTA DE ACCION COMUNAL DEL BARRIO SIMON BOLIVAR,address,no street type or number,"kept, flagged",JUNTA DE ACCION COMUNAL
+725145189,COINTESA,address,no street type or number,"kept, flagged",C R 48 A 7 B 17
+725218069,YIJOTHA S.A.S.,address,no street type or number,"kept, flagged",PAUNA BOYACA
+725350920,ASOCIACIÓN COMUNITARIA SERRANÍA STEREO,address,no street type or number,"kept, flagged",EL COCUY
+725355473,NETWORKING Y TECNOLOGIA THC S.A.S.,address,no street type or number,"kept, flagged",PUERTO BOYACÁ
+725368278,INVERSIONES RC LTDA.,address,no street type or number,"kept, flagged",KM7 VIA SOGAMOSO IZA
+725389456,ASOCIACION DE USUARIOS DEL ACUEDUCTO RURAL COMUNITARIO DE SAN MATEO,address,no street type or number,"kept, flagged",SAN MATEO BOYACÁ
+725594378,GRUPO EMPRESARIAL C&P S.A.S.,address,no street type or number,"kept, flagged",BRR LOS CEREZOZ
+725816052,V&I S.A.S.,address,no street type or number,"kept, flagged",KM2 VIA TOTA CUITIVA
+725840086,JUNTA DE ACCIÓN COMUNAL VEREDA MORCÁ,address,no street type or number,"kept, flagged",CENTRO POBLADO MORCÁ
+726023872,TALLER DE CAPACITACION Y FORMACION FEMENINA DEL VALLE DE TENZA,address,no street type or number,"kept, flagged",GARAGOA
+726037831,CORPORACION COMUNITARIA DIGITAL STEREO CAPITULO DE SIACHOQUE BOYACA,address,no street type or number,"kept, flagged",SIACHOQUE CENTRO
+726168255,FUNDACION ARCABUCO UNIDOS DE CORAZON,address,no street type or number,"kept, flagged",URBANIZACION TEJAR CASA # 6
+726168412,JUNTA DE ACCION COMUNAL VEREDA CHURUVITA DEL MUNICIPIO DE SAMACA,address,no street type or number,"kept, flagged",VERE CHURUVITA
+726231699,ADMINISTRADORA PUBLICA COOPERATIVA EMPRESA SOLIDARIA DE SERVICIOS PUBLICOS DE SAN MATEO E.S.P.,address,no street type or number,"kept, flagged",SAN MATEO BOYACÁ
+726253370,CUERPO DE BOMBEROS VOLUNTARIOS DE BUSBANZA,address,no street type or number,"kept, flagged",BUSBANZA-CENTRO
+726308422,ASOCIACION DE SUSCRIPTORES DEL ACUEDUCTO RIO CHAINA,address,no street type or number,"kept, flagged",ALTO DE LOS MIFUELES
+726320237,CUERPO DE BOMBEROS VOLUNTARIOS DE TOCA,address,no street type or number,"kept, flagged",TOCA BOYACÁ
+726351851,JUNTA VEREDA CARRIZALITO,address,no street type or number,"kept, flagged",EL COCUY
+726356462,COOPERATIVA INTEGRAL TRANSPORTADORES COMBITA LTDA.,address,no street type or number,"kept, flagged",MUNICIPIO DE COMBITA
+726598311,FUNDACION HUELLAS A FUTURO,address,no street type or number,"kept, flagged",CALL1 2B 14
+727024960,PARROQUIA INMACULADA CONCEPCIÓN,address,no street type or number,"kept, flagged",MUNICIPIO OICATA
+727133472,BARRIO LOS ARRAYANES,address,no street type or number,"kept, flagged",BRR ARRAYANES SOGAMOSO
+727202137,JUNTA DE ACCION COMUNAL DE LA VEREDA CHAMEZA,address,no street type or number,"kept, flagged",VEERDA CHAMEZA
+727248379,JUNTA DE ACCION COMUNAL DE LA VEREDA SANTA ROSA DEL MUNICIPIO DE MARIPI BOYACA,address,no street type or number,"kept, flagged",INSPECCIÓN DE SANTA ROSA MARIPI
+727278632,ASOCIACIÓN NACIONAL RURAL DE CULTIVADORES DE FRUTAS,address,no street type or number,"kept, flagged","CONDOMINIO LA ESMERALDA CASA 44-LA FLORESTA MONIQUIRÁ, BOYACÁ"
+727315848,BIOCELS,address,no street type or number,"kept, flagged",CALL4 14 N 9-93
+727336869,ASOPROCVILLA - MERCADO CAMPESINO ALTERNATIVO VILLALEYVANO,address,no street type or number,"kept, flagged",COSTADO ORIENTAL PLAZA DE MERCADO-CENTRO-VILLA DE LEYVA-BOYACÁ
+727465981,JUNTA DE ACCION COMUNAL BARRIO UNIVERSITARIO,address,no street type or number,"kept, flagged",BRR UNIVERSITARIO SOGAMOSO
+727489437,FUNDACION CENTRO NACIONAL DESARROLLO TERRITORIAL,address,no street type or number,"kept, flagged",CARRRERA 8 # 16-22
+727575540,FUNDACION CONSTRUYENDO ANHELOS Y SONRISAS,address,no street type or number,"kept, flagged",CLLE 1 1-34 TIBASOSA
+727649576,JAC CENTRO,address,no street type or number,"kept, flagged",VEERDA CENTRO
+727662827,CLUB DEPORTIVO ATHLETIC SUN,address,no street type or number,"kept, flagged",CARRERA13 # 4-88
+727751026,JAC CENTRAL TURMEQUE,address,no street type or number,"kept, flagged",CENTRO
+727867434,CORPORACION HECHOS EN DEMOCRACIA Y SOCIEDAD,address,no street type or number,"kept, flagged",VERDA TOBA
+727900797,JAC GUSTAVO JIMENEZ MUNICIPIO DE SOGAMOSO,address,no street type or number,"kept, flagged",BRR GUSTAVO JIMENEZ
+727903627,GREEN BIPI S.A.S.,address,no street type or number,"kept, flagged",CARREA 6A # 67-15
+727909756,JUNTA DE ACCION COMUNAL BARRIO LA PRADERA MUNICIPIO DE SOGAMOSO,address,no street type or number,"kept, flagged",BRR LA PRADERA MUNICIPIO DE SOGAMOSO
+728041641,EMPRESA TECNICA AGROPECUARIA S.A.S.,address,no street type or number,"kept, flagged",SALIDA PRINCIPAL VIA SIACHOQUE TUNJA
+728183211,JUNTA DE ACCIÓN COMUNAL DEL BARRIO ASOFAMILIAS II,address,no street type or number,"kept, flagged",BRR ASOFAMILIAS II
+728249939,ASOCIACION DE COMERCIANTES DE PUERTO BOYACA,address,no street type or number,"kept, flagged",KR3 # 9-53
+728371311,FUNDACIÓN DE REFUGIO ANIMAL OPCIÓN DE VIDA,address,no street type or number,"kept, flagged",GARAGOA
+728643636,CLUB DEPORTIVO CHILDRES GYM DE SOGAMOSO,address,no street type or number,"kept, flagged",CALLE36 # 10C-53
+728666280,JUNTA DE ACCION COMUNAL DE LA VEREDA CHUSCAL DEL MUNICIPIO DE UMBITA,address,no street type or number,"kept, flagged",UMBITA
+728779810,SEEDS COLOMBIA,address,no street type or number,"kept, flagged",SAMACÁ
+729011908,FUNDACION BRAZOS ABIERTOS,address,no street type or number,"kept, flagged",CLL27 # 19A93
+729051599,INMERTEX S.A.S.,address,no street type or number,"kept, flagged",CARREARA 7 # 18 56
+729144618,LOGISTICA DE TRANSPORTE Y SUMINISTROS S.A.S.,address,no street type or number,"kept, flagged",CARREA 2 # 6-36
+729150078,CLUB DEPORTIVO TITANES CHEER EVOLUTION,address,no street type or number,"kept, flagged",CA 25 22 30
+729159269,RDR 55 S.A.S.,address,no street type or number,"kept, flagged",CRS 6 7 19
+729171611,NENCA DIGITAL S.A.S.,address,no street type or number,"kept, flagged",BRR PORTAL DE JERUSALEN CA 15 BL G
+729236380,ASOCIACIÓN DE DISCAPACIDAD NUESTRA SEÑORA DE LOURDES,address,no street type or number,"kept, flagged",SAMACÁ BOYACÁ
+729347062,ECA SERVICIOS E INGENIERIA S.A.S.,address,no street type or number,"kept, flagged",SOGAMOSO
+729379891,CLUB DEPORTIVO DE PATINAJE GENESIS,address,no street type or number,"kept, flagged",CALLE23 # 9BIS-17
+729413054,RCOM LTDA.,address,no street type or number,"kept, flagged",CALLLE 4 2-20 CIUDADELA INDUSTRIAL DUITAMA
+729438291,JUNTA DE ACCIÓN COMUNAL DE LA VEREDA DE HOYA GRANDE DEL MUNICIPIO DE SANTA MARIA,address,no street type or number,"kept, flagged",SANTA MARIA
+729439547,JUNTA DE ACCIÓN COMUNAL DE LA VEREDA DE SAN AGUSTIN DEL MUNICIPIO DE SANTA MARIA,address,no street type or number,"kept, flagged",SANTA MARIA
+729612143,AVELLA HURTADO CONSTRUCTORES S.A.S.,address,no street type or number,"kept, flagged",BRR TOMAS ROLDAN CASA 22
+729633115,ASOCIACION CAMPESINA LOS ALERSES,address,no street type or number,"kept, flagged",TIPACOQUE-CENTRO
+729655571,FUNDACION LA MARQUEZA,address,no street type or number,"kept, flagged",CALL1 2B 14
+729712943,TODO HIERRO FERRETERIA S.A.S.,address,no street type or number,"kept, flagged",D 1 103 BRR SAN RAFAEL
+729733402,JUNTA DE ACCIÓN COMUNAL BARRIO EL TRIUNFO DEL MUNICIPIO DE TUNJA DEPARTAMENTO DE BOYACA,address,no street type or number,"kept, flagged",TUNJA
+729823039,JUNTA DE ACCION COMUNAL DE LA VEREDA EL TOBAL DEL MUNICIPIO DE SUSACON,address,no street type or number,"kept, flagged",VEREDATOBAL SUSACON
+729990184,TRANSTIBANA OC,address,no street type or number,"kept, flagged",CARRERA3 6 40
+730155462,AGROTRANS MC S.A.S.,address,no street type or number,"kept, flagged",TUNJA
+730183076,JAC VEREDA GUAYABAL,address,no street type or number,"kept, flagged",VD GUAYBAL
+730217734,JAC CIENEGA GUARUMAL,address,no street type or number,"kept, flagged",CIENEGA GUARUMAL
+730280963,ZEDREH INGENIERIA S.A.S.,address,no street type or number,"kept, flagged",VRDA EL TINTAL
+730348596,FUNDACION MI CASITA PLASTICA,address,no street type or number,"kept, flagged",CENTRO
+730495728,ORGANIZACION COOPERATIVA UMBITANA DE LECHES Y AGROINDUSTRIAL,address,no street type or number,"kept, flagged",UMBITA BOYACA ACOPIO
+730654308,BARRIO LIBERTADOR REAL SOGAMOSO,address,no street type or number,"kept, flagged",BRR LIBERTADOR URBANIZACION REAL
+730681483,JAC 20 DE JULIO,address,no street type or number,"kept, flagged",BRR 20 DE JULIO
+730701141,JAC BARRIO BEJAMIN HERRERA,address,no street type or number,"kept, flagged",BRR BENJAMIN HERRERA MUNICIPIO DE SOGAMOSO
+730701307,JAC BARRIO MAGDALENA MUNICIPIO DE SOGAMOSO,address,no street type or number,"kept, flagged",BRR MAGDALENA MUNICIPIO DE SOGAMOSO
+730703014,JAC PRADO NORTE,address,no street type or number,"kept, flagged",BRR PRADO NORTE
+730703071,JAC BARRIO JORGE ELIECER GAITAN,address,no street type or number,"kept, flagged",BRR JORGE ELIECER GAITAN
+730795283,FUNDACION NECGTAR,address,no street type or number,"kept, flagged",PUEBLITO BOYACENSE COCUY 9 11
+730796299,ASOGSAM,address,no street type or number,"kept, flagged",VERDA DE PATAGUY SAMACA
+730973922,JAC ARADA GRANDE,address,no street type or number,"kept, flagged",GARAGOA
+731106340,OBRAS Y PROYECTOS ALPHA,address,no street type or number,"kept, flagged",CARREA 12 # 12C-09
+731283453,JUNTA DE ACCION COMUNAL BARRIO EL BOSQUE,address,no street type or number,"kept, flagged",GARAGOA
+731308045,CORPORACION COMUNITARIA RADIO BELLO HORIZONTE DE PESCA,address,no street type or number,"kept, flagged",PESCA
+731349627,ASOCIACIÓN AVÍCOLA DE NOBSA,address,no street type or number,"kept, flagged",PARQUE PRINCIPAL DE NOBSA
+731356200,CONCAES S.A.S.,address,no street type or number,"kept, flagged",CARRRERA 3 # 16-42
+731504361,CORPORACION CREZCAMOS CON AMOR Y OBJETIVIDAD SOCIAL,address,no street type or number,"kept, flagged",TORRE 8 201 URB LOS PINOS
+731511804,JUNTA DE ACCION COMUNAL BARRIO LAGUITO,address,no street type or number,"kept, flagged",BRR LAGUITO MUNICIPIO DE SOGAMOSO
+731581344,BARRIO LA CASTELLANA SOGAMOSO,address,no street type or number,"kept, flagged",BRR LA CASTELLANA SOGAMOSO
+731690293,NIRO INGENIEROS Y ARQUITECTOS,address,no street type or number,"kept, flagged",CLL11A 32 20
+731691580,JAC BARRIO OLAYA HERRERA MUNICIPIO DE SOGAMOSO,address,no street type or number,"kept, flagged",BRR OLAYA HERRERA
+731982195,H&G INGENIERIA Y CONSTRUCCIONES S.A.S.,address,no street type or number,"kept, flagged",AVCOLON11-50
+732069596,JAC BARRIO ANGELMAR MUNICIPIO DE SOGAMOSO,address,no street type or number,"kept, flagged",BRR ANGELMAR SOGAMOSO
+732071683,JUNTA DE ACCION COMUNAL CHUSVITA,address,no street type or number,"kept, flagged",CHUSVITA
+732088208,JAC BARRIO UNIVERSITARIO,address,no street type or number,"kept, flagged",BRR UNIVERSITARIO
+732140058,JAC BARRIO LA VILLITA,address,no street type or number,"kept, flagged",BRR LA VILLITA MUNICIPIO DE SOGAMOSO
+732159199,JUNTA DE ACCION COMUNALSAN JOSE DE PARPA,address,no street type or number,"kept, flagged",SAN JOSE DE PARPA
+732186812,CONSTRUCTORES Y CONSULTORES ELECTRO RIMVOL S.A.S.,address,no street type or number,"kept, flagged",FICA LA RESERVA EL VOLCAN PAIPA
+732226501,JAC BARRIO MONQUIRA,address,no street type or number,"kept, flagged",BRR MONQUIRA MUNICIPIO DE SOGAMOSO
+732240080,JAC BARRIO VILLA DEL SOL,address,no street type or number,"kept, flagged",BRR VILLA DEL SOL SOGAMOSO
+732245196,JAC BARRIO LAS AMERICAS,address,no street type or number,"kept, flagged",BRR LAS AMERICAS
+732295464,GREEN TRACK S.A.S.,address,no street type or number,"kept, flagged",MK 1 VIA LA UVITA
+732351192,SILMAR S.A.S.,address,no street type or number,"kept, flagged",GARAGOA CENTRO
+732354956,D & V PROFESSIONAL GROUP S.A.S.,address,no street type or number,"kept, flagged",TUNJA
+732386115,JAC BARRIO DURAZNO,address,no street type or number,"kept, flagged",BRR EL DURAZNO
+732392535,JAC BARRIO LOS ALISOS,address,no street type or number,"kept, flagged",MUNICIPIO DE SOGAMOSO
+732441126,JAC RESGUARDO MOCHILERO,address,no street type or number,"kept, flagged",GARAG
+732700414,ASOCIACION DE PERIODISTAS DE BOYACA,address,no street type or number,"kept, flagged",TRANSVERAL 17A # 32-36 BRR FUENTE II ETAPA
+732705439,IMPROMAR S.A.S.,address,no street type or number,"kept, flagged",RAMIRIQUI BOYACA
+732966486,JUNTA DE ACCION COMUNAL BARRIO CORTEZ,address,no street type or number,"kept, flagged",BRR CORTEZ MUNICIPIO DE SOGAMOSO
+732997895,JAC BARRIO SUCRE MUNICIPIO DE SOGAMOSO,address,no street type or number,"kept, flagged",BRR SUCRE MUNICIPIO DE SOGAMOSO
+733042287,SOLARES Y SUMINISTROS S.A.S.,address,no street type or number,"kept, flagged",CENTRO COMERCIAL GREEN HILLS BL C P3LC8VDA PIRGUA
+733458921,ASOCIACION DE VICTIMAS DEL CONFLICTO ARMADO DEL MUNICPIO DE SOCHA,address,no street type or number,"kept, flagged",SOCHA
+733545834,JUNTA DE ACCION COMUNAL URBANIZACION RINCON DE LA ALAMEDA DEL MUNICIPIO DE BELEN,address,no street type or number,"kept, flagged",MUNICIPIO DE BELEN
+733585137,ASOCIACION COMUNAL DE JUNTAS DEL MUNICIPIO DE SAN MATEO BOYACA,address,no street type or number,"kept, flagged",SAN MATEO
+733641005,SOCIACION DE JUNTAS DE ACCION COMUNAL DEL MUNICIPIO DE PESCA BOYACA,address,no street type or number,"kept, flagged",PESCA BOYACA
+733676308,JAC DE LA VEREDA DE CUSAGOTA,address,no street type or number,"kept, flagged",SALON COMUNA VERDA CUSAGOTA
+733677629,"ASOCIACION DE JUNTAS DE ACCION COMUNAL DEL MUNICIPIO DE ZETAQUIRA, DEPARTAMENTO DE BOYACA",address,no street type or number,"kept, flagged",ZETAQUIRA
+733677736,JUNTA DE ACCION COMUNAL VEREDA RUNTA DE JUNTA,address,no street type or number,"kept, flagged",TUNJA
+733683239,JUNTA DE ACCION COMUNAL VEREDA CIELO ROTO DEL MUNICIPIO DE PUERTO BOYACÁ,address,no street type or number,"kept, flagged",PUERTO BOYACÁ
+733683346,JUNTA DE ACCION COMUNAL DEL SECTOR LAJAS VEREDA SUSE DEL MUNICIPIO DE AQUITANIA,address,no street type or number,"kept, flagged",AQUITANIA
+733686349,JUNTA DE ACCION COMUNAL VEREDA MARCURA DEL MUNICIPIO DE PAIPA,address,no street type or number,"kept, flagged",PAIPA
+733688683,JUNTA DE ACCION COMUNAL DE LA VEREDA DE SALAMANCA DEL MUNICIPIO DE SAMACA,address,no street type or number,"kept, flagged",SAMACÁ
+733689038,JUNTA DE ACCION COMUNAL VEREDA RINCON DE ESPAÑOLES DEL MUNICIPIO DE PAIPA,address,no street type or number,"kept, flagged",PAIPA
+733689616,JUNTA DE ACCION COMUNAL DE LA VEREDA EL QUITE DEL MUNICIPIO DE SAMACA,address,no street type or number,"kept, flagged",SAMACÁ
+733690135,JUNTA DE ACCION COMUNAL VEREDA DE CAÑOS DEL MUNICIPIO DE PAIPA,address,no street type or number,"kept, flagged",PAIPA
+733691422,ASOCIACION COMUNAL DE JUNTAS DEL MUNICIPIO DE RAMIRIQUI DEPARTAMENTO DE BOYACA,address,no street type or number,"kept, flagged",RAMIRIQUI
+733693089,JUNTA DE ACCION COMUNAL DE LA VEREDA DE PASTOREROS DEL MUNICIPIO DE PAIPA,address,no street type or number,"kept, flagged",PAIPA
+733696132,"JUNTA DE ACCIÓN COMUNAL DE LA VEREDA PIE DE PEÑA DEL MUNICIPIO DE PACHAVITA, DEPARTAMENTO DE BOYACÁ",address,no street type or number,"kept, flagged",PACHAVITA
+733697155,"JUNTA DE ACCION COMUNAL DE LA VEREDA HATO GRANDE DEL MUNICIPIO DE PACHAVITA, DEPARTAMENTO DE BOYACA",address,no street type or number,"kept, flagged",PACHAVITA
+733697163,JUNTA DE ACCION COMUNAL VEREDA CHURUVITA SECTOR SANTO DOMINGO - DESAGUADERO DEL MUNICIPIO DE SAMACA,address,no street type or number,"kept, flagged",SAMACÁ
+733699060,JUNTA DE ACCION COMUNAL VEREDA CENTRO DEL MUNICIPIO DE PACHAVITA DEPARTAMENTO DE BOYACA,address,no street type or number,"kept, flagged",PACHAVITA
+733699078,ASOCIACIÓN DE JUNTAS DE ACCIÓN COMUNAL DEL MUNICIPIO DE MONGUI,address,no street type or number,"kept, flagged",MONGUI
+733742340,JUNTA DE ACCIÓN COMUNAL DEL BARRIO MONSERRATE DEL MUNICIPIO DE SAMACÁ - DEPARTAMENTO DE BOYACÁ,address,no street type or number,"kept, flagged",BRR MONSERRATE EN SAMACÁ BOYACÁ
+733757785,CONSTRUCCIONES EL TRIANGULO CIA LTDA.,address,no street type or number,"kept, flagged",CONDOMINIO BOSQUES DEL MAYORAZGO
+733760599,AUTOREPUESTOS LOPEZ S.A.S.,address,no street type or number,"kept, flagged",CARRRERA 15 # 9-64
+733775399,ASOCIACION DE JUNTAS DE ACCION COMUNAL DEL MUNICIPIO DE COMBITA,address,no street type or number,"kept, flagged",DEPARAMENTO DE BOYAVA MUNICIPIO DE COMBITA
+733811194,CIVISUM,address,no street type or number,"kept, flagged",CARRER 5 3 20
+733888077,"JUNTA DE ACCIÓN COMUNAL DE LAS VEREDAS MEDIOS Y SAN FERNANDO DEL MUNICIPIO DE BERBEO, DEPARTAMENTO DE BOYACÁ",address,no street type or number,"kept, flagged",BERBEO
+733918155,JUNTA DE ACCION COMUNAL DE LA VEREDA TOBA DEL MUNICIPIO DE CERINZA,address,no street type or number,"kept, flagged",CERINZA
+733919005,JUNTA DE ACCION COMUNAL VEREDA EL TUNAL DEL MUNICIPIO DE PAIPA,address,no street type or number,"kept, flagged",PAIPA
+733923163,JUNTA DE ACCION COMUNAL DE LA VEREDA EL SALITRE SECTOR SAN JOSE DEL MUNICIPIO DE PAIPA,address,no street type or number,"kept, flagged",PAIPA
+733947683,"JUNTA DE ACCION COMUNAL VEREDA DE QUIGUA ABAJO DEL MUNICIPIO DE GARAGOA, DEPARTAMENTO DE BOYACA",address,no street type or number,"kept, flagged",QUIGUA ABAJO DEL MUNICIPIO DE GARAGOA
+733948376,JUNTA DE ACCIÓN COMUNAL DE LA VEREDA DE CALDERA ABAJO DE GARAGOA,address,no street type or number,"kept, flagged",GARAGOA BOYACA
+734001340,JUNTA DE ACCION COMUNAL DE LA VEREDA DE GUAMAL CORREGIMIENTO DE LOS CEDROS,address,no street type or number,"kept, flagged",CAMPOHERMOSO
+734005085,JAC BARRIO SANTA INES SOGAMOSO,address,no street type or number,"kept, flagged",BRR SANTA INES SOGAMOSO
+734050982,"JUNTA DE ACCION COMUNAL DE LA VEREDA DE SAN VICENTE DEL MUNICIPIO DE CIENEGA, DEPARTAMENTO DE BOYACA",address,no street type or number,"kept, flagged",CIENEGA
+734052426,JUNTA DE ACCIÓN COMUNAL DE LA VEREDA PIEDRA LARGA DEL MUNICIPIO DE CIENEGA DEPARTAMENTO DE BOYACÁ,address,no street type or number,"kept, flagged",CIENEGA
+734052525,JUNTA DE ACCION COMUNAL VEREDA DE ALBAÑIL DEL MUNICIPIO DE CIENEGA,address,no street type or number,"kept, flagged",CIENEGA
+734083108,"JUNTA DE ACCION COMUNAL VEREDA CALABAZAL DEL MUNICIPIO DE CIENEGA, DEPARTAMENTO DE BOYACA",address,no street type or number,"kept, flagged",CIENEGA
+734083199,JUNTA DE ACCION COMUNAL DE LA VEREDA LA LIBERTAD DEL MUNICIPIO DE SAN EDUARDO,address,no street type or number,"kept, flagged",SAN EDUARDO
+734132921,JUNTA DE ACCION COMUNAL VEREDA DE SAN ISIDRO DEL MUNICIPIO DE BOAVITA,address,no street type or number,"kept, flagged",BOAVITA
+734134844,JUNTA DE ACCION COMUNAL DE LA VEREDA DE SAN PABLO DEL MUNICIPIO DE SAN EDUARDO,address,no street type or number,"kept, flagged",SAN EDUARDO
+734150048,TERRALINK INGENIERIA & AMBIENTE S.A.S.,address,no street type or number,"kept, flagged",CO-BOY-15808-TINJACÁ
+734160211,ASOCIACION DE COMERCIALIZADORES DE GANADO Y CARNE DE CUBARA,address,no street type or number,"kept, flagged",CL PRINCIPAL PLAZA DE MERCADO
+734213861,JUNTA DE ACCION COMUNAL DE LA VEREDA SEGUNDA CHORRERA SECTOR RIO MOLINERO - AZUFRE DEL MUNICIPIO DE SOGAMOSO,address,no street type or number,"kept, flagged",SOGAMOSO
+734226640,JUNTA DE ACCIÓN COMUNAL VEREDA EL TABLON,address,no street type or number,"kept, flagged",LABRANZAGRANDE BOYACA
+734322191,JUNTA DE ACCION COMUNAL VEREDA CHORRERA MEDIO,address,no street type or number,"kept, flagged",CHORRERA MEDIO
+734322829,ASOCIACION DE JUNTAS DE ACCION COMUNAL DEL MUNICIPIO DE TASCO,address,no street type or number,"kept, flagged",MUNICIPIO DE TASCO
+734335946,ASOCIACION COMUNAL DE JUNTAS DEL MUNICIPIO DE SORACA,address,no street type or number,"kept, flagged",MUNICIPIO DE SORACA
+734442551,JUNTA DE ACCION COMUNAL DE LA VEREDA DE SAN JOSE,address,no street type or number,"kept, flagged",TOPAGA
+734504152,ASOCIACION DE JUNTAS DE ACCION COMUNAL DEL MUNICIPIO DE SANTA SOFIA,address,no street type or number,"kept, flagged",SANTA SOFIA
+734583164,"JUNTA DE ACCION COMUNAL DE LA VEREDA DE EL ABEJON DEL MUNICIPIO DE SAMACA, DEPARTAMENTO DE BOYACA",address,no street type or number,"kept, flagged",EL ABEJON SAMACA
+734668213,JUNTA DE ACCIÓN COMUNAL DE LA VEREDA CIENEGA TABLON SECTOR ARRIBA,address,no street type or number,"kept, flagged",GARAGOA
+734683766,GRUPO MHAR S.A.S.,address,no street type or number,"kept, flagged",CARRETERA CENTRAL 30-102
+734858145,JUNTA DE ACCION COMUNAL DE LA VEREDA DE TRAVIEZAS DEL MUNICIPIO DE TOPAGA,address,no street type or number,"kept, flagged",TOPAGA
+734861347,JUNTA DE ACCION COMUNAL DE LA VEREDA EL RETIRO,address,no street type or number,"kept, flagged",PAIPA
+734873078,JUNTA DE ACCION COMUNAL DE LA VEREDA LA VENTA SECTOR TENERIA DEL MUNICIPIO DE BELEN,address,no street type or number,"kept, flagged",BELEN
+734985146,JUNTA DE ACCIÓN COMUNAL VEREDA TOQUECHA,address,no street type or number,"kept, flagged",TOTA
+734990336,JUNTA DE ACCIÓN COMUNAL DE LA VEREDA SAN JOSE DE LA MONTAÑA DEL MUNICIPIO DE BELEN,address,no street type or number,"kept, flagged",BELEN
+734990914,JUNTA DE ACCION COMUNAL VEREDA DE MEDIOS DEL MUNICIPIO DE PAIPA,address,no street type or number,"kept, flagged",PAIPA
+734998438,JUNTA DE ACCION COMUNAL DE LA VEREDA DE TOCABITA DEL MUNICIPIO DE FLORESTA,address,no street type or number,"kept, flagged",FLORESTA
+734999352,JUNTA DE ACCION COMUNAL VEREDA DE CHORRERA BAJO SECTOR CORE DEL MUNICIPIO DE FLORESTA,address,no street type or number,"kept, flagged",FLORESTA
+735000606,JUNTA DE ACCION COMUNAL VEREDA LA PUERTA DEL MUNICIPIO DE FLORESTA,address,no street type or number,"kept, flagged",FLORESTA
+735049850,JUNTA DE ACCION COMUNAL DE LA VEREDA DE HORNO Y VIVAS PARTE ALTA DEL MUNICIPIO DE FLORESTA,address,no street type or number,"kept, flagged",FLORESTA
+735052565,JUNTA DE ACCION COMUNAL DE LA VEREDA DE TUNJUELO DEL MUNICIPIO DE MONGUA,address,no street type or number,"kept, flagged",MONGUA
+735087926,JUNTA DE ACCION COMUNAL DE LA VEREDA DE ROSAL DEL MUNICIPIO DE SORACA,address,no street type or number,"kept, flagged",SORACA BOYACA
+735329542,"JUNTA DE ACCION COMUNAL DE LA VEREDA MERCHAN DEL MUNICIPIO DE SABOYA, DEPARTAMENTO DE BOYACA",address,no street type or number,"kept, flagged",SABOYA
+735354532,JUNTA DE ACCION COMUNAL VEREDA TUNJITA,address,no street type or number,"kept, flagged",VEREDAD TUNJITA
+735358723,JUNTA DE ACCIONCOMUNAL DEL CASERIO DE LA MESETA GRANDE DEL MUNICIPIO DE CHISCAS,address,no street type or number,"kept, flagged",CASERIO DE LA MESA
+735364143,JUNTA DE ACCION COMUNAL VEREDA RESGUARDO DEL MUNICIPIO DE SABOYA,address,no street type or number,"kept, flagged",SABOYA
+735388514,"JUNTA DE ACCION COMUNAL SECTOR GUAMAL , DENTRO DE LA VEREDA USAMENA DEL MUNICIPIO DE PAJARITO",address,no street type or number,"kept, flagged",PAJARITO
+735546129,WINMAK SJ S.A.S.,address,no street type or number,"kept, flagged",DG2 # 1-77
+735595126,INTEGRAL SOLUCIONES DIPAE S.A.S.,address,no street type or number,"kept, flagged",JUAN GRANDE
+735640245,IPCA S.A.S.,address,no street type or number,"kept, flagged",VD LAS TAPIAS
+735785073,DIALOVA S.A.S.,address,no street type or number,"kept, flagged",JONNATAN GUTIERREZ
+735808032,DHISMO S.A.S.,address,no street type or number,"kept, flagged",TRANVERSAL 15 20 58
+736172529,GRUCORLAA S.A.S.,address,no street type or number,"kept, flagged",D 2 # 12-49 BRR JARDIN NORTE
+736350620,SOLUCIONES CONSTRUCTIVAS EL TITÁN,address,no street type or number,"kept, flagged",TRANVERSAL 3 # 60-50
+736467598,CUBIDES CONSTRUCCION E INGENIERIA S.A.S.,address,no street type or number,"kept, flagged",CLL16 # 13-60
+736572041,SINERGIA JC INGENIERIA S.A.S.,address,no street type or number,"kept, flagged",CLL15N30-17
+737556886,NEOINGENIERIA TECH S.A.S.,address,no street type or number,"kept, flagged",CARRERRA 46 # 18A-18 JUAN GRANDE
+737571596,FUNDACIÓN SOCIOCULTURAL BRÚJULA,address,no street type or number,"kept, flagged",BRR BOLIVAR
+737837286,EBEN EZER COMPANY S.A.S.,address,no street type or number,"kept, flagged",SAN MARTIN
+737943332,RED DE ALIADOS PARA LA PROSPERIDAD CONVIVENCIA Y SEGURIDAD CIUDADANA DEL MUNICIPIO DE VILLA DE LEYVA EN EQUIPO POR LA SEGURIDAD,address,no street type or number,"kept, flagged",CASA DE JUSTICIA VILLA DE LEYVA
+738202126,ASOPMAGAR,address,no street type or number,"kept, flagged",BRR CENTRO
+700367048,ALBORAUTOS S.A.S.,municipality,municipality missing,"kept, flagged",
+701642464,EDS ANTONIO GNV S.A.S.,municipality,municipality missing,"kept, flagged",
+702138504,ARH,municipality,municipality missing,"kept, flagged",
+702376799,CVL INGENIERIA S.A.S.,municipality,municipality missing,"kept, flagged",
+702451014,CLUB DEPORTIVO BOYACA,municipality,municipality missing,"kept, flagged",
+703133033,LIGA DE BOXEO DE BOYACA,municipality,municipality missing,"kept, flagged",
+703238071,CIMED - CENTRO DE IMÁGENES DIAGNÓSTICAS S.A.S.,municipality,municipality missing,"kept, flagged",
+703782607,SERVIMOREL LTDA.,municipality,municipality missing,"kept, flagged",
+703786905,COMFABOY,municipality,municipality missing,"kept, flagged",
+703951293,CLINICA ODONTOLOGICA ORTOSONRIA ESTETICA DENTAL S.A.S.,municipality,municipality missing,"kept, flagged",
+703956227,INCOMYL,municipality,municipality missing,"kept, flagged",
+703964080,"FUNDACIÓN PARA EL APOYO DEL DEPORTE, LA CULTURA, EL ARTE Y LA RECREACIÓN EN COLOMBIA",municipality,municipality missing,"kept, flagged",
+703995415,SERVICIO DE VIGILANCIA BOYACA LTDA.,municipality,municipality missing,"kept, flagged",
+704005016,FUNGERVIDE,municipality,municipality missing,"kept, flagged",
+704059617,AGENCIA DE VIAJES Y TURISMO YETITOUR S.A.S.,municipality,municipality missing,"kept, flagged",
+704093350,INDUSTRIAS JAICO S.A.S.,municipality,municipality missing,"kept, flagged",
+704365592,COMPANY MEDIQBOY OC S.A.S.,municipality,municipality missing,"kept, flagged",
+704393479,CLINIC-SALUD IPS,municipality,municipality missing,"kept, flagged",
+704574615,ANALIZAR LTDA.,municipality,municipality missing,"kept, flagged",
+704632546,SERINGMA S.A.S.,municipality,municipality missing,"kept, flagged",
+704663186,PADINCOL S.A.S.,municipality,municipality missing,"kept, flagged",
+704758432,ASOGOTAS DE AGUA,municipality,municipality missing,"kept, flagged",
+705397354,DIMACOR SOLUCIONES INTEGRALES S.A.S.,municipality,municipality missing,"kept, flagged",
+706114592,COOPERATIVA DE TRABAJO ASOCIADO CUBARA - BOYACA,municipality,municipality missing,"kept, flagged",
+706159555,IPS OXI CARE S.A.S.,municipality,municipality missing,"kept, flagged",
+706889607,ASOCIACIÓN DE AUTORIDADES TRADICIONALES Y CABILDOS U'WA,municipality,municipality missing,"kept, flagged",
+707170452,MERCADEO COLOMBIA S.A.S.,municipality,municipality missing,"kept, flagged",
+707639332,PROYECTOS E INVERSIONES GESDA INGENIERIAS S.A.S.,municipality,municipality missing,"kept, flagged",
+707688719,SOCIEDAD CLINICA BOYACA S.A.S.,municipality,municipality missing,"kept, flagged",
+707711057,FUNDACION PARA LA ATENCION DE PRIMERA INFANCIA Y EMPRESARIAL,municipality,municipality missing,"kept, flagged",
+700161037,MEDRANO ASESORES S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+700906118,CORPORACIÓN ACCIÓN CIUDADANA COLOMBIA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+702428061,DISTRICOM S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+702478025,CIA INGENIERÍA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+702946013,DEV.CONSULTORIAS Y PROYECTOS,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+703340182,SAGAX INGENIERÍA S.A.S. BIC,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+703867390,FUNBO,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+703959221,INVERSIONES Y CONSTRUCCIONES DE ORIENTE SOCIEDAD LTDA.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+704310473,MEDISERSUM C&P S.A.S.,registry,registration not renewed for 2026 (last renewal 2020),flagged,
+704639285,MEDIFAR SUMINISTROS FARMACEUTICOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+704678499,CPD INGENIERIA LTDA.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+704863117,FUNDACION CREAMOS COLOMBIA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+705028710,CONSTRU-INGEN S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+705195790,DEINPRO S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+705691988,CORPORACION SOCIOCULTURAL UNIENDO CORAZONES,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+707169553,WOW PUBLICIDAD,registry,registration not renewed for 2026 (last renewal 2019),flagged,
+707180139,SAGA CL S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+707233185,&SOURCE,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+707305108,VRAVA INVERSIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+707402756,BIFROST AC INGENIERIA,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+708461520,SOLUCIONES INTEGRALES J&D CONSTRUCCIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+708954359,REMA SOLUCIONES,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+709787949,SOLUCIONES INDUSTRIALES R&M S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+709854582,PEH CONSTRUCCIONES,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+711184432,SION OBRAS Y CONSULTORIAS S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+711358739,FDP,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+711385674,CORPORACION ALMATEATRO,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+711388215,CORPORACIÓN FILARMÓNICA ORQUESTA LA FILARMÓNICA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+711513465,DE ALTA BIOINGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+711689059,PERFIALUM,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+711852459,SERVICIOS PROFESIONALES DE INGENIERÍA CIVIL CONSULTORÍA AUDITORIA,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+712375534,TORAL CONSTRUCTORES Y CONSULTORES S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+712461763,ORGANIZACION C.S. EMPRESARIAL S.A.S. OCSE S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+712546316,CONSTRUCCIONES CIVILES C Y G S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+712587724,AL INGENIEROS S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+712603224,DISAUTOS,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+712645126,3S SALUD SOCIAL SOLUCIONES SERVICIOS Y SUMINISTROS S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+712693290,INGENIERIA DE CAMINOS SEGUROS S.A.S.,registry,registration not renewed for 2026 (last renewal 2021),flagged,
+712797638,MC SOLUCIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2021),flagged,
+712803071,COMPAÑIA DE INGENIERIA Y TECNOLOGIA DE COLOMBIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+712818152,ACCOUNTS S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+712831759,FUNDACION PARA EL DESARROLLO SOCIAL CIPRES,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+712879410,INGEN&ARQ S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+712897693,FUNDACIÓN PARA EL BIENESTAR SOCIAL D&T,registry,registration not renewed for 2026 (last renewal 2020),flagged,
+712986082,INGENIERIA MAQUINARIA ASESORIA Y SERVICIOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+713100089,LOGISTICA INTEGRAL OCETA S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+713163038,DISEÑOS Y MONTAJES THC S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+713163095,GRUPO ESPECIALIZADO EN SOLUCIONES MULTIACTIVAS,registry,registration not renewed for 2026 (last renewal 2021),flagged,
+713169209,UMAÑA PROYECTOS Y COSNTRUCCION S.A.S.,registry,registration not renewed for 2026 (last renewal 2021),flagged,
+713255701,ESPINO S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+713288314,INVERSIONES RVF LTDA.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+713291029,CONSTRUCCIONES SOL W S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+713339075,INGENIERIA Y SOLUCIONES AMBIENTALES INGENSA S.A.S.,registry,registration not renewed for 2026 (last renewal 2021),flagged,
+713343085,DINCOSSH&B S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+713355998,J.L.A SERVINTEGRALES S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+713360030,SOCIEDAD ESTRATEGICA DE PROYECTOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2021),flagged,
+713376465,R&A CONSULTORES Y CONSTRUCTORES S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+713438562,BIOEXCOL SOCIEDAD POR ACCIONES SIMPLIFICADAS,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+713454635,INGENIERIA PMA DISEÑO & CONSTRUCCION S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+713497428,UNION TEMPORAL VIAS RONDON,registry,registration not renewed for 2026 (last renewal 2018),flagged,
+713617744,N.S GESTION EMPRESARIAL S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+713618106,MPA INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+713658201,CORPORACION AGENCIA DE DESARROLLO ECONOMICO LOCAL DE LA REGION DEL ALTO RICAURTE DEL DEPARTAMENTO DE BOYACA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+713680080,COOPERATIVA DE TRABAJO ASOCIADO ACOSERVICIOS,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+713701019,CORPORACION CENTRO ESTUDIOS PUBLICOS Y ADMINISTRATIVOS - CEPA ASESORES Y CONSULTORES,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+713714228,MERGE NETWORKS S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+713727543,NCT COMUNICACIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+713732162,G&M PROYECTOS Y SOLUCIONES INTEGRALES S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+713833432,M&M CLEAN SERVICES S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+713962074,GRANJA APICOLA DEL BISABUELO EMILIO S.A.S.,registry,registration not renewed for 2026 (last renewal 2021),flagged,
+713962256,INVERSIONES ESTATALES S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+714054962,PROJECT CIVIL S.A.S.,registry,registration not renewed for 2026 (last renewal 2021),flagged,
+714191483,CIM S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+714240959,CSM SOLUCIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+714244431,ECONSTRUCCIONES EFICIENTES S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+714259041,SOLUCIONES EMPRESARIALES EN CONSTRUCCIÓN CONSULTORÍA Y SUMINISTRO LIMITADA,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+714301520,BCC INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+714320280,DE LA PEÑA GROUP S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+714449071,P&M ENTERPRISES S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+714530128,YEAR ELECTRIC S.A.S.,registry,registration not renewed for 2026 (last renewal 2021),flagged,
+714532413,TRAMITES ASESORIAS SERVICIOS Y CONSULTORIAS S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+714695780,GRUPO PMA S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+714696549,CONSTRUYENDO ASOCIADOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+714696689,LC CONSTRUCCIONES & PROYECTOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+714775798,IMPERIOS PLUS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+714787827,FUNDACION ARTÍSTICA Y CULTURAL TIERRA DE BUENA Y CLARA LUNA,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+714809423,GESCAMER INGENIERIA Y ASESORIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+714904646,L A STAMPA S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+714931250,CLEAN LINESS COMPANY S.A.S.,registry,registration not renewed for 2026 (last renewal 2021),flagged,
+714982451,SEGMAC SERVICIOS INTEGRALES S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+715001129,GISI S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+715040028,GRUPO FONTANA IPS,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+715059879,PRODUCTOS INMOBILIARIOS Y DE CONSTRUCCION COBER S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+715136784,SERVICIO MANTENIMIENTO Y COMERCIALIZACION TOTAL S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+715161105,ASREFRIGERACION S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+715163929,INGENIERIA URAPAN,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+715215281,PREFABRICADOS DEL SOL S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+715287363,EL PINTOR PS DISTRIBUCIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+715290045,ENGICONS CONSTRUCCIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+715440962,SERVICIOS LATINOS LTDA.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+715450433,"FUNDACION PARA EL CRECIMIENTO Y EMPODERAMIENTO, APOYO PARA EMPRENDEDORES, LA CULTURA, EL ARTE Y LA RECREACION EN COLOMBIA",registry,registration not renewed for 2026 (last renewal 2023),flagged,
+715544557,3MA S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+715562443,FENIX ALLIANCE S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+715617346,ASOCIACION CRISTIANA DE JOVENES DE PUERTO BOYACA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+715632030,FUNDACIÓN NATUFAUNA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+715641668,BUSINESS TECNOLOGIA & COMUNICACIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+715712402,MUÑOZ MELO Y CIA S. EN C.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+715764502,ILUMINACION.CO S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+715780607,GPM MANTENIMIENTOS Y MONTAJES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+715803359,FIRST LIFE ONG,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+715852315,CREATIVA LIGHT INTERNATIONAL,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+715884045,INVERSIONES INNOVA M&S S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+715885067,INGARQ CONSTRUCCION Y SUMINISTROS S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+715909404,AAA EVENTO Y MONTAJE S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+716006036,SC INGENIERÍA SOSTENIBLE S.A.S.,registry,registration not renewed for 2026 (last renewal 2021),flagged,
+716021779,SOFED S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+716081658,"SIGSALUD INSTITUCION PRESTADORA DE SERVICIOS DE SALUD, SOCIEDAD POR ACCIONES SIMPLIFICADAS",registry,registration not renewed for 2026 (last renewal 2024),flagged,
+716091277,INGENIEROS ASOCIADOS JRG S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+716112859,BUTECHCO S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+716223474,COMERCIALIZADORA GAM@.NET LTDA.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+716234596,CORPORACION DE COMISARIOS Y OFICIALES DE CICLISMO DE BOYACA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+716470307,QUIMERA CENTRAL DE DOTACIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+716932165,ORGANIZACION NO GUBERNAMENTAL FUTURO VERDE,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+716993829,GARCIA CIFUENTES ASOCIADOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+717114060,W&M SERVICIOS INTEGRALES S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+717118046,DOTACIONES GROUP COL. S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+717205215,AVITAR CONSTRUCTORA E INMOBILIARIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+717252357,CONSTRUCCIONES E INVERSIONES A.B.S. S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+717254650,GAIA TECH S.A.S. BENEFICIO INTERES COLECTIVO - BIC,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+717324156,CONSTRUCCIONES INGENIAR MR S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+717404032,ECORCITUR S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+717424675,FUNDACION FAMITAR,registry,registration not renewed for 2026 (last renewal 2021),flagged,
+717490221,C&G INGENIERIA GLOBAL S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+717560148,ASESORIA Y GESTION GROUP CENTRO DE SOLUCIONES INTEGRALES S.A.S. BIC,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+717713085,BROMCIV S.A.S.,registry,registration not renewed for 2026 (last renewal 2020),flagged,
+717733125,ENTHEOS INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+717750855,TERRATEC INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+717765218,G&L S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+717813794,AB CONSULTORÍA & CONSTRUCCIÓN S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+717835250,SERVICIOS FUNERARIOS DE BOYACA,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+717881445,INSUSERVICIOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+717971295,JC SERVICES,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+717978159,FUNDACION PARA EL DESARROLLO Y ACCION SOCIAL,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+717988406,VISA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+718019425,MARFOKAT CONSTRUCCIONES Y CONSULTORIAS S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+718057664,MULTIMEDIOS BOYACA,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+718094600,INSOL INGENIERIA Y SOLUCIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+718119332,FUNDACION ASESOREMOS EN SALUD R&O,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+718120314,GRUPO EMPRESARIALG&R S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+718196132,ASOCIACION DE DEPORTES ECUESTRES Y VAQUERIA EN BOYACA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+718352248,EMOVAR S.A.S.,registry,registration not renewed for 2026 (last renewal 2021),flagged,
+718382179,INGENIERIA ESPECIALIZADA AQUATERRA S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+718528029,CONSTRUCTORA SURICH S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+718553613,D&E ASESORES CONSULTORES CONSTRUCTORES Y PROVEEDORES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+718564529,INDUSTRIAS CHASSIS TRUCK S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+718583131,"SUMINISTROS, CONSTRUCCIONES Y MANTENIMIENTO S.A.S.",registry,registration not renewed for 2026 (last renewal 2024),flagged,
+718629033,G&G INGENIERIA GARCIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+718658727,INVERSIONES TRANSPORTAR DE COLOMBIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+718736630,CONSTRUCCIONES ELECTRICAS Y CIVILES SABALLETT S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+718754245,B & C INGENIERIA CONSULTORES Y CONSTRUCTORES S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+718770142,SUPERFIBRAS COLOMBIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+718790207,SISSA CONSTRUCCIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+718868540,TERNUM S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+718957152,JLYFL INGENIERIA DE OBRAS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+718986623,FUNDACION DEPORTIVA Y CULTURAL SALAMANDRA,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+718994726,SANCAL S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+719005621,HERRERA SPORT S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+719070468,INCIVIAS C.I.C S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+719104572,CATAR CONSTRUCTORES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+719155012,ORGANIZACIÓN DEMOCRATICA MUNDIAL,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+719162364,BRICEÑO VISUAL SEGURITY S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+719175291,BIM TOTAL S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+719374761,SEGURIDAD PIONEROS LTDA.,registry,registration not renewed for 2026 (last renewal 2016),flagged,
+719520199,"CORPORACIÓN PARA EL DESARROLLO DEPORTIVO, CULTURAL Y SOCIAL",registry,registration not renewed for 2026 (last renewal 2025),flagged,
+719533200,CONSTRUGES ING S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+719551202,TRYHARD STUDIOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+719573081,GRUPO CIPA SOCIEDAD POR ACCIONES SIMPLIFICADA,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+719604944,ECONS SIGLO XXI S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+719626038,FUNDACION S.SIN LIMITE I.P.S,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+719661076,ALPIELECTRICOS Y CONSTRUCCIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+719678674,ALLIANZ CONSULTORIA ASESORIA SUMINISTROS SEGURIDAD Y SERVICIOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+719709230,COASOB CIVILES Y AMBIENTALES S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+719759144,SOLINTPRO S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+719761355,AVILA MARQUEZ ABOGADOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+719841462,IPSUM JT,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+719852683,ASESORAMOS LIMITADA,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+719904542,AUDIO VIDEO LOGISTIC S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+719940108,TERRENO ARQUITECTURA S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+719984064,SOLUCIONES GLOBALES DE COMUNICACIONES S.A.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+719992265,DISEÑOS INTERVENTORIA E INGENIERIA M&J S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+720006188,ARQUITECTURA SERVICIOS CONSTRUCCION Y CONSULTORIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+720058627,LYONS S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+720084326,DUCTOS DE COLOMBIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+720086149,ASOCIACIÓN DE USUARIOS DEL ACUEDUCTO RURAL DE CARRIZAL TOMA Y CARREÑO,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+720208107,ENLINEA.APP S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+720257724,EMPRESA DE SERVICIOS TEMPORALES W COLOMBIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+720392109,FONSECA & FONSECA ABOGADOS ASOCIADOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+720455138,IMAGENDIAG,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+720464171,GRUPO NARA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+720641133,INTEGRAL SUPPLIES COLOMBIA SOCIEDAD POR ACCIONES SIMPLIFICADA,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+720845056,SCIRE SOLUTIONS S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+720883107,INTERSOLUCIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+720961721,CENTRO DE SERVICIOS CARLLANTAS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+721010734,SOCIEDAD CUNDIBOYACENSE DE MEDICOS ESPECIALISTAS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+721017192,LABORATORIO CITOFEM S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+721055002,JNW INGAR S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+721073351,DN & TN S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+721095032,CER CLINICAL IPS S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+721152726,DISTRIBUCIO FUTURO S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+721225027,SIMUL TECHNOLOGY S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+721246973,FUNDACION PARA EL DESARROLLO SOCIAL MAJONI,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+721336097,CONCRETOS Y PAVIMENTOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+721352078,ACR INNOVATION S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+721540193,FUNDACION TEAM BELEN,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+721583110,SERVIELECTRICOS D&D S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+721586410,INGPAC S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+721604098,MULTISERVICIOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+721686269,WORKS & SOLUTIONS S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+721709434,VENTUS CONSTRUCCIONES Y SERVICIOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+721742336,SURTIHIERROS TOCA S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+721797702,FUNDACION SEMBRADORES DE VIDA COLOMBIA,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+721836617,TRANSPORTE Y LOGISTICA POVEDA SOCIEDAD POR ACCIONES SIMPLIFICADA,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+721883064,AMCI INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+721886521,PROYECTO IS - INGENIERIA SOSTENIBLE,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+721922557,G.A REASON S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+721942654,ESMESUG S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+721956308,ALEPIN S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+721956910,TEAMWORK,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+721970192,GSC-GLOBAL SERVICIOS DE COLOMBIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+722044484,MANTENIMIENTO ESTRATEGICO INTEGRAL SOCIEDAD POR ACCIONES SIMPLIFICADAS,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+722267671,E.R.O.S. COLOMBIANA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+722276292,INGESCIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+722305588,CIMBRA INGENIEROS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+722319316,FUNDACION UNIDOS PARA AYUDAR SOGAMOSO,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+722349958,ASOCIACION DE GANADEROS DE MARIPI,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+722438413,KAIZEN CONSULTORES JURIDICOS Y CIVILES S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+722545977,IROMA INGENIERIA SOCIEDAD POR ACCIONES SIMPLIFICADA,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+722608478,CREATE BUSINESS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+722632791,MGM TOPOGRAFIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+722644366,CAMPUSLA,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+722757572,R Y P CENTRO DE FORMACION Y CAPACITACION EN TRABAJOS DE ALTO RIESGO S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+722766516,SERVICIOS DE SOLDADURA Y MONTAJES S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+722821303,CENTRO INTEGRAL DE SERVICIOS AGROEMPRESARIALES CENIGAM,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+722822442,INGENIERIA DUURZAAM S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+722844768,2JW GROUP S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+722889011,MULTISERVICIOS Y CONSTRUCCIONES DACB S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+722916780,CORPORACION NUESTRA TIERRA MUISCA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+723150025,CONSTRUGES ING S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+723188991,OTOBA S.A.S. BIC,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+723344503,SOY CAMPESINO MEDIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+723421665,AMV INGENIERIA Y CONSTRUCCION S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+723452330,GRUPO ECOCIVIL INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+723459657,ADOBE CONSULTORES CONSTRUCTORES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+723510392,GRADITTY S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+723534632,ROBOTCLEAN,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+723534764,FUNDACIÓN ALARIFE,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+723541223,REP CONSTRUCTION S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+723562625,ESTACION DE SERVICIO PAZ VERDE & CIA LTDA.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+723575197,ANFE OM S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+723575544,CORPORACION HITOS DE MI TIERRA,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+723631297,CORPORACION DE TURISMO DE CUWARA,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+723677316,PROYECTAR CONSTRUCCIONES E INGENIERÍA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+723734299,FAMILIA VELANDIA TRIANA S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+723758884,SERVICIOS INDUSTRIALES DYM,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+723770525,CONTRUCTORA PRAGATI S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+723780086,GLOBALL INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+723805958,ANDAVALS.A.A,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+723829461,CMS SERVICIOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+723894143,AMBIENTE Y SERVICIOS INTEGRALES S.A..S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+723945036,KOENCO S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+723966388,ORIGEN GRUPO EMPRESARIAL,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+723979134,BICSEC PROYECTOS DISEÑOS Y CONSTRUCCIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+724009014,THAOS INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+724026380,PROINSUA,registry,registration not renewed for 2026 (last renewal 2019),flagged,
+724121728,SUMINISTROS LAYE S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+724184239,AMPER ELECTRIC SERVICIOS ELECTRICOS Y ESTRUCTURALES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+724189600,ONCE 11 EVENTOS DEPORTIVOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+724189782,LA LUPA NOTICIAS COMUNICACIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+724245782,DISTRIBUCIONES YK S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+724255948,C&G COLOMBIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+724270855,UNIDAD DE SERVICIOS INTEGRALES DE DUITAMA S.A. EN LIQUIDACIÓN,registry,registration not renewed for 2026 (last renewal 2015),flagged,
+724376306,ASOEMPRES,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+724380803,FUNDACION CENTRO VIDA DE PROTECCION Y BIENESTAR DEL ANCIANO Y ADULTO MAYOR SAN VICENTE DE PAUL PACHAVITA BOYACA,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+724406269,ASOCIACION DE PRODUCTORES AGROPECUARIOS Y CAMPESINOS DE SANTA CRUZ DE MOTAVITA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+724523154,GEODATAS SOLUTIONS S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+724542139,INTERVA S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+724601711,MEGANET TV S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+724655279,COBERTURA EN CONSTRUCCIONES Y CIA. LTDA.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+724663422,CONSTRUSAM INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2021),flagged,
+724865142,JANX INGENIERIA PROYECTOS Y SERVICIOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+724948807,PIDELO DISTRIBUCION S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+724955661,BACK STAGE MEETING PLANNER S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+725031058,NEXUS SOLUTION S.A.S.,registry,registration not renewed for 2026 (last renewal 2016),flagged,
+725067417,FUNDACION DE DAMAS VOLUNTARIAS PRO ANCIANATO DEL MUNICIPIO DE RAMIRIQUI,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+725266704,INOVO SOLUCIONES INTEGRALES S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+725346043,INGENIERIA MONTAJE Y SUMINISTROS INDUSTRIALES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+725373419,REVISA TU FOLIO S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+725390876,SOLVISERVICIOS MENPABA S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+725399828,CANTERA ROCA FUERTE S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+725412688,JUNTA DE ACCION COMUNAL BARRRIO SUCRE SECTOR LA FLORESTA,registry,registration not renewed for 2026 (last renewal 0),flagged,
+725486567,FUNDACION TRABAJAMOS POR UN MUNDO MEJOR,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+725561070,FUNDACIÓN ANIMALS HUELLITAS DE AMOR,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+725573703,MC BAIN COMUNICACIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+725709174,FUNDACIÓN PARA EL FORTALECIMIENTO DEL ARTE Y LA CULTURA,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+725755607,SERVICIOS JEL S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+725756589,CONSTRULEGALGCL,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+725764633,CONSTRUCCIONES FYH S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+725878946,GESTION HUMANA EFECTIVA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+726013063,SPACIOS CONTRUCCIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+726023872,TALLER DE CAPACITACION Y FORMACION FEMENINA DEL VALLE DE TENZA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+726081367,FUNDACION DE INDEPENDIENTES ESPECIALIZADOS PARA ELABORAR POR COLOMBIA,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+726123136,CIDEL INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+726138209,ARQUITECTURA CONSTRUCCION Y OBRAS CIVILES COMPANY S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+726250772,J&M GESTION INTEGRAL S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+726252141,LAMISAN INGENIERIA Y CONSTRUCCIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+726252307,SEGURIDAD Y SALUD BOYACA SSB S.A.S.,registry,registration not renewed for 2026 (last renewal 2019),flagged,
+726274616,TECNONIMBUS SOLUTIONS S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+726313570,RYA ASOCIADOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+726411531,TRITURADOS FENIX S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+726413016,SOLUCIONES INTEGRALES DE INGENIERÍA Y ARQUITECTURA EN PROYECTOS DE CONSTRUCCIÓN K&M S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+726422777,PYM S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+726448947,LADRILLOS EL SOL S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+726494834,INTERVENTORIAS Y PROYECTOS DE BIOINGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+726502883,LEGAL ASOCIADAS S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+726518962,BOSS COMPANY COLOMBIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+726521610,EMERCAPS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+726664287,RED DE APOYO MEDICO S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+726736234,SOLUCIONES AGRÍCOLAS Y VETERINARIAS INTEGRALES SOSTENIBLES DE COLOMBIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+726739550,AM BARAJAS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+726970163,GB S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+727030124,FUNDACION SAN BENITO LUMINOSO,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+727097677,KUBA CENTRO DE SOLUCIONES INTEGRALES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+727108375,BIOAMBIENTE GROUP S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+727118754,INVERSIONES & PROYECTOS INDSERCOMERC S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+727163818,ENERGIA E INNOVACIÓN S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+727315848,BIOCELS,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+727375438,APPLE SHOP COL S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+727420366,AGREGADOS EL PERICO S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+727453573,INVERSIONES GREY S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+727515322,VICTOREM ESTRATEGIA Y COMUNICACIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+727534711,INGENIERIA CHAND ABAUTA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+727575540,FUNDACION CONSTRUYENDO ANHELOS Y SONRISAS,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+727640229,MAVERA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+727643728,CENTRO DE OTORRINOLARINGOLOGIA JYF LTDA.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+727903627,GREEN BIPI S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+728121336,FUNDACION CASA MUSEO DEL AGUA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+728128901,EQUILIBRARTE SERVICIOS INTEGRALES S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+728137522,ASESORES FINANCIEROS Y TRIBUTARIOS CNC S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+728249939,ASOCIACION DE COMERCIANTES DE PUERTO BOYACA,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+728340142,CIVILPRO A&D S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+728352261,VEGSA INGENIERÍA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+728352345,SERVICIOS DE VOLADURAS CONTROLADAS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+728371311,FUNDACIÓN DE REFUGIO ANIMAL OPCIÓN DE VIDA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+728501347,MERCATRONICS DOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+728521865,FUNDACION SOCIAL RED AMIGA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+728560582,FUNDACIÓN LUGAR SECRETO,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+728584178,FUNDACIÓN SENDEROS VICTORIA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+728675695,FUNDACION ÁNGELES VIVE Y SUENA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+728723271,SUDICOL S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+728728817,JEDAP INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+728732587,OXFORD HOLY GHOST BILINGUAL SCHOOL S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+728903501,CORPORACION ARTISTICA Y CULTURAL COLOMBIA SOLIDARIA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+728969684,ASOCIACIÓN MULTIACTIVA AGROPECUARIA - AMBIENTAL DE CHIQUINQUIRÁ,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+728996042,FUNDACION INTEGRAB,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+729012229,CORPORACION NOMADA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+729013599,FUNDACION PEDAGOGICA RAYUELA TUNJA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+729067462,FUNDACION REFORESTACIONES RCJ,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+729081653,ECOCIVIL INGENIERIA Y CONSULTORIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+729091413,FUNDACION ENPODERATI,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+729094615,ASOCIACIÓN CULTURAL DE SUTATENZA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+729108373,FUNDACION KASA XANA PARA MUJERES VALIENTES,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+729149187,ASOCIACION ARTISTICA CULTURAL Y MUSICAL EDICION LIMITADA,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+729152892,FUNDACION PENZA,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+729169292,CIVILARQ INGENIEROS S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+729171611,NENCA DIGITAL S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+729242172,MONTAJES Y CONSTRUCCIONES AR&CP MT S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+729266163,CONSTRUCTORA PTP S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+729281543,INSTITUTO COLOMBIANO DE SALUD PUBLICA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+729299313,CONSTRUCCIONES ALMECIGA Y ASOCIADOS,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+729347062,ECA SERVICIOS E INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+729533109,FUNDACION TEATRO DIALECTICO,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+729605360,FUNDACIÓN SEMBRANDO HUELLAS DE SOLIDARIDAD,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+729612143,AVELLA HURTADO CONSTRUCTORES S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+729640698,FUNDACION SOCIAL CULTURAL Y AMBIENTAL SUSTENTIA GLOBAL,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+729667741,INZTINTO MUSIC S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+729668889,K10 COMPAÑIA COMERCIALIZADORA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+729671156,FES INGENIERIA Y CONSULTORIA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+729730341,CONSTRUCCIONES Y PROYECTOS INGEVILLA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+729740704,FUNDACIÓN COLOMBIANA PARA EL DESARROLLO HUMANO Y SUSTENTABLE,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+730022134,FUNDACIÓN ZERA JAI,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+730028487,PRISMA CONSTRUCTORES E INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+730030764,CONSTRUCTORA DUALCO BOYACA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+730053147,BEEM ARQUITECTURA E INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+730280971,FUNDACION CULTURAL SOL DE ORO,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+730348596,FUNDACION MI CASITA PLASTICA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+730367166,FRANCO SOLUCIONES INTEGRALES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+730530326,DJA INGENIERIA Y CONSTRUCCIONES,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+730717253,COLNAN S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+730731148,FONSECA SOLUCIONES TECNOLOGICAS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+730824091,LEXICO IMPACTO HUMANO S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+730838109,HOMETEK S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+730876786,GRUPO FML PROYECTOS E INVERSIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+730879921,D&G CONSULTORIA DISEÑOS Y SUMINISTROS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+730909082,"INGENIERIA, CONSULTORIA Y SUMINISTROS BV S.A.S.",registry,registration not renewed for 2026 (last renewal 2025),flagged,
+730958311,ZFE COLOMBIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2020),flagged,
+730974318,LOGÍSTICA Y SUMINISTROS LACOSTAM S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+731082855,DESARROLLOS INFORMATICOS AU S.A.S. EN LIQUIDACIÓN,registry,registration not renewed for 2026 (last renewal 2019),flagged,
+731203378,CENTRO DE ENSEÑANZA CEA RALLY SUAMOX,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+731225124,CORPORACIÓN AMADEUS ARTE Y PEDAGOGÍA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+731283859,INTERCOM ST,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+731314407,SAFETY INDUSTRY LYS S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+731337226,CONSTRUCTIVIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+731614004,FUNDACION GRETA OTO,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+731912010,JB CONSTRUCCIONES Y SOLUCIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+731982195,H&G INGENIERIA Y CONSTRUCCIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+732020029,INGENIERIA Y SERVICIOS TECNICOS RINCON RUIZ S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+732073150,LIDERAGRO COLOMBIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+732186812,CONSTRUCTORES Y CONSULTORES ELECTRO RIMVOL S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+732235205,ORGANIZACION COPERATIVA COOPDISAM,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+732246483,EMPIRED INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+732287552,CANN SUMINISTROS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+732314695,ENLACE GLOBAL S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+732325154,PIZARRA CONSTRUCTORA S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+732354956,D & V PROFESSIONAL GROUP S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+732459185,GRUPO ALINEARQ - ARQUITECTURA E INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+732539036,LICEO PSICOPEDAGOGICO JEAN PIAGET S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+732585468,ECOSOLUCION DE COLOMBIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2021),flagged,
+732705439,IMPROMAR S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+732975529,FUNDACION NIÑOS PATRIOTAS,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+733096184,SOLUCIONES INTEGRALES INMEDIATAS SOCIEDAD POR ACCIONES SIMPLIFICADA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+733261069,PROTECHT S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+733343032,PARBO S.A.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+733419378,GRUPO CORPORATIVO MADISON,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+733456941,PROVEEDOR,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+733458921,ASOCIACION DE VICTIMAS DEL CONFLICTO ARMADO DEL MUNICPIO DE SOCHA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+733488407,CONSTRUCTORA LIBERTAD OBRAS CIVILES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+733521751,ONG ASOCIACION DE PROFESIONALES SENDERO,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+733541536,INVERSIONES JOALPA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+733575658,GLOBAL SERVIS CONSULTORIAS Y SUMINISTROS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+733589832,SIE CAMINO A LAS AGUAS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+733731608,ASOCIACION SUSCRIPTORES ACUEDUCTO HATO Y SAN NICOLAS SEC SANTA RITA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+733878458,OLMARO INGENIERIA SOCIEDAD POR ACCIONES SIMPLIFICADA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+733968903,ASOCIACION DE APICULTORES CUBARA BOYACA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+734053077,FUNDACION SUBMERCE CULTURA Y FUTURO,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+734110273,INCAMINOS SOLUCIONES VIALES S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+734160211,ASOCIACION DE COMERCIALIZADORES DE GANADO Y CARNE DE CUBARA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+734306640,ROKAVIA HS S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+734339542,EL RINCON PROCESADORA DE ALIMENTOS,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+734400807,L&P INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+734657281,CONSTRUCCIONES Y SUMINISTROS LP S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+734757347,IKONOS INGENIERIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+735076481,CDJI SOLUCIONES EN CONSTRUCCION INTERVENTORIA DISEÑO DE OBRAS CIVILES Y GESTION JURIDICA S.A.S.,registry,registration not renewed for 2026 (last renewal 2022),flagged,
+735155087,ELEVAR PROYECTOS,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+735260556,TALLER SUACAR'S S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+735264533,PAPER SHOP IMPORTACIONES S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+735339962,C-204 SISTEMA DE GESTION DOCUMENTAL SGD S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+735444671,FUNDACION MUNDO SOCIAL Y SOLIDARIO POR COLOMBIA,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+735514945,SKILLO S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+735638090,GYG MAQUINARIA PARA LA CONSTRUCCION E HIDROSOLUTION BOYACA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+735753048,ITECH NETWORKS COLOMBIA S.A.S.,registry,registration not renewed for 2026 (last renewal 2010),flagged,
+735863409,MINING SADA S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+735915431,ARQUITECTOS PROYECTISTAS COLOMBIANOS,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+736876038,AGROP ASOCIACION AGROPECUARIA SIN ANIMO DE LUCRO,registry,registration not renewed for 2026 (last renewal 2018),flagged,
+736958901,INOVAMED S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+737051789,SOFTIUM QUALITY S.A.S.,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+737489039,INGEZA LTDA.,registry,registration not renewed for 2026 (last renewal 2023),flagged,
+737560706,SOCIEDAD SAN VICENTE DE PAUL GARAGOA,registry,registration not renewed for 2026 (last renewal 2014),flagged,
+738116102,VIRTOPING,registry,registration not renewed for 2026 (last renewal 2025),flagged,
+738189968,CIELOS CUBIERTAS ACABADOS Y SERVICIOS S.A.S.,registry,registration not renewed for 2026 (last renewal 2024),flagged,
+707711057,FUNDACION PARA LA ATENCION DE PRIMERA INFANCIA Y EMPRESARIAL,registry,registry status: Cancelled,flagged,
+708903737,ASOCIACION LOS CANGUROS DE SANTA ROSA DE VITERBO,registry,registry status: Cancelled,flagged,
+710815028,ORYOM INGENIERÍA,registry,registry status: Cancelled,flagged,
+712533066,PROYECTOS Y CONSTRUCCIONES TERRACOTA S.A.S.,registry,registry status: Cancelled,flagged,
+712723584,CORPORACIÓN RESPIRA TURISMO,registry,registry status: Cancelled,flagged,
+713709624,UNIDAD DE SOLUCIONES INTEGRALES TUNJA S.A.S.,registry,registry status: Cancelled,flagged,
+714528064,FUNDACION LA ALEGRIA DE ALEJANDRA FULAJER,registry,registry status: Cancelled,flagged,
+715184156,P&P CONSULTORIA Y CONSTRUCCIONES S.A.S.,registry,registry status: Cancelled,flagged,
+715405189,SEVINCO INGENIERIA S.A.S.,registry,registry status: Cancelled,flagged,
+717113880,ENGIWORK ICL S.A.S.,registry,registry status: Cancelled,flagged,
+717750426,PRECONT INGENIERIA S.A.S.,registry,registry status: Cancelled,flagged,
+718978711,PROFESST S.A.S. BIC,registry,registry status: Cancelled,flagged,
+719459612,INGESAFI S.A.S.,registry,registry status: Moved to another chamber,flagged,
+720427277,INGENIERÍA INTEGRAL NIÑO SALAZAR S.A.S.,registry,registry status: Cancelled,flagged,
+721082964,"VISIÓN, SEGURIDAD & CONECTIVIDAD S.A.S.",registry,registry status: Cancelled,flagged,
+721711372,URBANAS Y VIAS S.A.S.,registry,registry status: Cancelled,flagged,
+722279395,"ASOCIACIÓN DE COMUNIDADES CAMPESINAS, INDIGENAS Y POPULARES",registry,registry status: Cancelled,flagged,
+723477162,FUNDACIÓN PATRIMONIO Y MEMORIA VIVA,registry,registry status: Cancelled,flagged,
+724062922,BENITEZ ARAQUE SOCIEDAD POR ACCIONES SIMPLIFICADAS,registry,registry status: Cancelled,flagged,
+724603063,HUNZA SERVICIOS INTEGRALES S.A.S.,registry,registry status: Cancelled,flagged,
+725336150,UNIVERSAL DE SUMINSITROS DE BOYACA,registry,registry status: Cancelled,flagged,
+725350979,ASOCIACION VICTIMAS BRICEÑO,registry,registry status: Cancelled,flagged,
+725705750,SAEMC INGENIEROS S.A.S.,registry,registry status: Cancelled,flagged,
+725894364,LOGISTICA GESTION Y ASESORIAS S.A.S.,registry,registry status: Cancelled,flagged,
+726461585,INDUSTRIAS BEROM S.A.S.,registry,registry status: Cancelled,flagged,
+727336869,ASOPROCVILLA - MERCADO CAMPESINO ALTERNATIVO VILLALEYVANO,registry,registry status: Cancelled,flagged,
+729112375,INVERSIONES HG GUTIERREZ S.A.S.,registry,registry status: Cancelled,flagged,
+731706222,ASESORIAS EN PLANEACION RURAL SOSTENIBLE S.A.S.,registry,registry status: Cancelled,flagged,
+732351036,INDUSTRIAS GYA S.A.S.,registry,registry status: Cancelled,flagged,
+734681869,GONSAMA COUSINS S.A.S.,registry,registry status: Moved to another chamber,flagged,
+700161037,MEDRANO ASESORES S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,MEDRANO MUÑOZ ASESORES CONSULTORES S.A.S
+701642464,EDS ANTONIO GNV S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,ESTACION Y LUBRICANTES SAN ANTONIO GNV SAS
+701759276,CORINDECOL,name,trade name differs from the legal name in RUES,kept; legal name added,CORPORACION INTEGRAL PARA EL DESARROLLO SOCIAL DE COLOMBIA
+701884090,CODENCO,name,trade name differs from the legal name in RUES,kept; legal name added,ADMINISTRACION PUBLICA COOPERATIVA DE DEPARTAMENTOS Y MUNICIPIOS DE COLOMBIA
+702020090,COTEC S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,CONSULTORIA TECNICA Y SERVICIOS DE INGENIERIA SOCIEDAD POR ACCIONES SIMPLIFICADA
+702138504,ARH,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION RESTAURANDO HUELLAS
+702305012,FUNHUMANOS ONG,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION SOCIAL Y ECOLOGICA HUMANOS O.N.G
+702428061,DISTRICOM S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,DISTRIBUIDORA Y COMERCIALIZADORA COLOMBIANA S.A.S.
+702435892,CORPONATURALEZA.ONG,name,trade name differs from the legal name in RUES,kept; legal name added,CORPORACION PARA EL DESARROLLO SOCIAL NATURALEZA Y VIDA
+702479569,CORBANDAS,name,trade name differs from the legal name in RUES,kept; legal name added,CORPORACION CONCURSO NACIONAL DE BANDAS DE MUSICA DE PAIPA
+702508078,CREPIB,name,trade name differs from the legal name in RUES,kept; legal name added,CENTRO REGIONAL DE GESTION PARA LA PRODUCTIVIDAD Y LA INNOVACION DE BOYACA
+702567090,CORPORACIÓN COMUNITARIA CULTURAL ATABANZA,name,trade name differs from the legal name in RUES,kept; legal name added,ATABANZA CORPORACION CULTURAL
+702581448,DICOARC S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,DISEÑO INTERVENTORIA Y CONSTRUCCION DE OBRAS ARQUITECTONICAS Y CIVILES SAS
+702626557,CCCP,name,trade name differs from the legal name in RUES,kept; legal name added,CORPORACION CASA DE LA CULTURA POPULAR
+702671769,ASC LTDA.,name,trade name differs from the legal name in RUES,kept; legal name added,ASESORIAS Y SOLUCIONES COMERCIALES LTDA
+702743055,SIMCO GROUP S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,SUMINISTRO INGENIERIA MANTENIMIENTO Y CONSTRUCCION S.A.S
+702839200,BIOMETRON S.A.S. LABORATORIO DE CALIBRACIÓN EQUIPO MEDICO,name,trade name differs from the legal name in RUES,kept; legal name added,BIOMETRON SOCIEDAD POR ACCIONES SIMPLIFICADA
+702881087,FUNDALEC,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION LIDERES Y EMPRENDEDORES DE COLOMBIA
+703877647,CORPODESASA,name,trade name differs from the legal name in RUES,kept; legal name added,CORPORACION PARA EL DESARROLLO SOSTENIBLE DEL AMBIENTE SOCIAL Y ARTISTICO
+703956227,INCOMYL,name,trade name differs from the legal name in RUES,kept; legal name added,INVERSIONES Y COMERCIALIZADORA M & L & CIA S. EN C.
+704211309,EDIVALORES,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION EDIFICANDO VALORES
+704242338,CORPONALEC,name,trade name differs from the legal name in RUES,kept; legal name added,CORPORACION NACIONAL DE EVENTOS CULTURALES
+704357144,SUMISERVI S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,SUMINISTROS Y SERVICIOS TONY SOCIEDAD POR ACCIONES SIMPLIFICADA
+704497015,CORPORACIÓNCDP,name,trade name differs from the legal name in RUES,kept; legal name added,CORPORACION DANIEL PEREZ CDP
+704632546,SERINGMA S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,SERVICIOS DE INGENIERIA MEDIO AMBIENTE Y SUMINISTROS SAS
+704758432,ASOGOTAS DE AGUA,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION AMBIENTAL Y ECOTURISTICA GOTAS DE AGUA
+704841485,FUN ARTE Y VIDA,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION CULTURAL ARTE Y VIDA
+704849397,CORPOINDESO,name,trade name differs from the legal name in RUES,kept; legal name added,CORPORACION ALIANZA PARA LA INVESTIGACION Y EL DESARROLLO SOCIAL
+704863117,FUNDACION CREAMOS COLOMBIA,name,trade name differs from the legal name in RUES,kept; legal name added,"FUNDACION PARA EL DESARROLLO CULTURAL, EMPRESARIAL, EDUCATIVO, HUMANO E HISTORICO DE COLOMBIA"
+705003531,ASOCAFIGAR,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION DE CAFICULTORES DE GARAGOA
+705195030,FUNDACIÓN PARA LA ATENCIÓN DE LA POBLACIÓN EN CONDICIÓN DE AUTISMO Y AFINES,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION YO TEAMO
+705195790,DEINPRO S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,DESARROLLO INTEGRAL EN PROYECTOS DE INGENIERIA S.A.S.
+705214773,ALPAC,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION CULTURAL Y MUSICAL ALJURIZATE PARIENTE
+705265197,CDA DEL ORIENTE COLOMBIANO,name,trade name differs from the legal name in RUES,kept; legal name added,CENTRO DE DIAGNOSTICO AUTOMOTOR DEL ORIENTE COLOMBIANO LTDA
+705459394,CDA LA PERLA LTDA.,name,trade name differs from the legal name in RUES,kept; legal name added,CENTRO DE DIAGNOSTICO AUTOMOTOR LA PERLA LTDA
+705786838,ANCONS S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,ANDINA CONSTRUCTORES S.A.S.
+705968162,E.M.I.R. S.A. E.S.P.,name,trade name differs from the legal name in RUES,kept; legal name added,EMPRESA REGIONAL PARA EL MANEJO INTEGRAL DE RESIDUOS S.A. E.S.P.
+706111374,GEV,name,trade name differs from the legal name in RUES,kept; legal name added,GRUPO EMPRESARIAL VINCULAMOS S.A.S
+706167046,COOPSEGA,name,trade name differs from the legal name in RUES,kept; legal name added,COOPERATIVA DE SERVICIOS Y TRABAJO ASOCIADO DE GARAGOA
+706250362,ALJURADI,name,trade name differs from the legal name in RUES,kept; legal name added,ALJURE HEALTH CARE COLOMBIA S.A.S.
+706418530,FUNDATER ESAL,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION ACTIVA TERRITORIO E.S.A.L
+706768322,AYD CONSTRUCCIONES Y SERVICIOS S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,AYD PROVISIONES SUMINISTROS Y SERVICIOS S.A.S
+706795630,GREMIO EMP. 1085 S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,GREMIO EMPRESARIAL 1085 S.A.S
+706925450,SEINGCON S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,SERVICIOS INTEGRALES DE INGENIERIA CONSTRUCCION Y CONSULTORIA S.A.S.
+707074233,CORPORACION PALUWALA,name,trade name differs from the legal name in RUES,kept; legal name added,CORPORACION DE INVESTIGACIONES PARA EL DESARROLLO SOCIAL COMUNITARIO Y HUMANO PALUWALA
+707169553,WOW PUBLICIDAD,name,trade name differs from the legal name in RUES,kept; legal name added,WOW MARKETING Y PUBLICIDAD S.A.S. EN LIQUIDACION
+707494027,FUNDIGS,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION PARA EL DESARROLLO INTEGRAL DEL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN COLOMBIA
+707713640,FSD S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,FUTURE SOLUTIONS DEVELOPMENT S.A.S
+708305388,BOYACÁ 7 DÍAS S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,BOYACA SIETE DIAS S.A.S
+709422232,FUTURAGROPEC S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,FUTURO AGROPECUARIO Y AMBIENTAL DE COLOMBIA EN NUESTRAS MANOS S.A.S.
+709435564,CORPAC,name,trade name differs from the legal name in RUES,kept; legal name added,CORPORACION DE PROFESIONALES AMBIENTALES Y CIVILES
+709524607,MILAN INGENIERÍA Y ARQUITECTURA S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,MULTIPROYECTOS DE INGENIERIA LOGISTICA ARQUITECTURA Y NEGOCIOS MILAN S.A.S
+710167180,OSF,name,trade name differs from the legal name in RUES,kept; legal name added,ORGANIZACION SAN FRANCISCO S.A.S.
+710241290,COOPERATIVA MULTIACTIVA DE TRANSPORTES DE TENZA,name,trade name differs from the legal name in RUES,kept; legal name added,COOPERATIVA MULTIACTIVA DE TRANSPORTE DE TENZA COOTRANSTENZA O.C
+710509084,GE KAIBOKA S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,GRUPO EMPRESARIAL KAIBOKA S.A.S.
+710661760,VERSO,name,trade name differs from the legal name in RUES,kept; legal name added,SISTEMA VERTICAL S A S
+710815028,ORYOM INGENIERÍA,name,trade name differs from the legal name in RUES,kept; legal name added,ORYOM INGENERIA ECONOMICA S.A.S
+710840307,SISTEMA DE INFORMACION EN ATENCION PRIMARIA ROCKY S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,ROCKY SISTEMAS DE INFORMACION EN ATENCION PRIMARIA S.A.S.
+711233262,APIMUNDO S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,UN MUNDO APICOLA EN SUS MANOS SAS
+711250027,APIARRAYANES,name,trade name differs from the legal name in RUES,kept; legal name added,APICULTURA LOS ARRAYANES S.A.S.
+711358739,FDP,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION DOÑA PANELA
+712010594,SIL,name,trade name differs from the legal name in RUES,kept; legal name added,SERVICIOS DE INGENIERIA LIMITADA
+712338078,FUPAVID,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION DANDO PASOS DE VIDA
+712349158,FUNSOMACOL,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION SOCIAL DE MUNICIPIOS AMIGOS COLOMBIANOS
+712491141,CONSORCIO INGEARM,name,trade name differs from the legal name in RUES,kept; legal name added,SPE INNOVACION TEXTIL S.A.S.
+712572833,FUNDACION SIN ANIMO DE LUCRO HOGAR GERIATRICO SANTA ROSA DE LIMA,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION CENTRO DE PROMOCIÓN Y PROTECCIÓN SOCIAL PARA PERSONAS MAYORES - SANTA ROSA DE LIMA
+712603224,DISAUTOS,name,trade name differs from the legal name in RUES,kept; legal name added,AUTOS Y CAMIONES DE BOYACA S.A.S. EN LIQUIDACION
+712794155,CAMARA COLOMBIANA DE AVALUADORES,name,trade name differs from the legal name in RUES,kept; legal name added,CÁMARA COLOMBIANA DE ARQUITECTOS Y AVALUADORES
+713046415,C&CIDMSAS,name,trade name differs from the legal name in RUES,kept; legal name added,CONSULTORIA & CONSTRUCCIONES IDM S.A.S
+713122331,"ASESORIA EN SEGURIDAD Y SALUD EN EL TRABAJO, MINERIA Y MEDIO AMBIENTE",name,trade name differs from the legal name in RUES,kept; legal name added,ASEGMA S.A.S
+713343085,DINCOSSH&B S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,DISEÑO E INGENIERIA PARA CONSTRUIR SOLUCIONES SOSTENIBLES H&B S.A.S
+713474575,FCM ESAL,name,trade name differs from the legal name in RUES,kept; legal name added,FUNCUMIR E.S.A.L
+713495240,FUNDACIÓN INTEGRAL PARA EL SERVICIO SOCIAL,name,trade name differs from the legal name in RUES,kept; legal name added,ATELIER CONSULTORIA Y ESTRATEGIA S.A.S.
+713497428,UNION TEMPORAL VIAS RONDON,name,trade name differs from the legal name in RUES,kept; legal name added,VARIEDADES LA SALUD JMF S.A.S EN LIQUIDACION
+713643153,CONSTRUCCIONES JJB,name,trade name differs from the legal name in RUES,kept; legal name added,CONSTRUCCIONES Y AGREGADOS BOYACA JJB SAS
+713779940,AFROBOY,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION AFROCOLOMBIANA DE BOYACA
+713803898,ASOCIACION PARA EL DESARROLLO DE LA FAMILIA DE GAMEZA,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION DE MUJERES PARA EL DESARROLLO DE LAS FAMILIAS GAMECENSE
+713820785,"FUNDACION SEMILLERO JUVENIL POR LA EQUIDAD, LA DIGNIDAD, LA IGUALDAD Y EL RESPETO DE LOS DERECHOS HU",name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION T.A.P TRANSFORMANDO ALMAS POSITIVAMENTE
+714085438,ACONCHAINGYARQ,name,trade name differs from the legal name in RUES,kept; legal name added,ACONCHA INGENIEROS & ARQUITECTOS  S.A.S
+714321429,SOLUINDER S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,SOLUCIONES INTEGRALES PARA EL DESARROLLO RURAL SAS
+714382652,CENTRO INTELIGENTE DE COMPENTENCIAS E INNOVACION ITDH S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,CENTRO INTELIGENTE DE COMPETENCIAS E INNOVACION SOCIEDAD POR ACCIONES SIMPLIFICADA
+714483401,FUNDACION INTEGRAL PARA EL SOCIAL,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION INTEGRAL PARA EL SERVICIO SOCIAL
+714514189,UT ESTUDIANTES DUITAMA 2021,name,trade name differs from the legal name in RUES,kept; legal name added,COOPERATIVA DE TRANSPORTADORES RAPIDO CHICAMOCHA
+714574100,SBV DYS S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,SBV DISTRIBUCIONES Y SERVICIOS S.A.S
+714618055,COOPERATIVA DE EDUCACION REYES PATRIA,name,trade name differs from the legal name in RUES,kept; legal name added,COLEGIO COOPERATIVO REYES PATRIA
+714644200,FGS,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION GAIA SOLIDARIA
+714998333,ASOCIACION DE PADRES DE FAMILIA DE NIÑOS Y NIÑAS EN CONDICION DE DISCAPACIDAD VE,name,trade name differs from the legal name in RUES,kept; legal name added,"ASOCIACIÓN DISCAPACIDAD VENTAQUEMADA ME CUIDO, TE CUIDO"
+715157103,COOTRAESTUR LTDA.,name,trade name differs from the legal name in RUES,kept; legal name added,COOPERATIVA DE TRANSPORTE ESPECIAL Y DE TURISMO LIMITADA
+715274338,FESE BOYACA,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION EQUIPO SCOUT DE EMERGENCIA REGION BOYACA
+715294963,COOPERATIVA MULTIACTIVA DE EDUCADORES DE BOYACA,name,trade name differs from the legal name in RUES,kept; legal name added,COOPERATIVA DE AHORRO Y CREDITO DE EDUCADORES DE BOYACA
+715326419,ASOCIACIÓN DE DANZA Y CULTURA ¨CARLOS EDUARDO LOBO PEÑA¨,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION CHIQUINQUIREÑA DE DANZA Y CULTURA CARLOS EDUARDO LOBO PEÑA
+715481529,INGENIO SOLUCIONES BOYACA S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,INGENIOSB  S.A.S.
+715481792,TRANSPORTES J.E S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,TRANSPORTES ESPECIALES  J.E. SAS
+715694121,ASOCIACIÓN PROAGROPEC,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION COLOMBIANA DE PROFESIONALES DEL SECTOR AGROPECUARIO
+715866265,SILYCON INGENIERIA S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,SERVICIOS DE INGENIERIA LOGISTICA Y CONSTRUCCION S.A.S.
+716177282,FUNDA STRIDE,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION STRIDE
+716312491,LOS DELFINES O.C,name,trade name differs from the legal name in RUES,kept; legal name added,ORGANIZACION COOPERATIVA DE TRANSPORTADORES LOS DELFINES
+716890702,ASOCIACION DE SUSCRIPTORES DEL ACUEDUCTO LAS PILAS DEL MUNICIPIO DE PAIPA BOYACA,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION DE USUARIOS DEL ACUEDUCTO LAS PILAS
+716895081,ASOCIACION DE SUSCRIPTORES DEL ACUEDUCTO EL REJALGAR DE LA VEREDA RINCON DE VARGAS DEL MUNICIPIO DE PAIPA,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION ACUEDUCTO COMUNITARIO EL REJALGAR DE LA VEREDA RINCON DE VARGAS DEL MUNICIPIO DE PAIPA
+716897384,ASOCIACION DE SUSCRIPTORES QUEBRADA HONDA LA GRANDE ACUEDUCTO VEREDAL DEL MUNICIPIO DE PAIPA,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION QUEBRADA HONDA LA GRANDE ACUEDUCTO VEREDAL
+717523021,ICOTRANS S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,INVERSIONES EN COMBUSTIBLES Y TRANSPORTES S.A.S.
+717563134,INGEROBRAS S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,INGENIERIA Y GERENCIA DE OBRAS SAS
+717653653,INCONDI J&R S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,INVERSIONES CONSTRUCCIONES Y DISEÑOS J&R S.A.S
+717686158,ADESOC,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION PARA EL DESARROLLO SOCIAL COMUNITARIO
+717707087,CGS PROYYECTOS S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,CONSTRUCTORA DE GRANDES SUPERFICIES Y PROYECTOS S.A.S.
+717802128,CESEM IPS,name,trade name differs from the legal name in RUES,kept; legal name added,CENTRO DE SERVICIOS MEDICOS ESPECIALIZADOS DE BOYACA IPS S.A.S
+717931216,IINCOL S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,CONSTRUCCION CONSULTORIA Y EQUIPOS S.A.S
+718735228,COHIDRAL,name,trade name differs from the legal name in RUES,kept; legal name added,CONSTRUCCIONES HIDRAULICAS LIMITADA
+718781305,OBRAS CIVILES ELECTRICAS E INGENIERIA S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,GRUPO EMPRESARIAL DISTRILISTO S.A.S
+718986623,FUNDACION DEPORTIVA Y CULTURAL SALAMANDRA,name,trade name differs from the legal name in RUES,kept; legal name added,REPRODUCCION ORNAMENTALES MAGANGUE S.A.S.
+719014599,GEOINPRO S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,GEOLOGIA E INGENIERIA DE PROYECTOS S.A.S.
+719018913,NASA LIMITADA INGENIEROS QUIMICOS,name,trade name differs from the legal name in RUES,kept; legal name added,NASA LTDA INGENIEROS QUIMICOS
+719071920,PYCLENGUPA,name,trade name differs from the legal name in RUES,kept; legal name added,PREFABRICADOS Y CONSTRUCCIONES LENGUPA S.A.S.
+719269565,ASAFROCU,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION AFRODESCENDIENTE COLOMBIA UNIDA
+719271678,SIO,name,trade name differs from the legal name in RUES,kept; legal name added,SOLUCIONES INTEGRALES ORTOPEDICAS S.A.S.
+719938466,INVERSIONES TYS S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,INVERSIONES T&S SOCIEDAD POR ACCIONES SIMPLIFICADA
+720086149,ASOCIACIÓN DE USUARIOS DEL ACUEDUCTO RURAL DE CARRIZAL TOMA Y CARREÑO,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION DE USUARIOS DEL ACUEDUCTO RURAL CARRIZAL TOMA Y CARREÑO DEL MUNICIPIO DE SOTAQUIRA
+720204551,FAP,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACIÓN AVANZAR PAÍS
+720455138,IMAGENDIAG,name,trade name differs from the legal name in RUES,kept; legal name added,IMAGENES DIAGNOSTICAS Y SERVICIOS ESPECIALIZADOS IPS S.A.S
+720879360,COOTRANSVALLE SAMACÁ O.C.,name,trade name differs from the legal name in RUES,kept; legal name added,COOPERATIVA INTEGRAL DE TRANSPORTADORES DEL VALLE DE SAMACA O.C.
+721152726,DISTRIBUCIO FUTURO S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,ACTIVE GROUP CONSULTING & SUPPLIES S.A.S.
+721401073,COBING S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,CONSTRUCTORA OBRAS DE INGENIERIA S.A.S.
+721416675,SARU SUMINISTROS Y SERVICIOS S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,SARU MULTISERVICIOS S.A.S.
+721586410,INGPAC S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,INGENIERIA DE PROYECTOS ADMINISTRACION Y CONSTRUCCION S.A.S.
+721594166,ESCOLTUR ESPECIAL S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,LINEA AMERICANA DE SERVICIOS ESPECIALES DE TURISMO S.A.S.
+721853554,GIITSON LTDA.,name,trade name differs from the legal name in RUES,kept; legal name added,MOLECULA DEL PADRE CELESTIAL S.A.S
+721931988,EMC HERMANOS,name,trade name differs from the legal name in RUES,kept; legal name added,ESTRUCTURAS Y MONTAJES DE COLOMBIA HERMANOS S.A.S.
+722108800,SM CONSULTING,name,trade name differs from the legal name in RUES,kept; legal name added,SAFE MANAGEMENT CONSULTING S.A.S
+722293982,ASOAGROMB,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION DE PRODUCTORES AGROPECUARIOS DE LA VEREDA DE OMBACHITA
+722660974,LYC MULTISERVICIOS,name,trade name differs from the legal name in RUES,kept; legal name added,L&C MULTISERVICIOS Y CONSULTORIA S.A.S
+723108031,SIOCA W-P S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,SOLUCIONES INTEGRALES EN OBRAS CIVILES Y ARQUITECTURA W-P S.A.S.
+723150025,CONSTRUGES ING S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,LEGTEC SAS
+723263232,HYRENTEL SIT S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,HYRENTEL SOLUCIONES INTEGRALES EN TECNOLOGIA Y COMUNICACIONES S.A.S
+723593117,D&M DESAMBIENTE,name,trade name differs from the legal name in RUES,kept; legal name added,D & M INGENIERIA Y MEDIO AMBIENTE S.A.S
+723734828,ALISTACONCORDE S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,CENTRO ESPECIALIZADO DE MANTENIMIENTO Y ALISTAMIENTO CONCORDE S.A.S
+723770525,CONTRUCTORA PRAGATI S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,CONSTRUCCIONES PRAGATI S.A.S
+723828661,GRUPO LOGISTICO Y SUMINISTROS TANGRAM,name,trade name differs from the legal name in RUES,kept; legal name added,LOGISTICAS Y SUMINISTROS TANGRAM SAS
+723896130,SOLHYTRANS,name,trade name differs from the legal name in RUES,kept; legal name added,SOLUCIONES HIDRAULICAS Y EQUIPOS DE TRANSPORTE S.A.S
+723966388,ORIGEN GRUPO EMPRESARIAL,name,trade name differs from the legal name in RUES,kept; legal name added,ORIGEN CENTRO DE ENSEÑANZA AUTOMOVILÍSTICA S.A.S.
+723972337,COOTRADATIL LTDA.,name,trade name differs from the legal name in RUES,kept; legal name added,COOPERATIVA DE TRANSPORTADORES DEL DATIL
+724026380,PROINSUA,name,trade name differs from the legal name in RUES,kept; legal name added,PROYECTOS DE INGENIERIA SUAREZ SOCIEDAD POR ACCIONES SIMPLIFICADA EN LIQUIDACION
+724376306,ASOEMPRES,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACIÓN DE EMPRENDEDORES DE PESCA
+724523154,GEODATAS SOLUTIONS S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,GEODATAS TOTAL SOLUTIONS S.A.S
+724652037,INGEOBRAS EP S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,SERVICIOS DE INGENIERIA Y OBRAS E.P. S.A.S.
+724726245,"CHIE, TURISMO Y RECREACIÓN",name,trade name differs from the legal name in RUES,kept; legal name added,CHIE TURISMO VIAJES Y AVENTURA SAS
+724747118,NICE,name,trade name differs from the legal name in RUES,kept; legal name added,NETWORKS INTERCONNECTED BY EXPERTS COMUNICACIONES S.A.S
+724879804,SERVINUEVOCOLON E.S.P.,name,trade name differs from the legal name in RUES,kept; legal name added,EMPRESA SOLIDARIA DE SERVICIOS PUBLICOS DOMICILIARIOS DE NUEVO COLON BOYACA
+724933163,ORGANIZACIÓN CCLB,name,trade name differs from the legal name in RUES,kept; legal name added,CAMPING Y CABAÑAS LOS BALCONES S.A.S
+725031058,NEXUS SOLUTION S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,TRANSPASCAR S.A.S. EN LIQUIDACION
+725092993,ESTACION SAN DIEGO DE LA 59 S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,ESTACION DE SERVICIO SAN DIEGO DE LA 59 SAS
+725145189,COINTESA,name,trade name differs from the legal name in RUES,kept; legal name added,COLOMBIANA DE INGENIERIA TECNOLOGIA Y SALUD SOCIEDAD POR ACCIONES SIMPLIFICADA
+725336150,UNIVERSAL DE SUMINSITROS DE BOYACA,name,trade name differs from the legal name in RUES,kept; legal name added,DON BOCADILLO S.A.S.
+725412688,JUNTA DE ACCION COMUNAL BARRRIO SUCRE SECTOR LA FLORESTA,name,trade name differs from the legal name in RUES,kept; legal name added,INSTITUTO INTERNACIONAL DE ESTUDIOS EN SEGURIDAD GLOBAL S.A.S - EN LIQUIDACION
+725417281,LABORATORIO G DIESEL,name,trade name differs from the legal name in RUES,kept; legal name added,LABORATORIO GENERACION DIESEL S.A.S
+725512925,EMPRESA DE SERVICIOS PUBLICOS SANTANA BOYACA,name,trade name differs from the legal name in RUES,kept; legal name added,EMPRESA DE SERVICIOS PUBLICOS DEL MUNICIPIO DE SANTANA EMSANTANA S.A. E.S.P.
+725712574,FIIASOLE,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION DE INICIATIVAS INNOVADORAS AMBIENTALES Y SOCIOCULTURALES
+725985857,EMPRESA AGUAS DE TINJACA SERTINJACA S.A. E.S.P.,name,trade name differs from the legal name in RUES,kept; legal name added,EMPRESA DE SERVICIOS PUBLICOS DE TINJACA S.A.S. E.S.P
+726020555,ASOCAB,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION DE CACAOTEROS DEL MUNICIPIO DE CUBARA-BOYACA PAZ Y PROGRESO
+726067283,FUNDAPROSPER,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION PARA EL PROGRESO Y PROSPERIDAD SOCIAL DE COLOMBIA
+726252208,RENOVAR SYG S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,RENOVAR SOLUCIONES INTEGRALES Y GESTION DE PROYECTOS S.A.S.
+726338197,ASOCIACION DE SUSCRIPTORES DEL ACUEDUCTO DE RIO DE PIEDRAS SAN ANTONIO RESGUARDO SANTA TERESA,name,trade name differs from the legal name in RUES,kept; legal name added,"ASOCIACION DE SUSCRIPTORES DEL ACUEDUCTO DE RIO DE PIEDRAS, SAN ANTONIO, RESGUARDO Y SANTA TERESA DEL MUNICIPIO DE TUTA DEL DEPARTAMENTO DE BOYACA"
+726422777,PYM S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,P & M S.A.S.
+726481062,CONFIA SDC S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,CONFIA SOLUCIONES DOMESTICAS Y CORPORATIVAS SOCIEDAD POR ACCIONES SIMPLIFICADA
+726521271,FUNDACION TADONCO,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION TALENTO DON Y CORAZON
+726615636,CDA CONTROL AUTOS CHIQUINQUIRA LIMITADA,name,trade name differs from the legal name in RUES,kept; legal name added,CONTROL AUTOS DE CHIQUINQUIRA S.A.S
+726970163,GB S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,GRUPO BASALTO S.A.S.
+727183204,INTECONSER S.A.S. BIC,name,trade name differs from the legal name in RUES,kept; legal name added,INTEGRAL CONSTRUCCIONES Y SERVICIOS S.A.S. BIC
+727336869,ASOPROCVILLA - MERCADO CAMPESINO ALTERNATIVO VILLALEYVANO,name,trade name differs from the legal name in RUES,kept; legal name added,GRUAS FERNANDEZ S.A.S.
+727752230,INTERCOP 71 S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,INTERVENTORIA CONSTRUCCION Y PROYECTOS SOCIEDAD POR ACCIONES SIMPLIFICADA
+727824815,ASOPADRES ITIRR,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION DE PADRES DE FAMILIA DEL INSTITUTO TECNICO RAFAEL REYES-DUITAMA
+727892705,ASOCIACION DE USUARIOS DEL SERVICIO DEL ACUEDUCTO ALCANTARILLADO Y ASEO SECTOR URBANO MUNICIPIO DE CERINZA,name,trade name differs from the legal name in RUES,kept; legal name added,"ASOCIACION DE SUSCRIPTORES DEL SERVICIO DE ACUEDUCTO, ALCANTARILLADO, ASEO Y EMISORA COMUNITARIA DEL SECTOR URBANO MUNICIPIO DE CERINZA BOYACÁ"
+728015082,COONSTRUVEN O.C. SERVICIOS INTEGRALES,name,trade name differs from the legal name in RUES,kept; legal name added,ORGANIZACION COOPERATIVA CONSTRUVEN O.C SERVICIOS INTEGRALES
+728032426,ASOCIACIÓN DE LACTEOS,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION CAMPESINA DE PRODUCTORES DE LACTEOS
+728046806,BIENACOL SST S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,BIENESTAR AGROAMBIENTAL INDUSTRIAL COLOMBIANO S.A.S.
+728330440,ALIANZA SUR - ONG,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION ALIANZA SUR PARA LA COOPERACION Y EL DESARROLLO
+728428269,CONGARCOL S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,CONSTRUCTORA GARCIA DE COLOMBIA SAS
+728471921,TRM INGENIERÍA,name,trade name differs from the legal name in RUES,kept; legal name added,INGENIERIA DE CONSTRUCCION DISEÑO Y ADMINISTRACION S A S
+728550187,KLE INGENIERIA S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,SSO S.A.S.
+728857236,COMILBOY,name,trade name differs from the legal name in RUES,kept; legal name added,COOPERATIVA MULTIACTIVA DE MILITARES BOYACENSES
+728924044,ASGUINTURG,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION DE GUIAS E INTERPRETES DE TURISMO
+728958224,ASOCIACION DE PROSUMIDORES AGROECOLOGICOS AGROSOLIDARIA SECCIONAL SOCOTA,name,trade name differs from the legal name in RUES,kept; legal name added,AGROSOLIDARIA ASOCIACION DE PROSUMIDORES AGRO ECOLOGICOS SECCIONAL SOCOTA BOYACA
+729144618,LOGISTICA DE TRANSPORTE Y SUMINISTROS S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,LOGISTICA DE TRANSPORTES Y SUMINISTROS DE CORRALES S.A.S
+729256966,PROVEEDOR,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACIÓN DE GANADEROS DE SUTATENZA
+729520296,COOPERATIVA DE TRABAJO ASOCIADO COOPVITERBO,name,trade name differs from the legal name in RUES,kept; legal name added,COOPVITERBO - EPMSC
+729603662,FONSICA S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,GRUPO FONSECA SIERRA S.A.S
+729605360,FUNDACIÓN SEMBRANDO HUELLAS DE SOLIDARIDAD,name,trade name differs from the legal name in RUES,kept; legal name added,INFRAESTRUCTURA FERREA S.A.S
+729623272,ASOFRUTI,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACIÓN FRUTOS DE MI TIERRA TIBANENSE
+729712943,TODO HIERRO FERRETERIA S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,ARAQUE INGENIERIA Y CONSTRUCCIONES S.A.S.
+729794776,CORPORACION CIUDADELA ALFARERA PIRGUA TUNJA,name,trade name differs from the legal name in RUES,kept; legal name added,CORPORACION ALFARERA PIRGUA - TUNJA
+729956169,ASINEF CP,name,trade name differs from the legal name in RUES,kept; legal name added,ASINEF CONTADORES PUBLICOS S.A.S
+729990184,TRANSTIBANA OC,name,trade name differs from the legal name in RUES,kept; legal name added,ORGANIZACION COOPERATIVA DE TRANSPORTADORES DE TIBANA
+730383460,PROVEDOR,name,trade name differs from the legal name in RUES,kept; legal name added,URBANIZADORA LA RIVIERA S.A.S
+730470903,ALFA INGENIERIA & CONSULTORIA S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,ALFA I&C S.A.S.
+730624285,FUNDACION ECOLOGICA Y SOCIAL PLANETA VERDE,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACIÓN AGROPECUARIA Y DIVERSA DE COLONOS DE PUERTO BOYACÁ
+730720463,GEP S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,GRUPO EMPRESARIAL EL PUERTO SAS
+730773066,SEMITEC S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,SERVI EQUIPOS & MANTENIMIENTO INDUSTRIAL TECNICO S.A.S.
+730790466,"CORPORACION PARA EL DESARROLLO SOCIAL, CULTURAL Y DEPORTIVO",name,trade name differs from the legal name in RUES,kept; legal name added,"CORPORACION PARA EL DESARROLLO SOCIAL, CULTURAL, ARTISTICO, DEPORTIVO, EDUCATIVO Y AMBIENTAL DEL NORORIENTE COLOMBIANO"
+730791837,INGEASUM S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,"INGENIERIA, ASESORIAS Y SUMINISTROS SOCIEDAD POR ACCIONES SIMPLIFICADA"
+730796299,ASOGSAM,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION CAMPESINA DE GANADEROS DEL MUNICIPIO DE SAMACA
+730837317,TDVS,name,trade name differs from the legal name in RUES,kept; legal name added,SOLUCIONES DEPORTIVAS TVS S.A.S.
+731060547,SPS LTDA.,name,trade name differs from the legal name in RUES,kept; legal name added,SOSIN PRIVATE SECURITY LTDA
+731172169,SUCOINT S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,BP RENTAL GROUP SAS
+731203378,CENTRO DE ENSEÑANZA CEA RALLY SUAMOX,name,trade name differs from the legal name in RUES,kept; legal name added,CENTRO DE ENSEÑANZA AUTOMOVILISTICA CEA RALLY SUAMOX S.A.S EN LIQUIDACION
+731283859,INTERCOM ST,name,trade name differs from the legal name in RUES,kept; legal name added,INTERCOM SOLUCIONES TECNOLOGICAS SAS
+731479705,LOGISDOSER S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,LOGISTICA DOTACIONES SERVICIOS Y SUMINISTROS S.A.S
+731716221,SOCIACION DE MUJERES EMPRENDEDORAS CAMPESINAS DEL KILOMETRO UNO Y MEDIO - AMECAM,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACIÓN DE MUJERES EMPRENDEDORAS CAMPESINAS DEL KM 1 ½
+731782025,CONSTRUCTIVAS SIV S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,M.H. OBRAS CIVILES E INSTALACIONES S.A.S.
+731803318,TEXTIL CRAFT S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,SN SOLUCIONES E INVERSIONES S.A.S
+731953733,PROVEEDOR,name,trade name differs from the legal name in RUES,kept; legal name added,TECNOLOGIA CON CONCIENCIA S.A.S
+731977427,ASOCIACION DE EDILES DE DUITAMA,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION DE EDILES DEL MUNICIPIO DE DUITAMA
+731991659,INVERSIONES MYT,name,trade name differs from the legal name in RUES,kept; legal name added,INVERSIONES M&T PIRAJON SAS
+732092051,COOCAMPO,name,trade name differs from the legal name in RUES,kept; legal name added,COOPERATIVA MULTIACTIVA DE CAMPESINOS EMPRENDEDORES DE BOYACA
+732137062,ECOHORTALIZAS,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION DE MUJERES CAMPESINAS
+732235205,ORGANIZACION COPERATIVA COOPDISAM,name,trade name differs from the legal name in RUES,kept; legal name added,ORGANIZACION COOPERATIVA COOPDISAM O SIMPLEMENTE COOPDISAM O.C
+732351036,INDUSTRIAS GYA S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,CMO BENDICION S.A.S.
+732392378,"ACUEDUCTO INTERVEREDAL EL CACIQUE DE LA VEREDA DE LAS VEREDAS DE VOLCAN BLANCO, ROSALES Y RINCHOQUE",name,trade name differs from the legal name in RUES,kept; legal name added,"ACUEDUCTO INTERVEREDAL EL CACIQUE DE LAS VEREDAS VOLCAN BLANCO, ROSALES Y RINCHOQUE DEL MUNICIPIO DE TURMEQUE, DEPARTAMENTO DE BOYACA"
+733097448,ASOCIACION ACUEDUCTO CHORRO BLANCO VEREDA VILLA FRANCA MUNICIPIO DE BETEITIVA DEPARTAMENTO DE BOYACA,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION COMUNITARIA “CHORRO BLANCO” VILLAFRANCA
+733176978,ASOCIACION DE PADRES DE FAMILIA COLEGIO SERGIO CAMRGO,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION PADRES DE FAMILIA INSTITUCION EDUCATIVA SERGIO CAMARGO 2025
+733188148,INGELYMEC,name,trade name differs from the legal name in RUES,kept; legal name added,SOLUCIONES INTEGRALES EN INGENIERIA ELECTRICA MECANICA Y COMUNICACIONES SOCIEDAD POR ACCIONES SIMPLIFICADA
+733414478,SIGAP COL S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,SOLUCIONES INTEGRALES EN GESTION DE ADMINISTRACION PUBLICA DE COLOMBIA S.A.S
+733456941,PROVEEDOR,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION DE DISCAPACITADOS FISICOS DE SOGAMOSO
+733458921,ASOCIACION DE VICTIMAS DEL CONFLICTO ARMADO DEL MUNICPIO DE SOCHA,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION DE VICTIMAS DEL CONFLICTO ARMADO DEL MUNICIPIO DE SOCHA EMPODERAMIENTO PRODUCTIVO DE VICTIMAS
+733521751,ONG ASOCIACION DE PROFESIONALES SENDERO,name,trade name differs from the legal name in RUES,kept; legal name added,ORGANIZACION NO GUBERNAMENTAL ASOCIACION DE PROFESIONALES SENDERO GRUDSOC
+733731608,ASOCIACION SUSCRIPTORES ACUEDUCTO HATO Y SAN NICOLAS SEC SANTA RITA,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION DE SUSCRIPTORES DEL ACUEDUCTO DE LAS VEREDAS HATO Y SAN NICOLAS SECTOR SANTA RITA
+733779474,ASOCIACION DE MUEJRES CAMPESINAS DE RAMIRIQUI,name,trade name differs from the legal name in RUES,kept; legal name added,LOGISTICA Y TRANSPORTE DE SANTANDER SAS
+733835144,GRADICONS S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,GRUPO EMPRESARIAL DIAZ Y GRANADOS S.A.S.
+733965933,PROVEEDOR,name,trade name differs from the legal name in RUES,kept; legal name added,INNOVA SALUD COLOMBIA S.A.S.
+734001563,FUNDMIX,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION LA MIXERA ESPACIO CULTURAL
+734016728,ARTSSEM S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,"ASISTENCIAS, SUMINISTROS, SERVICIOS Y MANTENIMIENTOS S.A.S"
+734055692,ACUEDUCTO FUENTE DE GUATICA,name,trade name differs from the legal name in RUES,kept; legal name added,JUNTA ADMINISTRADORA DEL ACUEDUCTO DE GUATICA
+734273154,INDAGA,name,trade name differs from the legal name in RUES,kept; legal name added,INGENIERIA DAGA S.A.S.
+734400807,L&P INGENIERIA S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,L&P CONSULTORIA CONSTRUCCION Y DISEÑOS S.A.S.
+734474042,AGRACES,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION DE AGRICULTORES ALTOANDINOS DE CULTIVOS ECO-SOSTENIBLES DE BOYACA
+735541427,FUNDIMISO,name,trade name differs from the legal name in RUES,kept; legal name added,"FUNDACION, MUJERES, INFANCIA, SOCIEDAD Y ORGANIZACION"
+735610149,FUNENDRINO,name,trade name differs from the legal name in RUES,kept; legal name added,FUNDACION EL ENDRINO
+735632374,EDS FUEL Y GAS S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,ESTACION DE SERVICIO FUEL & GAS S.A.S.
+735753048,ITECH NETWORKS COLOMBIA S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,SANCHEZ BOTINA LIMITADA EN LIQUIDACION
+735875395,JJ TRANSPORTES SERVITECA SERVIEXPRESS,name,trade name differs from the legal name in RUES,kept; legal name added,J.J TRANSPORTES Y SERVICIOS S.A.S.
+736117250,DALLOS GARCIA CONSTRUCTORA,name,trade name differs from the legal name in RUES,kept; legal name added,DALLGAR S.A.S
+736172529,GRUCORLAA S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,"GRUPO CORPORATIVO, SUMINISTROS & SERVICIOS LA2 S.A.S"
+736350620,SOLUCIONES CONSTRUCTIVAS EL TITÁN,name,trade name differs from the legal name in RUES,kept; legal name added,S.C. EL TITÁN S.A.S.
+736541756,EDS LA VILLA DEL NORTE LTDA.,name,trade name differs from the legal name in RUES,kept; legal name added,ESTACION DE SERVICIO LA VILLA DEL NORTE LTDA
+736845405,PRIGMA S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,COMERCIALIZADORA E INVERSIONES LOZANO & LOZANO SAS
+736876038,AGROP ASOCIACION AGROPECUARIA SIN ANIMO DE LUCRO,name,trade name differs from the legal name in RUES,kept; legal name added,CONFEXTELAR S.A.S EN LIQUIDACION
+737283499,PROISEL INGENIERIA S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,PROYECTOS DE INGENIERIA Y SOLUCIONES ELECTRICAS SOCIEDAD POR ACCIONES SIMPLIFICADA
+737425090,S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,CONSTRUCCIONES Y SOLUCIONES BOYACÁ SOCIEDAD  POR ACCIONES SIMPLIFICADA
+737437194,SILO HAY S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,SOLUCIONES INTEGRALES LOGISTICAS OPERATIVAS PARA EL SECTOR AGROPECUARIO S.A.S
+737758474,NEXTGEN3D Y LASER SOLUTIONS S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,NEXTGEN 3D & LASER SOLUTIONS SOCIEDAD POR ACCIONES SIMPLIFICADA
+738189208,JULIO CESAR GONZALEZ MEJIA ABOGADOS Y PROFESIONALES ASESORES S.A.S.,name,trade name differs from the legal name in RUES,kept; legal name added,JCGM ABOGADOS & PROFESIONALES ASESORES S.A.S
+738194331,CORPORACIÓN TITANES COLOMBIA ONG,name,trade name differs from the legal name in RUES,kept; legal name added,"CORPORACION PARA EL DESARROLLO SOSTENIBLE, TITANES COLOMBIA ONG"
+738202126,ASOPMAGAR,name,trade name differs from the legal name in RUES,kept; legal name added,ASOCIACION DE PRODUCTORES MULTISECTORIALES AGROPECUARIOS DE GARAGOA
+704310473,MEDISERSUM C&P S.A.S.,registry,company is in liquidation (RUES name),flagged,MEDISERSUM C&P S.A.S. EN LIQUIDACION
+704639285,MEDIFAR SUMINISTROS FARMACEUTICOS S.A.S.,registry,company is in liquidation (RUES name),flagged,MEDIFAR SUMINISTROS FARMACEUTICOS S.A.S EN LIQUIDACION JUDICIAL
+707169553,WOW PUBLICIDAD,registry,company is in liquidation (RUES name),flagged,WOW MARKETING Y PUBLICIDAD S.A.S. EN LIQUIDACION
+707233185,&SOURCE,registry,company is in liquidation (RUES name),flagged,&SOURCE LTDA EN LIQUIDACION
+708954359,REMA SOLUCIONES,registry,company is in liquidation (RUES name),flagged,REMA SOLUCIONES INTEGRALES SOCIEDAD POR ACCIONES SIMPLIFICADA EN LIQUIDACION
+709854582,PEH CONSTRUCCIONES,registry,company is in liquidation (RUES name),flagged,P.E.H. CONSTRUCCIONES SOCIEDAD EN COMANDITA SIMPLE EN LIQUIDACION
+712587724,AL INGENIEROS S.A.S.,registry,company is in liquidation (RUES name),flagged,AL INGENIEROS S.A.S. EN LIQUIDACION
+712603224,DISAUTOS,registry,company is in liquidation (RUES name),flagged,AUTOS Y CAMIONES DE BOYACA S.A.S. EN LIQUIDACION
+712693290,INGENIERIA DE CAMINOS SEGUROS S.A.S.,registry,company is in liquidation (RUES name),flagged,INGENIERIA DE CAMINOS SEGUROS S.A.S EN LIQUIDACION
+712797638,MC SOLUCIONES S.A.S.,registry,company is in liquidation (RUES name),flagged,MC SOLUCIONES S.A.S EN LIQUIDACION
+712897693,FUNDACIÓN PARA EL BIENESTAR SOCIAL D&T,registry,company is in liquidation (RUES name),flagged,FUNDACION PARA EL BIENESTAR SOCIAL D&T EN LIQUIDACION
+713163095,GRUPO ESPECIALIZADO EN SOLUCIONES MULTIACTIVAS,registry,company is in liquidation (RUES name),flagged,GRUPO ESPECIALIZADO EN SOLUCIONES MULTIACTIVAS SOCIEDAD POR ACCIONES SIMPLIFICADA EN LIQUIDACION
+713169209,UMAÑA PROYECTOS Y COSNTRUCCION S.A.S.,registry,company is in liquidation (RUES name),flagged,UMAÑA PROYECTOS Y CONSTRUCCION S.A.S EN LIQUIDACION
+713339075,INGENIERIA Y SOLUCIONES AMBIENTALES INGENSA S.A.S.,registry,company is in liquidation (RUES name),flagged,INGENIERIA Y SOLUCIONES AMBIENTALES INGENSA SAS EN LIQUIDACION
+713360030,SOCIEDAD ESTRATEGICA DE PROYECTOS S.A.S.,registry,company is in liquidation (RUES name),flagged,SOCIEDAD ESTRATEGICA DE PROYECTOS S.A.S EN LIQUIDACION
+713438562,BIOEXCOL SOCIEDAD POR ACCIONES SIMPLIFICADAS,registry,company is in liquidation (RUES name),flagged,BIOEXCOL SOCIEDAD POR ACCIONES SIMPLIFICADA EN LIQUIDACION
+713497428,UNION TEMPORAL VIAS RONDON,registry,company is in liquidation (RUES name),flagged,VARIEDADES LA SALUD JMF S.A.S EN LIQUIDACION
+713962074,GRANJA APICOLA DEL BISABUELO EMILIO S.A.S.,registry,company is in liquidation (RUES name),flagged,GRANJA APICOLA DEL BISABUELO EMILIO S.A.S EN LIQUIDACION
+714054962,PROJECT CIVIL S.A.S.,registry,company is in liquidation (RUES name),flagged,PROJECT CIVIL SAS EN LIQUIDACION
+714530128,YEAR ELECTRIC S.A.S.,registry,company is in liquidation (RUES name),flagged,YEAR ELECTRIC S.A.S EN LIQUIDACION
+714532413,TRAMITES ASESORIAS SERVICIOS Y CONSULTORIAS S.A.S.,registry,company is in liquidation (RUES name),flagged,TRAMITES ASESORIAS SERVICIOS Y CONSULTORIAS SAS TAS CONSULTORES SAS EN LIQUIDACION
+714931250,CLEAN LINESS COMPANY S.A.S.,registry,company is in liquidation (RUES name),flagged,CLEAN LINESS COMPANY S.A.S EN LIQUIDACION
+715852315,CREATIVA LIGHT INTERNATIONAL,registry,company is in liquidation (RUES name),flagged,CREATIVA LIGHT INTERNATIONAL S.A.S. EN LIQUIDACION
+716006036,SC INGENIERÍA SOSTENIBLE S.A.S.,registry,company is in liquidation (RUES name),flagged,SC INGENIERIA SOSTENIBLE S.A.S EN LIQUIDACION
+716021779,SOFED S.A.S.,registry,company is in liquidation (RUES name),flagged,SOFED S.A.S. EN LIQUIDACION
+716223474,COMERCIALIZADORA GAM@.NET LTDA.,registry,company is in liquidation (RUES name),flagged,COMERCIALIZADORA GAM@.NET LTDA EN LIQUIDACION
+716234596,CORPORACION DE COMISARIOS Y OFICIALES DE CICLISMO DE BOYACA,registry,company is in liquidation (RUES name),flagged,CORPORACION DE COMISARIOS Y OFICIALES DE CICLISMO DE BOYACA COFCIBOY EN LIQUIDACION
+717424675,FUNDACION FAMITAR,registry,company is in liquidation (RUES name),flagged,FUNDACION FAMITAR EN LIQUIDACION
+717560148,ASESORIA Y GESTION GROUP CENTRO DE SOLUCIONES INTEGRALES S.A.S. BIC,registry,company is in liquidation (RUES name),flagged,ASESORIA Y GESTION GROUP CENTRO DE SOLUCIONES INTEGRALES S.A.S BIC EN LIQUIDACION
+717713085,BROMCIV S.A.S.,registry,company is in liquidation (RUES name),flagged,BROMCIV S.A.S. EN LIQUIDACION
+717835250,SERVICIOS FUNERARIOS DE BOYACA,registry,company is in liquidation (RUES name),flagged,SERVICIOS FUNERARIOS DE BOYACA S.A.S. EN LIQUIDACION
+718352248,EMOVAR S.A.S.,registry,company is in liquidation (RUES name),flagged,EMOVAR INTERNACIONAL S.A.S EN LIQUIDACION
+718564529,INDUSTRIAS CHASSIS TRUCK S.A.S.,registry,company is in liquidation (RUES name),flagged,INDUSTRIAS CHASSIS TRUCK S.A.S EN LIQUIDACION
+718658727,INVERSIONES TRANSPORTAR DE COLOMBIA S.A.S.,registry,company is in liquidation (RUES name),flagged,INVERSIONES TRANSPORTAR DE COLOMBIA IT DE COLOMBIA S.A.S EN LIQUIDACION JUDICIAL
+718994726,SANCAL S.A.S.,registry,company is in liquidation (RUES name),flagged,SANCAL S.A.S. EN LIQUIDACION
+719374761,SEGURIDAD PIONEROS LTDA.,registry,company is in liquidation (RUES name),flagged,PIONEROS LTDA EN LIQUIDACION
+719984064,SOLUCIONES GLOBALES DE COMUNICACIONES S.A.,registry,company is in liquidation (RUES name),flagged,SOLUCIONES GLOBALES DE COMUNICACIONES S.A. EN LIQUIDACION
+720168111,SERVIGENERALES LOPEZ Y SACHICA LTDA.,registry,company is in liquidation (RUES name),flagged,SERVIGENERALES LOPEZ Y SACHICA LTDA EN LIQUIDACION
+722319316,FUNDACION UNIDOS PARA AYUDAR SOGAMOSO,registry,company is in liquidation (RUES name),flagged,FUNDACION UNIDOS PARA AYUDAR SOGAMOSO EN LIQUIDACION
+723459657,ADOBE CONSULTORES CONSTRUCTORES S.A.S.,registry,company is in liquidation (RUES name),flagged,ADOBE CONSULTORES Y CONSTRUCTORES S.A.S EN LIQUIDACION
+724026380,PROINSUA,registry,company is in liquidation (RUES name),flagged,PROYECTOS DE INGENIERIA SUAREZ SOCIEDAD POR ACCIONES SIMPLIFICADA EN LIQUIDACION
+724270855,UNIDAD DE SERVICIOS INTEGRALES DE DUITAMA S.A. EN LIQUIDACIÓN,registry,company is in liquidation (RUES name),flagged,UNIDAD DE SERVICIOS INTEGRALES DE DUITAMA SOCIEDAD ANONIMA EN LIQUIDACION
+724601711,MEGANET TV S.A.S.,registry,company is in liquidation (RUES name),flagged,MEGANET TV S.A.S EN LIQUIDACION
+724663422,CONSTRUSAM INGENIERIA S.A.S.,registry,company is in liquidation (RUES name),flagged,CONSTRUSAM INGENIERIA S.A.S EN LIQUIDACION
+725031058,NEXUS SOLUTION S.A.S.,registry,company is in liquidation (RUES name),flagged,TRANSPASCAR S.A.S. EN LIQUIDACION
+725266704,INOVO SOLUCIONES INTEGRALES S.A.S.,registry,company is in liquidation (RUES name),flagged,INOVO SOLUCIONES INTEGRALES S.A.S EN LIQUIDACION
+725412688,JUNTA DE ACCION COMUNAL BARRRIO SUCRE SECTOR LA FLORESTA,registry,company is in liquidation (RUES name),flagged,INSTITUTO INTERNACIONAL DE ESTUDIOS EN SEGURIDAD GLOBAL S.A.S - EN LIQUIDACION
+730958311,ZFE COLOMBIA S.A.S.,registry,company is in liquidation (RUES name),flagged,ZFE COLOMBIA SAS EN LIQUIDACION
+731082855,DESARROLLOS INFORMATICOS AU S.A.S. EN LIQUIDACIÓN,registry,company is in liquidation (RUES name),flagged,DESARROLLOS INFORMATICOS AU S.A.S EN LIQUIDACIÓN
+731203378,CENTRO DE ENSEÑANZA CEA RALLY SUAMOX,registry,company is in liquidation (RUES name),flagged,CENTRO DE ENSEÑANZA AUTOMOVILISTICA CEA RALLY SUAMOX S.A.S EN LIQUIDACION
+732585468,ECOSOLUCION DE COLOMBIA S.A.S.,registry,company is in liquidation (RUES name),flagged,ECOSOLUCION DE COLOMBIA SAS EN LIQUIDACION
+735753048,ITECH NETWORKS COLOMBIA S.A.S.,registry,company is in liquidation (RUES name),flagged,SANCHEZ BOTINA LIMITADA EN LIQUIDACION
+736876038,AGROP ASOCIACION AGROPECUARIA SIN ANIMO DE LUCRO,registry,company is in liquidation (RUES name),flagged,CONFEXTELAR S.A.S EN LIQUIDACION
+737560706,SOCIEDAD SAN VICENTE DE PAUL GARAGOA,registry,company is in liquidation (RUES name),flagged,SOCIEDAD SAN VICENTE DE PAUL DE GARAGOA EN LIQUIDACION
+738203074,HOTEL OICATA,registry,company is in liquidation (RUES name),flagged,HOTEL OICATA LTDA EN LIQUIDACION

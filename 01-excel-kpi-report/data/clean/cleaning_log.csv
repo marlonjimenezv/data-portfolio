@@ -1,0 +1,9 @@
+step,rule,rows_before,rows_removed,rows_after,note
+0,Load both sheets (2009-2010 and 2010-2011),0,0,1067371,Raw invoice lines
+1,Remove exact duplicate lines,1067371,34335,1033036,"Includes 1-9 Dec 2010, which appears in both sheets"
+2,Keep 24 full months (Dec 2009 - Nov 2011),1033036,25247,1007789,Dec 2011 has only 9 days of data
+3,Remove non-product codes,1007789,5724,1002065,"Postage, fees, adjustments, tests and gift vouchers (ADJUST, ADJUST2, AMAZONFEE, B, BANK CHARGES, C2, CRUK, D, DOT, M, PADS, POST, S, TEST001, TEST002, m, gift_*)"
+4,Remove lines with price <= 0,1002065,5911,996154,Free items and stock write-offs
+5,Check: sales lines with quantity <= 0,996154,0,996154,Validation only: none left after the price rule
+6,Upper-case stock codes,996154,0,996154,"3,148 lines / 173 codes such as 85123a -> 85123A (Excel lookups ignore case, so variants would be double-counted)"
+7,Standardise text fields,996154,0,996154,One description per stock code (623 codes had several); missing customer IDs labelled 'Guest'

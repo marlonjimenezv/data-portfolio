@@ -1,0 +1,5 @@
+shot-1.png: One-page dashboard on 60,902 contracts worth COP 6.97 trillion. Seven filters (month, entity level, department, method, type, supplier) update every KPI, chart and table.
+shot-2.png: The same page filtered to Antioquia (28,552 contracts, 97.9% direct awards). Numbers are recalculated in the browser, and an automated test checks them against pandas.
+shot-3.png: Responsive layout: on a phone the filters, tiles and charts stack in one column, with no horizontal scrolling.
+shot-4.png: Power BI kit: one fact table (one row per contract) and five dimensions as clean CSV files, with the relationships described step by step.
+shot-5.png: Twelve DAX measures (CALCULATE, DIVIDE, TOTALYTD, DATEADD, RANKX) with explanations, a Spanish build guide and the expected values to check the model.

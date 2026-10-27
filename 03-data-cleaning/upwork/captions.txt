@@ -1,0 +1,5 @@
+shot-1.png: The clean Excel file: 3,569 organisations with a validated tax ID (NIT with check digit), standard name, +57 phone, e-mail, website, address, DANE municipality code and registry status.
+shot-2.png: Issues sheet: one row per problem found (field, issue, action taken), ready to filter and assign. Values that could not be fixed with certainty are flagged, never guessed.
+shot-3.png: Two-page quality report. Example: records with a standard address went from 5% to 92%, and a valid unique tax ID from 73% to 99%.
+shot-4.png: Cross-check with the chamber-of-commerce registry: 469 active registrations not renewed for 2026, 55 companies in liquidation and 28 cancelled registrations.
+shot-5.png: Every rule is logged with the rows or cells it changed, including the privacy rules: personal IDs excluded, personal-looking e-mails masked and mobile numbers partly hidden.

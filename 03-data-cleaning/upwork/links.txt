@@ -1,0 +1,3 @@
+GitHub project folder: https://github.com/marlonjimenezv/data-portfolio/tree/main/03-data-cleaning
+Quality report (PDF): https://github.com/marlonjimenezv/data-portfolio/blob/main/03-data-cleaning/output/quality_report.pdf
+Clean Excel file: https://github.com/marlonjimenezv/data-portfolio/blob/main/03-data-cleaning/output/suppliers_clean.xlsx

@@ -1,0 +1,4 @@
+Report (web page): https://marlonjimenezv.github.io/data-portfolio/survey-report/
+Report (PDF): https://github.com/marlonjimenezv/data-portfolio/blob/main/05-survey-analysis/output/report.pdf
+Notebook with code: https://github.com/marlonjimenezv/data-portfolio/blob/main/05-survey-analysis/analysis/analysis.ipynb
+GitHub project folder: https://github.com/marlonjimenezv/data-portfolio/tree/main/05-survey-analysis

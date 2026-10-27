@@ -1,0 +1,5 @@
+Lead Generation
+Data Mining
+Web Scraping
+Python
+Google Sheets

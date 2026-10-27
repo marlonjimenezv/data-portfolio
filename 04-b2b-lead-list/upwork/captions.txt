@@ -1,0 +1,4 @@
+shot-1.png: One row per institution: city, phone in +57 format, verified website and status, check date, sector, type, accreditation, enrolment and the source of every value. CSV (UTF-8) for Google Sheets plus Excel.
+shot-2.png: Summary of the website check: 207 online, 13 online but blocking bots, 62 not reachable from the checking server (to re-check locally), by sector, type and department.
+shot-3.png: Method summary: official sources and licences, each step with its count, and how the check respects robots.txt, uses pauses and never crawls beyond the home page.
+shot-4.png: The core of the verification script: a descriptive User-Agent, robots.txt checked before any page request, and a pause between requests to the same site.

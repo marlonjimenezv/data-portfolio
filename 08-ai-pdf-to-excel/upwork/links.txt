@@ -1,0 +1,3 @@
+GitHub project folder: https://github.com/marlonjimenezv/data-portfolio/tree/main/08-ai-pdf-to-excel
+Excel output: https://github.com/marlonjimenezv/data-portfolio/blob/main/08-ai-pdf-to-excel/output/invoices_extracted.xlsx
+Run animation (GIF): https://github.com/marlonjimenezv/data-portfolio/blob/main/08-ai-pdf-to-excel/output/pipeline_run.gif

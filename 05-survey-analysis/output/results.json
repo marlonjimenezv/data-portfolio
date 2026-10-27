@@ -1,0 +1,89 @@
+{
+  "n_total": 3986,
+  "n_happy_valid": 3954,
+  "very_happy": {
+    "p": 0.2299816480451246,
+    "lo": 0.2082271262774784,
+    "hi": 0.2532819209265367
+  },
+  "very_happy_married": 0.3165244550747537,
+  "very_happy_never_married": 0.13388019655912897,
+  "very_happy_excellent_health": 0.40788839391815623,
+  "very_happy_poor_health": 0.14655737982303732,
+  "very_happy_fin_satisfied": 0.38585680590784915,
+  "very_happy_fin_not": 0.13859919953159794,
+  "chi2": {
+    "marital": {
+      "chi2": 211.4866551483459,
+      "dof": 6,
+      "p": 6.791190751319709e-43,
+      "v": 0.16382432058076568
+    },
+    "health": {
+      "chi2": 338.88363396332335,
+      "dof": 6,
+      "p": 3.753973007876118e-70,
+      "v": 0.20732515081079
+    },
+    "finances": {
+      "chi2": 396.24589364471666,
+      "dof": 4,
+      "p": 1.8006063086426978e-84,
+      "v": 0.2243286186368946
+    }
+  },
+  "model_n": 3760,
+  "mcfadden": 0.11470452950107013,
+  "auc": 0.7300134260068541,
+  "max_vif": 2.0240136419892245,
+  "hl_p": 0.03166454714664102,
+  "cal_gap": 0.07205774561167405,
+  "or": {
+    "Divorced / separated (vs married)": 0.46157884141520167,
+    "Never married (vs married)": 0.34812946477783546,
+    "Widowed (vs married)": 0.3865376860446611,
+    "Fair health (vs excellent)": 0.20253700802827435,
+    "Good health (vs excellent)": 0.4575816873779123,
+    "Poor health (vs excellent)": 0.27919544787941364,
+    "Finances: more or less satisfied (vs satisfied)": 0.5279195447722645,
+    "Finances: not satisfied at all (vs satisfied)": 0.37942051829551904,
+    "Age 35-49 (vs 18-34)": 0.9364744657988497,
+    "Age 50-64 (vs 18-34)": 0.734833314009983,
+    "Age 65+ (vs 18-34)": 0.9501230776994827,
+    "Female (vs male)": 1.1067619011878347,
+    "Bachelor's degree or higher": 0.7281028411839736,
+    "Religious services monthly or more": 1.3662680587199474
+  },
+  "or_p": {
+    "Divorced / separated (vs married)": 4.228306438848467e-06,
+    "Never married (vs married)": 9.607340808628259e-09,
+    "Widowed (vs married)": 0.000338382055970754,
+    "Fair health (vs excellent)": 1.861752906773824e-16,
+    "Good health (vs excellent)": 2.377347807584127e-07,
+    "Poor health (vs excellent)": 0.002118205769722937,
+    "Finances: more or less satisfied (vs satisfied)": 3.246790936357462e-06,
+    "Finances: not satisfied at all (vs satisfied)": 9.11305395405155e-09,
+    "Age 35-49 (vs 18-34)": 0.7090443340495959,
+    "Age 50-64 (vs 18-34)": 0.08007355299023602,
+    "Age 65+ (vs 18-34)": 0.8147329468030926,
+    "Female (vs male)": 0.4064214758518876,
+    "Bachelor's degree or higher": 0.015047515798327577,
+    "Religious services monthly or more": 0.010893915313283285
+  },
+  "ame_pp": {
+    "Divorced / separated (vs married)": -12.548922215231215,
+    "Never married (vs married)": -16.017564047179157,
+    "Widowed (vs married)": -14.799150477771414,
+    "Fair health (vs excellent)": -25.509720886970705,
+    "Good health (vs excellent)": -14.834194958089753,
+    "Poor health (vs excellent)": -21.910756943188442,
+    "Finances: more or less satisfied (vs satisfied)": -11.265405416518002,
+    "Finances: not satisfied at all (vs satisfied)": -15.935004152649537,
+    "Age 35-49 (vs 18-34)": -1.042845531763697,
+    "Age 50-64 (vs 18-34)": -4.649042579285749,
+    "Age 65+ (vs 18-34)": -0.8153406204693143,
+    "Female (vs male)": 1.5682396269363994,
+    "Bachelor's degree or higher": -4.778289643387874,
+    "Religious services monthly or more": 4.933566419512028
+  }
+}

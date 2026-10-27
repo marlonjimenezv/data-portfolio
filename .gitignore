@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw downloads are re-created by each project's run.py
+*/data/raw/*
+!*/data/raw/.gitkeep
+
+# Large or rebuildable intermediates
+*.db
+*.part
+01-excel-kpi-report/data/clean/order_lines.csv.gz
+
+# OS / editors
+.DS_Store
+*.swp

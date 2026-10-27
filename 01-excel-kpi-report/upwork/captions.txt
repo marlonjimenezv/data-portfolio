@@ -1,0 +1,5 @@
+shot-1.png: One-page KPI sheet. Pick the first and last month in the yellow cells and every KPI, ranking and chart updates. All values are live formulas (SUMIFS, COUNTIFS, INDEX/MATCH, LARGE) on Excel tables.
+shot-2.png: Headline KPIs for Dec 2010 - Nov 2011 vs the previous 12 months: net revenue £9,330,919 (+1.9%), 18,957 orders (-4.0%), average order value £508.14 (+6.8%).
+shot-3.png: Top 10 products and the monthly trend. Conditional formatting highlights the selected period, month-over-month changes and year-over-year changes.
+shot-4.png: Notes sheet: definition of each KPI and how it is calculated. The same sheet lists the data source and licence (UCI, CC BY 4.0), the cleaning steps with the rows removed by each rule, and limitations.
+shot-5.png: The same cleaned data loaded into SQLite with 13 business queries. Example: the top 10% of customers bring 60% of revenue, and one storage jar had 95% of its sales returned (one bulk order cancelled).

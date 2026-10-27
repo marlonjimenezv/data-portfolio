@@ -1,0 +1,50 @@
+$ python run.py
+[1/6] Sample invoices: 41 SAMPLE / SYNTHETIC PDFs created
+[2/6] Unit tests: 4 passed
+[3/6] Extracting 41 PDFs (pdfplumber + rules)
+[4/6] Validating
+  SAMPLE_cleaning_CL-2026-31.pdf         OK         COP 1.320.900  2 lines
+  SAMPLE_cleaning_CL-2026-32.pdf         OK         COP 1.517.250  2 lines
+  SAMPLE_cleaning_CL-2026-33.pdf         Review                 -  No text layer: the PDF is a scanned image
+  SAMPLE_cleaning_CL-2026-34.pdf         OK           COP 499.800  1 line
+  SAMPLE_cleaning_CL-2026-35.pdf         OK         COP 1.963.500  3 lines
+  SAMPLE_cleaning_CL-2026-36.pdf         OK         COP 1.309.000  2 lines
+  SAMPLE_cleaning_CL-2026-37.pdf         OK         COP 3.909.150  5 lines
+  SAMPLE_cleaning_CL-2026-38.pdf         OK         COP 2.799.475  2 lines
+  SAMPLE_cleaning_CL-2026-39.pdf         OK         COP 2.748.900  5 lines
+  SAMPLE_cleaning_CL-2026-40.pdf         OK         COP 1.552.950  3 lines
+  SAMPLE_cloud_CS-88201.pdf              OK          USD 1,131.00  3 lines
+  SAMPLE_cloud_CS-88202.pdf              OK          USD 1,197.95  4 lines
+  SAMPLE_cloud_CS-88203.pdf              OK          USD 1,374.97  4 lines
+  SAMPLE_cloud_CS-88204.pdf              OK          USD 1,344.95  5 lines
+  SAMPLE_cloud_CS-88205.pdf              OK            USD 356.00  1 line
+  SAMPLE_cloud_CS-88206.pdf              Review        USD 640.00  Line 1: 2 x 25.00 = 50.00, but the invoice says 25.00
+  SAMPLE_cloud_CS-88207.pdf              OK          USD 1,150.98  5 lines
+  SAMPLE_cloud_CS-88208.pdf              OK            USD 119.97  1 line
+  SAMPLE_cloud_CS-88209.pdf              OK          USD 1,081.00  2 lines
+  SAMPLE_cloud_CS-88210.pdf              OK            USD 600.00  1 line
+  SAMPLE_office_OS-2026-101.pdf          OK           COP 580.482  3 lines
+  SAMPLE_office_OS-2026-102.pdf          OK         COP 1.504.160  4 lines
+  SAMPLE_office_OS-2026-103.pdf          OK            COP 11.662  1 line
+  SAMPLE_office_OS-2026-104.pdf          Review     COP 2.897.535  Subtotal + tax = 2.887.535, total says 2.897.535
+  SAMPLE_office_OS-2026-105.pdf          OK         COP 1.103.130  3 lines
+  SAMPLE_office_OS-2026-106.pdf          OK           COP 512.057  5 lines
+  SAMPLE_office_OS-2026-107.pdf          OK           COP 442.323  5 lines
+  SAMPLE_office_OS-2026-108.pdf          OK         COP 2.184.840  1 line
+  SAMPLE_office_OS-2026-109.pdf          OK         COP 1.852.473  5 lines
+  SAMPLE_office_OS-2026-110.pdf          OK           COP 640.577  5 lines
+  SAMPLE_tech_TR-1041.pdf                OK         COP 2.207.450  2 lines
+  SAMPLE_tech_TR-1042.pdf                OK         COP 3.391.500  5 lines
+  SAMPLE_tech_TR-1042_resent.pdf         Review     COP 3.391.500  Duplicate of SAMPLE_tech_TR-1042.pdf
+  SAMPLE_tech_TR-1043.pdf                OK         COP 2.778.650  3 lines
+  SAMPLE_tech_TR-1044.pdf                OK         COP 6.384.350  5 lines
+  SAMPLE_tech_TR-1045.pdf                OK         COP 4.884.950  4 lines
+  SAMPLE_tech_TR-1046.pdf                OK         COP 2.070.600  5 lines
+  SAMPLE_tech_TR-1047.pdf                OK           COP 416.500  2 lines
+  SAMPLE_tech_TR-1048.pdf                OK           COP 404.600  1 line
+  SAMPLE_tech_TR-1049.pdf                Check      COP 1.428.000  Due 2026-05-23 is before issue 2026-05-24
+  SAMPLE_tech_TR-1050.pdf                OK         COP 4.379.200  2 lines
+[5/6] AI step: not run (no ANTHROPIC_API_KEY set). Unreadable files stay in the error log for manual entry.
+[6/6] Excel: output/invoices_extracted.xlsx | OK 36, flagged 5, error-log rows 5
+  Accuracy vs answer key: every field correct in at least 40 of 41 files
+  Planted problems caught: 5 of 5; clean invoices wrongly flagged: 0

@@ -1,0 +1,125 @@
+﻿file,invoice_no,supplier,line,description,qty,unit_price,amount,currency
+SAMPLE_cleaning_CL-2026-31.pdf,CL/2026/31,Demo Cleaning Co. (Sample),1,Disinfection service,1.0,210000.0,210000.0,COP
+SAMPLE_cleaning_CL-2026-31.pdf,CL/2026/31,Demo Cleaning Co. (Sample),2,Office cleaning service (visit),5.0,180000.0,900000.0,COP
+SAMPLE_cleaning_CL-2026-32.pdf,CL/2026/32,Demo Cleaning Co. (Sample),1,Cleaning supplies kit,1.0,75000.0,75000.0,COP
+SAMPLE_cleaning_CL-2026-32.pdf,CL/2026/32,Demo Cleaning Co. (Sample),2,Window cleaning (per floor),5.0,240000.0,1200000.0,COP
+SAMPLE_cleaning_CL-2026-34.pdf,CL/2026/34,Demo Cleaning Co. (Sample),1,Disinfection service,2.0,210000.0,420000.0,COP
+SAMPLE_cleaning_CL-2026-35.pdf,CL/2026/35,Demo Cleaning Co. (Sample),1,Window cleaning (per floor),3.0,240000.0,720000.0,COP
+SAMPLE_cleaning_CL-2026-35.pdf,CL/2026/35,Demo Cleaning Co. (Sample),2,Carpet deep clean (m2),120.0,6500.0,780000.0,COP
+SAMPLE_cleaning_CL-2026-35.pdf,CL/2026/35,Demo Cleaning Co. (Sample),3,Cleaning supplies kit,2.0,75000.0,150000.0,COP
+SAMPLE_cleaning_CL-2026-36.pdf,CL/2026/36,Demo Cleaning Co. (Sample),1,Carpet deep clean (m2),40.0,6500.0,260000.0,COP
+SAMPLE_cleaning_CL-2026-36.pdf,CL/2026/36,Demo Cleaning Co. (Sample),2,Disinfection service,4.0,210000.0,840000.0,COP
+SAMPLE_cleaning_CL-2026-37.pdf,CL/2026/37,Demo Cleaning Co. (Sample),1,Carpet deep clean (m2),120.0,6500.0,780000.0,COP
+SAMPLE_cleaning_CL-2026-37.pdf,CL/2026/37,Demo Cleaning Co. (Sample),2,Office cleaning service (visit),5.0,180000.0,900000.0,COP
+SAMPLE_cleaning_CL-2026-37.pdf,CL/2026/37,Demo Cleaning Co. (Sample),3,Disinfection service,2.0,210000.0,420000.0,COP
+SAMPLE_cleaning_CL-2026-37.pdf,CL/2026/37,Demo Cleaning Co. (Sample),4,Cleaning supplies kit,3.0,75000.0,225000.0,COP
+SAMPLE_cleaning_CL-2026-37.pdf,CL/2026/37,Demo Cleaning Co. (Sample),5,Window cleaning (per floor),4.0,240000.0,960000.0,COP
+SAMPLE_cleaning_CL-2026-38.pdf,CL/2026/38,Demo Cleaning Co. (Sample),1,Office cleaning service (visit),10.0,180000.0,1800000.0,COP
+SAMPLE_cleaning_CL-2026-38.pdf,CL/2026/38,Demo Cleaning Co. (Sample),2,Carpet deep clean (m2),85.0,6500.0,552500.0,COP
+SAMPLE_cleaning_CL-2026-39.pdf,CL/2026/39,Demo Cleaning Co. (Sample),1,Cleaning supplies kit,4.0,75000.0,300000.0,COP
+SAMPLE_cleaning_CL-2026-39.pdf,CL/2026/39,Demo Cleaning Co. (Sample),2,Window cleaning (per floor),2.0,240000.0,480000.0,COP
+SAMPLE_cleaning_CL-2026-39.pdf,CL/2026/39,Demo Cleaning Co. (Sample),3,Office cleaning service (visit),4.0,180000.0,720000.0,COP
+SAMPLE_cleaning_CL-2026-39.pdf,CL/2026/39,Demo Cleaning Co. (Sample),4,Disinfection service,2.0,210000.0,420000.0,COP
+SAMPLE_cleaning_CL-2026-39.pdf,CL/2026/39,Demo Cleaning Co. (Sample),5,Carpet deep clean (m2),60.0,6500.0,390000.0,COP
+SAMPLE_cleaning_CL-2026-40.pdf,CL/2026/40,Demo Cleaning Co. (Sample),1,Office cleaning service (visit),1.0,180000.0,180000.0,COP
+SAMPLE_cleaning_CL-2026-40.pdf,CL/2026/40,Demo Cleaning Co. (Sample),2,Disinfection service,5.0,210000.0,1050000.0,COP
+SAMPLE_cleaning_CL-2026-40.pdf,CL/2026/40,Demo Cleaning Co. (Sample),3,Cleaning supplies kit,1.0,75000.0,75000.0,COP
+SAMPLE_cloud_CS-88201.pdf,CS-88201,Demo Cloud Services LLC (Sample),1,Backup storage 500 GB (month),2.0,25.0,50.0,USD
+SAMPLE_cloud_CS-88201.pdf,CS-88201,Demo Cloud Services LLC (Sample),2,Managed database (month),5.0,145.0,725.0,USD
+SAMPLE_cloud_CS-88201.pdf,CS-88201,Demo Cloud Services LLC (Sample),3,"Cloud server, standard plan (month)",4.0,89.0,356.0,USD
+SAMPLE_cloud_CS-88202.pdf,CS-88202,Demo Cloud Services LLC (Sample),1,Managed database (month),4.0,145.0,580.0,USD
+SAMPLE_cloud_CS-88202.pdf,CS-88202,Demo Cloud Services LLC (Sample),2,Domain and SSL renewal,5.0,39.99,199.95,USD
+SAMPLE_cloud_CS-88202.pdf,CS-88202,Demo Cloud Services LLC (Sample),3,Support hours,4.0,60.0,240.0,USD
+SAMPLE_cloud_CS-88202.pdf,CS-88202,Demo Cloud Services LLC (Sample),4,"Cloud server, standard plan (month)",2.0,89.0,178.0,USD
+SAMPLE_cloud_CS-88203.pdf,CS-88203,Demo Cloud Services LLC (Sample),1,Managed database (month),4.0,145.0,580.0,USD
+SAMPLE_cloud_CS-88203.pdf,CS-88203,Demo Cloud Services LLC (Sample),2,Domain and SSL renewal,3.0,39.99,119.97,USD
+SAMPLE_cloud_CS-88203.pdf,CS-88203,Demo Cloud Services LLC (Sample),3,Backup storage 500 GB (month),3.0,25.0,75.0,USD
+SAMPLE_cloud_CS-88203.pdf,CS-88203,Demo Cloud Services LLC (Sample),4,Support hours,10.0,60.0,600.0,USD
+SAMPLE_cloud_CS-88204.pdf,CS-88204,Demo Cloud Services LLC (Sample),1,Managed database (month),1.0,145.0,145.0,USD
+SAMPLE_cloud_CS-88204.pdf,CS-88204,Demo Cloud Services LLC (Sample),2,Support hours,1.0,60.0,60.0,USD
+SAMPLE_cloud_CS-88204.pdf,CS-88204,Demo Cloud Services LLC (Sample),3,"Cloud server, standard plan (month)",10.0,89.0,890.0,USD
+SAMPLE_cloud_CS-88204.pdf,CS-88204,Demo Cloud Services LLC (Sample),4,Backup storage 500 GB (month),2.0,25.0,50.0,USD
+SAMPLE_cloud_CS-88204.pdf,CS-88204,Demo Cloud Services LLC (Sample),5,Domain and SSL renewal,5.0,39.99,199.95,USD
+SAMPLE_cloud_CS-88205.pdf,CS-88205,Demo Cloud Services LLC (Sample),1,"Cloud server, standard plan (month)",4.0,89.0,356.0,USD
+SAMPLE_cloud_CS-88206.pdf,CS-88206,Demo Cloud Services LLC (Sample),1,Backup storage 500 GB (month),2.0,25.0,25.0,USD
+SAMPLE_cloud_CS-88206.pdf,CS-88206,Demo Cloud Services LLC (Sample),2,Support hours,3.0,60.0,180.0,USD
+SAMPLE_cloud_CS-88206.pdf,CS-88206,Demo Cloud Services LLC (Sample),3,Managed database (month),3.0,145.0,435.0,USD
+SAMPLE_cloud_CS-88207.pdf,CS-88207,Demo Cloud Services LLC (Sample),1,Managed database (month),4.0,145.0,580.0,USD
+SAMPLE_cloud_CS-88207.pdf,CS-88207,Demo Cloud Services LLC (Sample),2,Domain and SSL renewal,2.0,39.99,79.98,USD
+SAMPLE_cloud_CS-88207.pdf,CS-88207,Demo Cloud Services LLC (Sample),3,Backup storage 500 GB (month),3.0,25.0,75.0,USD
+SAMPLE_cloud_CS-88207.pdf,CS-88207,Demo Cloud Services LLC (Sample),4,"Cloud server, standard plan (month)",4.0,89.0,356.0,USD
+SAMPLE_cloud_CS-88207.pdf,CS-88207,Demo Cloud Services LLC (Sample),5,Support hours,1.0,60.0,60.0,USD
+SAMPLE_cloud_CS-88208.pdf,CS-88208,Demo Cloud Services LLC (Sample),1,Domain and SSL renewal,3.0,39.99,119.97,USD
+SAMPLE_cloud_CS-88209.pdf,CS-88209,Demo Cloud Services LLC (Sample),1,Managed database (month),5.0,145.0,725.0,USD
+SAMPLE_cloud_CS-88209.pdf,CS-88209,Demo Cloud Services LLC (Sample),2,"Cloud server, standard plan (month)",4.0,89.0,356.0,USD
+SAMPLE_cloud_CS-88210.pdf,CS-88210,Demo Cloud Services LLC (Sample),1,Support hours,10.0,60.0,600.0,USD
+SAMPLE_office_OS-2026-101.pdf,OS-2026-101,Demo Office Supplies S.A.S. (Sample),1,"Sticky notes, pack of 12",1.0,9800.0,9800.0,COP
+SAMPLE_office_OS-2026-101.pdf,OS-2026-101,Demo Office Supplies S.A.S. (Sample),2,"Whiteboard markers, set of 4",4.0,21500.0,86000.0,COP
+SAMPLE_office_OS-2026-101.pdf,OS-2026-101,Demo Office Supplies S.A.S. (Sample),3,"Printer paper A4, box of 10 reams",4.0,98000.0,392000.0,COP
+SAMPLE_office_OS-2026-102.pdf,OS-2026-102,Demo Office Supplies S.A.S. (Sample),1,"Whiteboard markers, set of 4",10.0,21500.0,215000.0,COP
+SAMPLE_office_OS-2026-102.pdf,OS-2026-102,Demo Office Supplies S.A.S. (Sample),2,"Sticky notes, pack of 12",10.0,9800.0,98000.0,COP
+SAMPLE_office_OS-2026-102.pdf,OS-2026-102,Demo Office Supplies S.A.S. (Sample),3,"Suspension folders, pack of 25",4.0,24000.0,96000.0,COP
+SAMPLE_office_OS-2026-102.pdf,OS-2026-102,Demo Office Supplies S.A.S. (Sample),4,"Toner cartridge, black",3.0,285000.0,855000.0,COP
+SAMPLE_office_OS-2026-103.pdf,OS-2026-103,Demo Office Supplies S.A.S. (Sample),1,"Sticky notes, pack of 12",1.0,9800.0,9800.0,COP
+SAMPLE_office_OS-2026-104.pdf,OS-2026-104,Demo Office Supplies S.A.S. (Sample),1,"Whiteboard markers, set of 4",1.0,21500.0,21500.0,COP
+SAMPLE_office_OS-2026-104.pdf,OS-2026-104,Demo Office Supplies S.A.S. (Sample),2,"Printer paper A4, box of 10 reams",10.0,98000.0,980000.0,COP
+SAMPLE_office_OS-2026-104.pdf,OS-2026-104,Demo Office Supplies S.A.S. (Sample),3,"Toner cartridge, black",5.0,285000.0,1425000.0,COP
+SAMPLE_office_OS-2026-105.pdf,OS-2026-105,Demo Office Supplies S.A.S. (Sample),1,"Ballpoint pens, pack of 12",2.0,18500.0,37000.0,COP
+SAMPLE_office_OS-2026-105.pdf,OS-2026-105,Demo Office Supplies S.A.S. (Sample),2,"Toner cartridge, black",2.0,285000.0,570000.0,COP
+SAMPLE_office_OS-2026-105.pdf,OS-2026-105,Demo Office Supplies S.A.S. (Sample),3,Heavy-duty stapler,10.0,32000.0,320000.0,COP
+SAMPLE_office_OS-2026-106.pdf,OS-2026-106,Demo Office Supplies S.A.S. (Sample),1,"Suspension folders, pack of 25",4.0,24000.0,96000.0,COP
+SAMPLE_office_OS-2026-106.pdf,OS-2026-106,Demo Office Supplies S.A.S. (Sample),2,"Printer paper A4, box of 10 reams",2.0,98000.0,196000.0,COP
+SAMPLE_office_OS-2026-106.pdf,OS-2026-106,Demo Office Supplies S.A.S. (Sample),3,Heavy-duty stapler,2.0,32000.0,64000.0,COP
+SAMPLE_office_OS-2026-106.pdf,OS-2026-106,Demo Office Supplies S.A.S. (Sample),4,"Whiteboard markers, set of 4",3.0,21500.0,64500.0,COP
+SAMPLE_office_OS-2026-106.pdf,OS-2026-106,Demo Office Supplies S.A.S. (Sample),5,"Sticky notes, pack of 12",1.0,9800.0,9800.0,COP
+SAMPLE_office_OS-2026-107.pdf,OS-2026-107,Demo Office Supplies S.A.S. (Sample),1,Heavy-duty stapler,3.0,32000.0,96000.0,COP
+SAMPLE_office_OS-2026-107.pdf,OS-2026-107,Demo Office Supplies S.A.S. (Sample),2,"Printer paper A4, box of 10 reams",1.0,98000.0,98000.0,COP
+SAMPLE_office_OS-2026-107.pdf,OS-2026-107,Demo Office Supplies S.A.S. (Sample),3,"Whiteboard markers, set of 4",3.0,21500.0,64500.0,COP
+SAMPLE_office_OS-2026-107.pdf,OS-2026-107,Demo Office Supplies S.A.S. (Sample),4,"Sticky notes, pack of 12",4.0,9800.0,39200.0,COP
+SAMPLE_office_OS-2026-107.pdf,OS-2026-107,Demo Office Supplies S.A.S. (Sample),5,"Ballpoint pens, pack of 12",4.0,18500.0,74000.0,COP
+SAMPLE_office_OS-2026-108.pdf,OS-2026-108,Demo Office Supplies S.A.S. (Sample),1,"Ergonomic office chair with adjustable armrests and lumbar support, black mesh",4.0,459000.0,1836000.0,COP
+SAMPLE_office_OS-2026-109.pdf,OS-2026-109,Demo Office Supplies S.A.S. (Sample),1,"Toner cartridge, black",4.0,285000.0,1140000.0,COP
+SAMPLE_office_OS-2026-109.pdf,OS-2026-109,Demo Office Supplies S.A.S. (Sample),2,"Whiteboard markers, set of 4",3.0,21500.0,64500.0,COP
+SAMPLE_office_OS-2026-109.pdf,OS-2026-109,Demo Office Supplies S.A.S. (Sample),3,"Sticky notes, pack of 12",4.0,9800.0,39200.0,COP
+SAMPLE_office_OS-2026-109.pdf,OS-2026-109,Demo Office Supplies S.A.S. (Sample),4,Heavy-duty stapler,4.0,32000.0,128000.0,COP
+SAMPLE_office_OS-2026-109.pdf,OS-2026-109,Demo Office Supplies S.A.S. (Sample),5,"Ballpoint pens, pack of 12",10.0,18500.0,185000.0,COP
+SAMPLE_office_OS-2026-110.pdf,OS-2026-110,Demo Office Supplies S.A.S. (Sample),1,"Ballpoint pens, pack of 12",4.0,18500.0,74000.0,COP
+SAMPLE_office_OS-2026-110.pdf,OS-2026-110,Demo Office Supplies S.A.S. (Sample),2,"Whiteboard markers, set of 4",3.0,21500.0,64500.0,COP
+SAMPLE_office_OS-2026-110.pdf,OS-2026-110,Demo Office Supplies S.A.S. (Sample),3,"Printer paper A4, box of 10 reams",3.0,98000.0,294000.0,COP
+SAMPLE_office_OS-2026-110.pdf,OS-2026-110,Demo Office Supplies S.A.S. (Sample),4,"Sticky notes, pack of 12",1.0,9800.0,9800.0,COP
+SAMPLE_office_OS-2026-110.pdf,OS-2026-110,Demo Office Supplies S.A.S. (Sample),5,Heavy-duty stapler,3.0,32000.0,96000.0,COP
+SAMPLE_tech_TR-1041.pdf,TR-1041,Demo Tech Rentals S.A.S. (Sample),1,Alquiler portátil (mes),5.0,320000.0,1600000.0,COP
+SAMPLE_tech_TR-1041.pdf,TR-1041,Demo Tech Rentals S.A.S. (Sample),2,Soporte técnico (hora),3.0,85000.0,255000.0,COP
+SAMPLE_tech_TR-1042.pdf,TR-1042,Demo Tech Rentals S.A.S. (Sample),1,Alquiler videobeam (día),10.0,150000.0,1500000.0,COP
+SAMPLE_tech_TR-1042.pdf,TR-1042,Demo Tech Rentals S.A.S. (Sample),2,Soporte técnico (hora),3.0,85000.0,255000.0,COP
+SAMPLE_tech_TR-1042.pdf,TR-1042,Demo Tech Rentals S.A.S. (Sample),3,Instalación y configuración,3.0,120000.0,360000.0,COP
+SAMPLE_tech_TR-1042.pdf,TR-1042,Demo Tech Rentals S.A.S. (Sample),4,Alquiler monitor 24 pulgadas (mes),1.0,95000.0,95000.0,COP
+SAMPLE_tech_TR-1042.pdf,TR-1042,Demo Tech Rentals S.A.S. (Sample),5,Alquiler portátil (mes),2.0,320000.0,640000.0,COP
+SAMPLE_tech_TR-1042_resent.pdf,TR-1042,Demo Tech Rentals S.A.S. (Sample),1,Alquiler videobeam (día),10.0,150000.0,1500000.0,COP
+SAMPLE_tech_TR-1042_resent.pdf,TR-1042,Demo Tech Rentals S.A.S. (Sample),2,Soporte técnico (hora),3.0,85000.0,255000.0,COP
+SAMPLE_tech_TR-1042_resent.pdf,TR-1042,Demo Tech Rentals S.A.S. (Sample),3,Instalación y configuración,3.0,120000.0,360000.0,COP
+SAMPLE_tech_TR-1042_resent.pdf,TR-1042,Demo Tech Rentals S.A.S. (Sample),4,Alquiler monitor 24 pulgadas (mes),1.0,95000.0,95000.0,COP
+SAMPLE_tech_TR-1042_resent.pdf,TR-1042,Demo Tech Rentals S.A.S. (Sample),5,Alquiler portátil (mes),2.0,320000.0,640000.0,COP
+SAMPLE_tech_TR-1043.pdf,TR-1043,Demo Tech Rentals S.A.S. (Sample),1,Alquiler portátil (mes),5.0,320000.0,1600000.0,COP
+SAMPLE_tech_TR-1043.pdf,TR-1043,Demo Tech Rentals S.A.S. (Sample),2,Instalación y configuración,4.0,120000.0,480000.0,COP
+SAMPLE_tech_TR-1043.pdf,TR-1043,Demo Tech Rentals S.A.S. (Sample),3,Soporte técnico (hora),3.0,85000.0,255000.0,COP
+SAMPLE_tech_TR-1044.pdf,TR-1044,Demo Tech Rentals S.A.S. (Sample),1,Soporte técnico (hora),3.0,85000.0,255000.0,COP
+SAMPLE_tech_TR-1044.pdf,TR-1044,Demo Tech Rentals S.A.S. (Sample),2,Alquiler videobeam (día),4.0,150000.0,600000.0,COP
+SAMPLE_tech_TR-1044.pdf,TR-1044,Demo Tech Rentals S.A.S. (Sample),3,Alquiler portátil (mes),10.0,320000.0,3200000.0,COP
+SAMPLE_tech_TR-1044.pdf,TR-1044,Demo Tech Rentals S.A.S. (Sample),4,Alquiler monitor 24 pulgadas (mes),10.0,95000.0,950000.0,COP
+SAMPLE_tech_TR-1044.pdf,TR-1044,Demo Tech Rentals S.A.S. (Sample),5,Instalación y configuración,3.0,120000.0,360000.0,COP
+SAMPLE_tech_TR-1045.pdf,TR-1045,Demo Tech Rentals S.A.S. (Sample),1,Instalación y configuración,3.0,120000.0,360000.0,COP
+SAMPLE_tech_TR-1045.pdf,TR-1045,Demo Tech Rentals S.A.S. (Sample),2,Alquiler portátil (mes),10.0,320000.0,3200000.0,COP
+SAMPLE_tech_TR-1045.pdf,TR-1045,Demo Tech Rentals S.A.S. (Sample),3,Alquiler monitor 24 pulgadas (mes),1.0,95000.0,95000.0,COP
+SAMPLE_tech_TR-1045.pdf,TR-1045,Demo Tech Rentals S.A.S. (Sample),4,Alquiler videobeam (día),3.0,150000.0,450000.0,COP
+SAMPLE_tech_TR-1046.pdf,TR-1046,Demo Tech Rentals S.A.S. (Sample),1,Alquiler videobeam (día),1.0,150000.0,150000.0,COP
+SAMPLE_tech_TR-1046.pdf,TR-1046,Demo Tech Rentals S.A.S. (Sample),2,Soporte técnico (hora),5.0,85000.0,425000.0,COP
+SAMPLE_tech_TR-1046.pdf,TR-1046,Demo Tech Rentals S.A.S. (Sample),3,Alquiler portátil (mes),2.0,320000.0,640000.0,COP
+SAMPLE_tech_TR-1046.pdf,TR-1046,Demo Tech Rentals S.A.S. (Sample),4,Alquiler monitor 24 pulgadas (mes),3.0,95000.0,285000.0,COP
+SAMPLE_tech_TR-1046.pdf,TR-1046,Demo Tech Rentals S.A.S. (Sample),5,Instalación y configuración,2.0,120000.0,240000.0,COP
+SAMPLE_tech_TR-1047.pdf,TR-1047,Demo Tech Rentals S.A.S. (Sample),1,Soporte técnico (hora),3.0,85000.0,255000.0,COP
+SAMPLE_tech_TR-1047.pdf,TR-1047,Demo Tech Rentals S.A.S. (Sample),2,Alquiler monitor 24 pulgadas (mes),1.0,95000.0,95000.0,COP
+SAMPLE_tech_TR-1048.pdf,TR-1048,Demo Tech Rentals S.A.S. (Sample),1,Soporte técnico (hora),4.0,85000.0,340000.0,COP
+SAMPLE_tech_TR-1049.pdf,TR-1049,Demo Tech Rentals S.A.S. (Sample),1,Instalación y configuración,10.0,120000.0,1200000.0,COP
+SAMPLE_tech_TR-1050.pdf,TR-1050,Demo Tech Rentals S.A.S. (Sample),1,Alquiler portátil (mes),10.0,320000.0,3200000.0,COP
+SAMPLE_tech_TR-1050.pdf,TR-1050,Demo Tech Rentals S.A.S. (Sample),2,Instalación y configuración,4.0,120000.0,480000.0,COP

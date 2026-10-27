@@ -1,0 +1,28 @@
+{
+  "name": "Data Portfolio",
+  "dataColors": ["#2A78D6", "#EB6834", "#1BAF7A", "#EDA100", "#E87BA4", "#008300", "#6250D6", "#E34948"],
+  "background": "#FCFCFB",
+  "foreground": "#0B0B0B",
+  "tableAccent": "#0D366B",
+  "good": "#0CA30C",
+  "neutral": "#FAB219",
+  "bad": "#D03B3B",
+  "maximum": "#0D366B",
+  "center": "#86B6EF",
+  "minimum": "#CDE2FB",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 13, "color": "#0B0B0B" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#52514E" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 26, "color": "#0D366B" },
+    "header": { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#0B0B0B" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "border": [{ "show": true, "color": { "solid": { "color": "#E1E0D9" } }, "radius": 10 }],
+        "background": [{ "show": true, "color": { "solid": { "color": "#FCFCFB" } } }]
+      }
+    },
+    "page": { "*": { "background": [{ "color": { "solid": { "color": "#F9F9F7" } }, "transparency": 0 }] } }
+  }
+}

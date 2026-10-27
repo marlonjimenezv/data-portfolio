@@ -1,0 +1,5 @@
+step,rows
+"Contracts downloaded (Education sector, signed in 2025)",60902
+After removing duplicate contract IDs,60902
+Contracts in the fact table,60902
+"Contracts with value 0 (kept, flagged)",329

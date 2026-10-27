@@ -1,0 +1,19 @@
+contract_type_key,contract_type_es,contract_type
+1,Arrendamiento de inmuebles,Real-estate lease
+2,Arrendamiento de muebles,Equipment lease
+3,Comisión,Commission agreement
+4,Comodato,Free loan of assets
+5,Compraventa,Purchase of goods
+6,Concesión,Concession
+7,Consultoría,Consulting
+8,Decreto 092 de 2017,Agreements with non-profits (Decree 092/2017)
+9,Interventoría,Works supervision
+10,Negocio fiduciario,Trust agreement
+11,No Definido,Not defined
+12,Obra,Public works
+13,Otro,Other
+14,Prestación de servicios,Professional services
+15,Seguros,Insurance
+16,Servicios financieros,Financial services
+17,Suministros,Supplies
+18,Venta muebles,Sale of goods

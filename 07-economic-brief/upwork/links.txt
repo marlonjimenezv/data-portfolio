@@ -1,0 +1,2 @@
+Brief (PDF): https://github.com/marlonjimenezv/data-portfolio/blob/main/07-economic-brief/output/colombia_minimum_wage_brief.pdf
+GitHub project folder: https://github.com/marlonjimenezv/data-portfolio/tree/main/07-economic-brief

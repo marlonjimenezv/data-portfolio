@@ -1,0 +1,5 @@
+shot-1.png: Cross-validated comparison on the training set: gradient boosting (PR-AUC 0.95) beats random forest (0.92) and logistic regression (0.75).
+shot-2.png: Evaluated once on 713 unseen customers: ROC-AUC 0.984. At the chosen threshold, 88 of 112 churners are caught and only 9 loyal customers are flagged.
+shot-3.png: Permutation importance shows usage (calls, seconds) and complaints drive the predictions; churn rates by group give the direction of each effect.
+shot-4.png: A one-page summary for managers: model quality in plain words, the main drivers and five actions to test, each tied to a number from the data.
+shot-5.png: Leakage control: 300 duplicate rows removed before the train/test split, scaling inside the pipeline, threshold chosen on out-of-fold training predictions.

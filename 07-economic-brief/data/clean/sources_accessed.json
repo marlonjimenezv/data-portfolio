@@ -1,0 +1,22 @@
+{
+ "dane_ipc": {
+  "url": "https://www.dane.gov.co/files/operaciones/IPC/sep2026/anex-IPC-Indices-sep2026.xlsx",
+  "accessed": "2026-10-26"
+ },
+ "ilo_col": {
+  "url": "https://sdmx.ilo.org/rest/data/ILO,DF_EAR_INEE_CUR_NB,1.0/COL.A.EAR_INEE_NB.?startPeriod=2000",
+  "accessed": "2026-10-26"
+ },
+ "ilo_latam_ppp": {
+  "url": "https://sdmx.ilo.org/rest/data/ILO,DF_EAR_INEE_CUR_NB,1.0/ARG+BOL+BRA+CHL+COL+CRI+DOM+ECU+GTM+HND+MEX+NIC+PAN+PER+PRY+SLV+URY+VEN.A.EAR_INEE_NB.CUR_TYPE_PPP?startPeriod=2019",
+  "accessed": "2026-10-26"
+ },
+ "wb_productivity": {
+  "url": "https://api.worldbank.org/v2/country/COL/indicator/SL.GDP.PCAP.EM.KD?format=json&per_page=100&date=2000:2030",
+  "accessed": "2026-10-26"
+ },
+ "oecd_min_to_median": {
+  "url": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@MIN2AVE,1.0/.......?startPeriod=2015&format=csvfilewithlabels",
+  "accessed": "2026-10-26"
+ }
+}

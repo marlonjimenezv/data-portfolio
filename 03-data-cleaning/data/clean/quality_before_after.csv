@@ -1,0 +1,9 @@
+field,usable_before_pct,usable_after_pct
+"NIT (valid, unique)",73.3,99.2
+Name (standard spelling),49.8,100.0
+"Phone (10-digit, dialable)",91.4,99.0
+"E-mail (valid, lower case)",93.7,99.9
+Website (valid URL),4.1,11.6
+Address (standard format),4.6,91.9
+Municipality (official DANE code),0.0,99.2
+Registry status (RUES),0.0,75.0

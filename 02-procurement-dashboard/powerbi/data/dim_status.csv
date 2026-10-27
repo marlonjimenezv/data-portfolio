@@ -1,0 +1,8 @@
+status_key,status_es,status
+1,Aprobado,Approved
+2,Cedido,Assigned
+3,Cerrado,Closed
+4,En ejecución,In progress
+5,Modificado,Modified
+6,Suspendido,Suspended
+7,Terminado,Finished

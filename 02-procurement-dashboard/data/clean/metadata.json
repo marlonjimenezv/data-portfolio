@@ -1,0 +1,8 @@
+{
+  "source": "SECOP II - Contratos Electronicos (datos.gov.co, dataset jbjy-vk9h)",
+  "licence": "CC BY-SA 4.0",
+  "filter": "sector = 'Educaci\u00f3n Nacional' AND fecha_de_firma >= '2025-01-01T00:00:00' AND fecha_de_firma <= '2025-12-31T23:59:59'",
+  "extracted_on": "2026-10-26",
+  "contracts": 60902,
+  "entities": 495
+}

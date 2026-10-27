@@ -1,0 +1,3 @@
+GitHub project folder: https://github.com/marlonjimenezv/data-portfolio/tree/main/01-excel-kpi-report
+Excel file: https://github.com/marlonjimenezv/data-portfolio/blob/main/01-excel-kpi-report/output/ecommerce_kpi_report.xlsx
+SQL results: https://github.com/marlonjimenezv/data-portfolio/blob/main/01-excel-kpi-report/output/sql_results.md

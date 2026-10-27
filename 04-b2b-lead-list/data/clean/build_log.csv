@@ -1,0 +1,7 @@
+step,count
+Institutions in the MEN registry (main + branch campuses),361
+Main campus records kept (one per institution),300
+Main records with no usable website in the registry,17
+Websites added from Wikidata (exact or near-exact name match),2
+"Website values corrected (e-mail typed as website, 'wwww.', missing dot)",6
+Institutions with a website that answered (verified online),220

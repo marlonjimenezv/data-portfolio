@@ -1,0 +1,496 @@
+entity_key,entity_code,entity_name,entity_nit,department,city,branch,centralized,level
+1,702288622,AGENCIA DE EDUCACIÓN POSTSECUNDARIA DE MEDELLÍN -SAPIENCIA-,900602106,Antioquia,Medellín,Ejecutivo,Descentralizada,Territorial
+2,715791422,AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR; LA CIENCIA Y LA TECNOLOGÍA; ATENEA,901508361,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Descentralizada,Territorial
+3,710006727,CEM EL CAMPANERO,814002486,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+4,702217605,CENTRO DE FORMACION INTEGRAL PARA EL TRABAJO - CEFIT,811031876,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+5,726427107,CENTRO EDUCATIVO BACHILLERATO BIENESTAR RURAL,816007274,Risaralda,Pereira,Ejecutivo,Centralizada,Territorial
+6,721726081,CENTRO EDUCATIVO DEL CARIBE,825003168,La Guajira,Riohacha,Corporación Autónoma,Centralizada,National
+7,718673023,CENTRO EDUCATIVO INDIGENA SIKUANI PLAYEROS,834001593,Arauca,Arauca,Corporación Autónoma,Centralizada,National
+8,718584220,CENTRO EDUCATIVO INDIGENA UWA TUTUKANA SINAIAKA DE SARAVENA,8340014192,Arauca,Fortul,Legislativo,Centralizada,National
+9,720735513,CENTRO EDUCATIVO LOS CASTILLOS,812007714,Córdoba,San Andrés Sotavento,Ejecutivo,Centralizada,Territorial
+10,720567957,CENTRO EDUCATIVO MUNICIPAL LOS ANGELES,814002393,Nariño,Pasto,Ejecutivo,Centralizada,Territorial
+11,718898901,CENTRO EDUCATIVO MUNICIPAL SANTA TERESITA,814001370,Nariño,Pasto,Corporación Autónoma,Centralizada,Territorial
+12,719140014,CENTRO EDUCATIVO RIO ANCHO,825003293,La Guajira,Dibulla,Corporación Autónoma,Centralizada,National
+13,717917389,CENTRO EDUCATIVO RURAL BUENAVISTA2,846003704,Putumayo,Puerto Asís,Corporación Autónoma,Descentralizada,Autonomous corporation
+14,719677551,CENTRO EDUCATIVO RURAL LA UNION DE BARAYA HUILA,813009861,Huila,Baraya,Ejecutivo,Centralizada,Territorial
+15,719650475,CENTRO EDUCATIVO RURAL SAUDITA,846004233,Putumayo,Puerto Guzmán,Ejecutivo,Centralizada,National
+16,718760077,CENTRO EDUCATIVO SANTA TERESA,844004959,Casanare,Yopal,Ejecutivo,Centralizada,Territorial
+17,718232093,CENTRO EDUCATIVO TREINTA DE AGOSTO,816003420,Risaralda,Pereira,Corporación Autónoma,Centralizada,Territorial
+18,720969054,CENTRO ETNOEDUCATIVO #19 MAA JEKET,9013058650,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+19,722013281,CENTRO ETNOEDUCATIVO No.14 KAMUCHASAIN,900465565,La Guajira,Riohacha,Ejecutivo,Centralizada,Territorial
+20,719097586,CENTRO ETNOEDUCATIVO N° 1,825003177,La Guajira,Riohacha,Ejecutivo,Centralizada,Territorial
+21,720689058,CENTRO ETNOEDUCATIVO N° 15,900478087,La Guajira,Riohacha,Ejecutivo,Descentralizada,Territorial
+22,719012031,CENTRO ETNOEDUCATIVO WIWA SHENZHAWIMAKU,901273694,La Guajira,Riohacha,Legislativo,Centralizada,Territorial
+23,710609769,CENTRO TECNOLÓGICO DE CÚCUTA,807009100,Norte de Santander,Cúcuta,Ejecutivo,Centralizada,Territorial
+24,704194331,COLEGIO ACACIA II IED,830037627,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+25,704193051,COLEGIO ALFREDO IRIARTE IED,830036325,Distrito Capital de Bogotá,Not defined,Corporación Autónoma,Centralizada,Territorial
+26,704297837,COLEGIO DE CULTURA POPULAR IED,830019146,Distrito Capital de Bogotá,Not defined,Ejecutivo,Centralizada,Territorial
+27,704192111,COLEGIO DIANA TURBAY IED,900939018,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Centralizada,Territorial
+28,704317239,COLEGIO EDUARDO SANTOS I.E.D.,830034079,Distrito Capital de Bogotá,Not defined,Ejecutivo,Centralizada,Territorial
+29,704156181,COLEGIO FERNANDO GONZALEZ OCHOA IED,900187743,Distrito Capital de Bogotá,Bogotá,Corporación Autónoma,Centralizada,Territorial
+30,704297936,COLEGIO FRANCISCO DE PAULA SANTANDER IED,800252786,Distrito Capital de Bogotá,Not defined,Ejecutivo,Centralizada,Territorial
+31,703916536,COLEGIO GABRIEL BETANCOURT MEJIA I.E.D,900143276,Distrito Capital de Bogotá,Not defined,Ejecutivo,Centralizada,Territorial
+32,704162759,COLEGIO GENERAL GUSTAVO ROJAS PINILLA IED,900200860,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Centralizada,Territorial
+33,704162817,COLEGIO JOHN F KENNEDY IED,899999732,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Centralizada,Territorial
+34,704291913,COLEGIO JORGE SOTO DEL CORRAL IED,860532537,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+35,704296839,COLEGIO JOSE MANUEL RESTREPO IED,860532342,Distrito Capital de Bogotá,Not defined,Ejecutivo,Centralizada,Territorial
+36,704198100,COLEGIO KIMI PERNIA DOMICO INSTITUCION EDUCATIVA DISTRITAL,900277707,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Centralizada,Territorial
+37,718494057,COLEGIO LA CAMPIÑA YOPAL,844001550,Casanare,Yopal,Ejecutivo,Centralizada,Territorial
+38,704297670,COLEGIO LICEO NACIONAL ANTONIA SANTOS IED,830015079,Distrito Capital de Bogotá,Not defined,Ejecutivo,Centralizada,Territorial
+39,704428069,COLEGIO LUIS LOPEZ DE MESA IED,830036775,Distrito Capital de Bogotá,Not defined,Ejecutivo,Centralizada,Territorial
+40,704193028,COLEGIO QUIROGA ALIANZA IED,830004482,Distrito Capital de Bogotá,Not defined,Ejecutivo,Centralizada,Territorial
+41,704298009,COLEGIO RAFAEL URIBE URIBE IED.,860532530,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Centralizada,Territorial
+42,718748353,COLEGIO REPUBLICA DE ESTADOS UNIDOS DE AMERICA**,899999735,Distrito Capital de Bogotá,Bogotá,Corporación Autónoma,Centralizada,Territorial
+43,704192137,COLEGIO SAN AGUSTÍN I.E.D.,830047955,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Centralizada,Territorial
+44,704192616,COLEGIO TECNICO JAIME PARDO LEAL,830086996,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+45,704195031,COLEGIO UNION EUROPEA IED,830020653,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+46,704153345,COLEGIO USMINIA IED,830074780,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+47,704194414,COLEGIO VILLAMAR IED,830085801,Distrito Capital de Bogotá,Bogotá,Corporación Autónoma,Centralizada,Territorial
+48,704068519,CONCEJO MUNICIPAL DE GAMA++,800094684,Cundinamarca,Gama,Legislativo,Centralizada,Territorial
+49,718491830,CONCENTRACIÓN DE DESARROLLO RURAL,890208939,Santander,Bolívar,Ejecutivo,Centralizada,Territorial
+50,705287555,CONSERVATORIO DE IBAGUE INSTITUCION EDUCATIVA TECNICA MUSICAL AMINA MELENDRO DE PULECIO,809009518,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+51,704564061,CONSERVATORIO DEL TOLIMA,890700906,Tolima,Ibagué,Corporación Autónoma,Centralizada,Territorial
+52,708539481,CORPORACIÓN GILBERTO ECHEVERRI MEJÍA,900679194,Antioquia,Medellín,Corporación Autónoma,Centralizada,Territorial
+53,704199090,Colegio Alfonso Reyes Echandia IED,900176074,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+54,727805152,Colegio María Josefa Canelones I.E.D.,901805024,Distrito Capital de Bogotá,Bogotá,Corporación Autónoma,Centralizada,Territorial
+55,720127596,Consejo Nacional Profesional de Economía,860501199,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Centralizada,National
+56,720116326,Corporación Universidad Piloto de Colombia,8600223823,Distrito Capital de Bogotá,Bogotá,Corporación Autónoma,Centralizada,Autonomous corporation
+57,702179409,DEPARTAMENTO DE CUNDINAMARCA - SECRETARIA DE EDUCACION,899999114,Cundinamarca,Not defined,Ejecutivo,Centralizada,Territorial
+58,704428523,ESAP TERRITORIAL ANTIOQUIA,800117519,Antioquia,Medellín,Ejecutivo,Centralizada,National
+59,704901107,ESAP TERRITORIAL ATLÁNTICO,800117522,Atlántico,Barranquilla,Ejecutivo,Centralizada,National
+60,704469501,ESAP TERRITORIAL BOLIVAR,800248529,Bolívar,Cartagena,Ejecutivo,Centralizada,National
+61,704405216,ESAP TERRITORIAL BOYACA CASANARE,800117524,Boyacá,Tunja,Ejecutivo,Descentralizada,National
+62,704616416,ESAP TERRITORIAL CAUCA,800117528,Cauca,Not defined,Ejecutivo,Centralizada,National
+63,704787431,ESAP TERRITORIAL HUILA-CAQUETA Y BAJO PUTUMAYO,813006956,Huila,Neiva,Ejecutivo,Centralizada,National
+64,703670463,ESAP TERRITORIAL META,800117530,Meta,Villavicencio,Ejecutivo,Centralizada,National
+65,704688498,ESAP TERRITORIAL NARIÑO ALTO PUTUMAYO,800117534,Not defined,Not defined,Ejecutivo,Centralizada,National
+66,704739655,ESAP TERRITORIAL NORTE DE SANTANDER ARAUCA,800145876,Norte de Santander,Cúcuta,Ejecutivo,Descentralizada,National
+67,704534122,ESAP TERRITORIAL QUINDIO RISARALDA,800117537,Risaralda,Pereira,Ejecutivo,Centralizada,National
+68,704827575,ESAP TERRITORIAL SANTANDER,800117540,Santander,Bucaramanga,Ejecutivo,Centralizada,National
+69,704571835,ESAP TERRITORIAL TOLIMA,800117541,Tolima,Not defined,Ejecutivo,Centralizada,National
+70,704861186,ESAP TERRITORIAL VALLE DEL CAUCA,800117545,Valle del Cauca,Cali,Ejecutivo,Centralizada,National
+71,704325125,ESCUELA DE CAPACITACION MUNICIPAL ECAM,804015969,Santander,Floridablanca,Ejecutivo,Centralizada,Territorial
+72,728980467,ESCUELA DE POLICIA ANTONIO NARIÑO,800141257,Atlántico,Soledad,Ejecutivo,Centralizada,National
+73,706368313,ESCUELA NORMAL SUPERIOR DE BUCARAMANGA,890201212,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+74,725156707,ESCUELA NORMAL SUPERIOR DE LETICIA,838000047,Amazonas,Leticia,Ejecutivo,Descentralizada,National
+75,704296920,ESCUELA NORMAL SUPERIOR DISTRITAL MARIA MONTESSORI,8605323172,Distrito Capital de Bogotá,Not defined,Ejecutivo,Centralizada,Territorial
+76,705069607,ESCUELA TALLER CARTAGENA DE INDIAS,800169265,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+77,700964026,ESCUELA TECNOLÓGICA INSTITUTO TÉCNICO CENTRAL,860523694,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Descentralizada,National
+78,728333923,ESTABLECIMIENTO PÚBLICO COLEGIO DE BOYACÁ,891800260,Boyacá,Tunja,Ejecutivo,Descentralizada,Territorial
+79,718693245,FEY ALEGRIA LAS AMERICAS,8060119796,Bolívar,Cartagena,Ejecutivo,Centralizada,Territorial
+80,709360457,GOBERNACION DEL VALLE DEL CAUCA - SECRETARIA DE EDUCACION,890399029,Valle del Cauca,Cali,Ejecutivo,Centralizada,Territorial
+81,718417298,I E La Luisa,800213883,Tolima,Rovira,Ejecutivo,Centralizada,Territorial
+82,700552011,I.E FRANCISCO JOSE DE CALDAS,800062427,Arauca,Arauca,Corporación Autónoma,Centralizada,Territorial
+83,720823871,I.E INSTECNICO,891500839,Cauca,Santander De Quilichao,Ejecutivo,Centralizada,National
+84,705867067,I.E MARCO FIDEL SUAREZ,890706965,Tolima,Coello,Ejecutivo,Centralizada,Territorial
+85,705770295,I.E.T LA VEGA DE LOS PADRES,809006078,Tolima,Coello,Ejecutivo,Centralizada,Territorial
+86,706006053,I.E.T TÉCNICA SAN LUIS GONZAGA,890702556,Tolima,Espinal,Ejecutivo,Centralizada,National
+87,701539371,IDEP,830007738,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Centralizada,Territorial
+88,720610567,IE AGP,800247992,Cauca,Popayán,Ejecutivo,Centralizada,Territorial
+89,718595168,IE EDUARDO SANTOS NEIVA,813004415,Huila,Neiva,Corporación Autónoma,Centralizada,Territorial
+90,718516057,IE Jorge Eliecer Gaitan..,809005215,Tolima,Ataco,Ejecutivo,Centralizada,National
+91,722161833,IE MADRE LAURA CARTAGENA,8060035965,Bolívar,Cartagena,Ejecutivo,Centralizada,Territorial
+92,702814120,IE SAGRADOS CORAZONES FLORENCIA,891190319,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+93,719184392,IE SAN JOSE DE LA SALLE,804006314,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+94,718844673,IE SANTA TERESA NEIVA,813003170,Huila,Neiva,Corporación Autónoma,Centralizada,Territorial
+95,704296789,IED COLEGIO EL JAZMIN,830019043,Distrito Capital de Bogotá,Not defined,Ejecutivo,Centralizada,Territorial
+96,703924134,IED COLEGIO EL TESORO LA CUMBRE,830097774,Not defined,Not defined,Ejecutivo,Centralizada,National
+97,722977014,IED INEM JOSE EUSTASIO RIVERA,838000284,Amazonas,Leticia,Corporación Autónoma,Descentralizada,National
+98,718326937,IEDTRAZB,819000603,Magdalena,Zona Bananera,Legislativo,Centralizada,Territorial
+99,720702059,IEM JOSE ANTONIO GALAN,800024902,Nariño,Pasto,Ejecutivo,Centralizada,Territorial
+100,718314081,IEMEP,8000275801,Cundinamarca,Girardot,Corporación Autónoma,Centralizada,Territorial
+101,702485848,IES CINOC,890802678,Caldas,Pensilvania,Ejecutivo,Centralizada,Territorial
+102,718737091,IESFA,806011890,Bolívar,Cartagena,Ejecutivo,Centralizada,Territorial
+103,718391030,IET FELIX TIBERIO GUZMAN,800108475,Tolima,Espinal,Ejecutivo,Centralizada,Territorial
+104,707439741,IET NUESTRA SEÑORA DE FATIMA,890706300,Tolima,Espinal,Ejecutivo,Centralizada,Territorial
+105,718348758,INSTITUCION EDUACTIVA OLIVERIO LARA BORRERO - NEIVA,891102218,Huila,Neiva,Ejecutivo,Centralizada,Territorial
+106,726777873,INSTITUCION EDUCATIVA AGROECOLOGICA LA PLAYA,840000403,Nariño,Francisco Pizarro,Ejecutivo,Centralizada,Territorial
+107,711217448,INSTITUCION EDUCATIVA AGROINDUSTRIAL MONTERILLA,8170066293,Not defined,Not defined,Ejecutivo,Centralizada,National
+108,720159631,INSTITUCION EDUCATIVA AGROPECUARIA COMUNIDAD INDIGENA INKAL AWA*/,814002168,Nariño,Ricaurte,Corporación Autónoma,Centralizada,Territorial
+109,719410276,INSTITUCION EDUCATIVA AGROPECUARIA DE AIPE,800217877,Huila,Aipe,Ejecutivo,Centralizada,Territorial
+110,718746407,INSTITUCION EDUCATIVA AGROPECUARIA INDÍGENA SEBASTIAN GARCÍA,814006017,Nariño,Cuaspud,Ejecutivo,Centralizada,Territorial
+111,720338037,INSTITUCION EDUCATIVA AGROPECUARIA RIO SANQUIANGA*,900441704,Not defined,Not defined,Ejecutivo,Centralizada,National
+112,719660300,INSTITUCION EDUCATIVA AGROPECUARIA SANTA ROSA,800029202,Nariño,Cumbitara,Corporación Autónoma,Centralizada,Territorial
+113,719653164,INSTITUCION EDUCATIVA AGROPECUARIA VERACRUZ,900663657,Nariño,Buesaco,Corporación Autónoma,Centralizada,Territorial
+114,718353899,INSTITUCION EDUCATIVA AGUSTIN CODAZZI-NEIVA,813001633,Huila,Neiva,Ejecutivo,Centralizada,Territorial
+115,733246698,INSTITUCION EDUCATIVA ALBANIA,800121084,Caquetá,Albania,Ejecutivo,Centralizada,National
+116,718932908,INSTITUCION EDUCATIVA ALFONSO LOPEZ PUMAREJO,800070715,La Guajira,Uribia,Ejecutivo,Centralizada,Territorial
+117,706120300,INSTITUCION EDUCATIVA ANCHIQUE,890702915,Tolima,Natagaima,Ejecutivo,Centralizada,Territorial
+118,718362023,INSTITUCION EDUCATIVA ANGEL MARIA PAREDES-NEIVA,813006524,Huila,Neiva,Ejecutivo,Centralizada,Territorial
+119,718736382,INSTITUCION EDUCATIVA ANTONIA SANTOS,805009886,Valle del Cauca,Yumbo,Ejecutivo,Centralizada,Territorial
+120,719194086,INSTITUCION EDUCATIVA ANTONIA SANTOS DE MALAMBO,802006959,Not defined,Not defined,Ejecutivo,Centralizada,National
+121,719044018,INSTITUCION EDUCATIVA ANTONIO JOSE SANDOVAL GOMEZ,800128291,Boyacá,Tunja,Ejecutivo,Centralizada,Territorial
+122,718627391,INSTITUCION EDUCATIVA ANTONIO MARTINEZ DELGADO,844002424,Casanare,Hato Corozal,Ejecutivo,Centralizada,Territorial
+123,730160488,INSTITUCION EDUCATIVA ANTONIO NARIÑO,900464149,Tolima,Ataco,Ejecutivo,Descentralizada,Territorial
+124,718667447,INSTITUCION EDUCATIVA ANTONIO NARIÑO,844003177,Casanare,Yopal,Ejecutivo,Centralizada,Territorial
+125,708985668,INSTITUCION EDUCATIVA ANTONIO NARIÑO//,800010710,Tolima,Planadas,Ejecutivo,Centralizada,Territorial
+126,718521032,INSTITUCION EDUCATIVA ARROYO DE PIEDRA,806004095,Bolívar,Cartagena,Ejecutivo,Centralizada,Territorial
+127,718374580,INSTITUCION EDUCATIVA ATANASIO GIRARDOT - NEIVA,813002882,Huila,Neiva,Ejecutivo,Centralizada,Territorial
+128,720659226,INSTITUCION EDUCATIVA BACHILLERATO PATIA,891502408,Cauca,Patía,Ejecutivo,Centralizada,National
+129,718490303,INSTITUCION EDUCATIVA CARLOS LLERAS RESTREPO YOPAL,844002296,Casanare,Yopal,Ejecutivo,Centralizada,Territorial
+130,714898103,INSTITUCION EDUCATIVA CASD JOSE PRUDENCIO PADILLA,890270382,Santander,Barrancabermeja,Ejecutivo,Centralizada,Territorial
+131,718355308,INSTITUCION EDUCATIVA CHAPINERO-NEIVA,813007413,Huila,Neiva,Ejecutivo,Centralizada,Territorial
+132,706066156,INSTITUCION EDUCATIVA CHENCHE BALSILLAS DEL MUNICIPIO DE COYAIMA,900053904,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+133,721141711,INSTITUCION EDUCATIVA CIUDAD DE TUNJA,806012816,Bolívar,Cartagena,Ejecutivo,Centralizada,Territorial
+134,706759065,INSTITUCION EDUCATIVA CIUDAD LUZ,809006041,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+135,717875041,INSTITUCION EDUCATIVA COLEGIO JOSE AQUILINO DURAN,807000184,Norte de Santander,Cúcuta,Ejecutivo,Centralizada,Territorial
+136,717448138,INSTITUCION EDUCATIVA COMUNITARIA LUIS CARLOS VALENCIA,805021344,Valle del Cauca,Jamundí,Ejecutivo,Centralizada,Territorial
+137,719251522,INSTITUCION EDUCATIVA CONCENTRACION DE DESARROLLO RURAL,891201930,Nariño,Yacuanquer,Corporación Autónoma,Descentralizada,Territorial
+138,706044435,INSTITUCION EDUCATIVA COYARCO,900031324,Tolima,Coyaima,Ejecutivo,Centralizada,Territorial
+139,718437015,INSTITUCION EDUCATIVA CRISTO REY,834000185,Arauca,Arauca,Ejecutivo,Centralizada,Territorial
+140,719683831,INSTITUCION EDUCATIVA DE MESOLANDIA,802020857,Atlántico,Malambo,Ejecutivo,Centralizada,National
+141,719457038,INSTITUCION EDUCATIVA DE PONTEZUELA,806011799,Bolívar,Cartagena,Corporación Autónoma,Centralizada,Territorial
+142,725731079,INSTITUCION EDUCATIVA DE USENDA,8170011544,Cauca,Silvia,Corporación Autónoma,Centralizada,Territorial
+143,704061985,INSTITUCION EDUCATIVA DEPARTAMENTAL AGRICOLA PARATEBUENO,832001920,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+144,703950444,INSTITUCION EDUCATIVA DEPARTAMENTAL FRANCISCO JOSE DE CALDAS,890680065,Not defined,Not defined,Ejecutivo,Centralizada,National
+145,704001007,INSTITUCION EDUCATIVA DEPARTAMENTAL SANTA HELENA,808003801,Not defined,Not defined,Ejecutivo,Centralizada,National
+146,718626229,INSTITUCION EDUCATIVA DEPARTAMENTAL TECNICO AGROPECUARIO JAIME DE NARVAEZ BELTRAN,808001253,Cundinamarca,Beltrán,Ejecutivo,Centralizada,Territorial
+147,704192103,INSTITUCION EDUCATIVA DISTRITAL EL LIBERTADOR,830085316,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+148,704292093,INSTITUCION EDUCATIVA DISTRITAL GENERAL SANTANDER,860532445,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Centralizada,Territorial
+149,704161132,INSTITUCION EDUCATIVA DISTRITAL MANUELA AYALA DE GAITAN,800136287,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+150,704297654,INSTITUCION EDUCATIVA DISTRITAL MARCO ANTONIO CARREÑO SILVA,830054666,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Centralizada,Territorial
+151,705913663,INSTITUCION EDUCATIVA DISTRITAL PARAISO MIRADOR,830040873,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Centralizada,Territorial
+152,718478464,INSTITUCION EDUCATIVA DIVINO SALVADOR //,900266853,Casanare,Yopal,Ejecutivo,Centralizada,Territorial
+153,718564032,INSTITUCION EDUCATIVA EL BOSQUE,809009780,Tolima,Murillo,Corporación Autónoma,Centralizada,Territorial
+154,719249286,INSTITUCION EDUCATIVA EL HORMIGUERO,840001065,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+155,718350770,INSTITUCION EDUCATIVA EL LIMONAR NEIVA,813003233,Huila,Neiva,Ejecutivo,Centralizada,Territorial
+156,706059458,INSTITUCION EDUCATIVA EL PALMAR*,900032861,Tolima,Coyaima,Ejecutivo,Centralizada,Territorial
+157,717926067,INSTITUCION EDUCATIVA EL PALMAR1,900113702,Nariño,Leiva,Ejecutivo,Centralizada,Territorial
+158,717442271,INSTITUCION EDUCATIVA EL RODEO,901375277,Valle del Cauca,Jamundí,Ejecutivo,Centralizada,Territorial
+159,718494479,INSTITUCION EDUCATIVA EL TRIUNFO,844003248,Casanare,Yopal,Ejecutivo,Centralizada,Territorial
+160,720553049,INSTITUCION EDUCATIVA EL TUNEL,900000887,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+161,718528896,INSTITUCION EDUCATIVA ESCUELA NORMAL SUPERIOR DE NEIVA -HUILA,891180264,Huila,Neiva,Ejecutivo,Centralizada,Territorial
+162,719422792,INSTITUCION EDUCATIVA ESCUELA NORMAL SUPERIOR DEL MAYO,891201430,Nariño,La Cruz,Corporación Autónoma,Centralizada,Territorial
+163,725307607,INSTITUCION EDUCATIVA ESCUELA NORMAL SUPERIOR MARIA AUXILIADORA GIRARDOT,8906800195,Cundinamarca,Granada,Ejecutivo,Centralizada,Territorial
+164,718640931,INSTITUCION EDUCATIVA ESCUELA NORMAL SUPERIOR SOR JOSEFA DEL CASTILLO Y GUEVARA,800138564,Boyacá,Chiquinquirá,Ejecutivo,Centralizada,Territorial
+165,706141512,INSTITUCION EDUCATIVA FABIO LOZANO Y LOZANO,890705435,Tolima,Piedras,Ejecutivo,Centralizada,Territorial
+166,726624810,INSTITUCION EDUCATIVA FARALLONES,901780114,Valle del Cauca,Jamundí,Ejecutivo,Centralizada,Territorial
+167,732600606,INSTITUCION EDUCATIVA FE Y ALEGRIA,809005989,Tolima,Armero,Ejecutivo,Centralizada,Territorial
+168,718620362,INSTITUCION EDUCATIVA FE Y ALEGRIA LUIS AMIGO,811018605,Antioquia,Medellín,Ejecutivo,Centralizada,Territorial
+169,718817224,INSTITUCION EDUCATIVA FE Y ALEGRIA SAN JOSE,811015194,Antioquia,Medellín,Ejecutivo,Centralizada,Territorial
+170,719687394,INSTITUCION EDUCATIVA FELIX NARANJO,800179451,Caldas,Samaná,Ejecutivo,Centralizada,National
+171,718921802,INSTITUCION EDUCATIVA FERNANDO DE LA VEGA,806012806,Bolívar,Cartagena,Ejecutivo,Centralizada,Territorial
+172,717449268,INSTITUCION EDUCATIVA FRANCISCO DE PAULA SANTANDER,805023163,Valle del Cauca,La Cumbre,Ejecutivo,Centralizada,Territorial
+173,718835960,INSTITUCION EDUCATIVA FRANCISCO DE PAULA SANTANDER,8000921161,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+174,725373435,INSTITUCION EDUCATIVA FRANCISCO DEL ROSARIO VELA,9003942121,Amazonas,Leticia,Ejecutivo,Descentralizada,National
+175,726455488,INSTITUCION EDUCATIVA FRANCISCO HURTADO,890706314,Tolima,Venadillo,Ejecutivo,Descentralizada,Territorial
+176,712359405,INSTITUCION EDUCATIVA FRANCISCO JOSE DE CALDAS ++,800181694,Nariño,Pasto,Corporación Autónoma,Centralizada,Territorial
+177,706112059,INSTITUCION EDUCATIVA FRANCISCO SAENZ,900005550,Tolima,Icononzo,Ejecutivo,Centralizada,Territorial
+178,720684265,INSTITUCION EDUCATIVA FRAY PLACIDO,846000522,Putumayo,Mocoa,Ejecutivo,Centralizada,Territorial
+179,718353378,INSTITUCION EDUCATIVA GABRIEL GARCIA MARQUEZ NEIVA,800243391,Huila,Neiva,Ejecutivo,Centralizada,Territorial
+180,718645385,INSTITUCION EDUCATIVA GABRIEL GARCIA MARQUEZ//,900929993,Valle del Cauca,Yumbo,Ejecutivo,Descentralizada,Territorial
+181,717450068,INSTITUCION EDUCATIVA GABRIELA MISTRAL.,900063726,Valle del Cauca,Jamundí,Ejecutivo,Centralizada,Territorial
+182,718975477,INSTITUCION EDUCATIVA GENERAL SANTANDER,805022382,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+183,706116514,INSTITUCION EDUCATIVA GONZALO JIMENEZ DE QUEZADA,809004527,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+184,708148424,INSTITUCION EDUCATIVA GUARINOCITO,800033303,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+185,708095567,INSTITUCION EDUCATIVA GUATAVITA TUA,900029258,Tolima,Ortega,Ejecutivo,Centralizada,National
+186,706042678,INSTITUCION EDUCATIVA GUILLERMO ANGULO GOMEZ,800000298,Tolima,Coyaima,Ejecutivo,Centralizada,Territorial
+187,718055361,INSTITUCION EDUCATIVA GUSTAVO ROJAS PINILLA,820000274,Boyacá,Tunja,Ejecutivo,Centralizada,Territorial
+188,720691021,INSTITUCION EDUCATIVA INDIGENA AGROAMBIENTAL MAYKER,900422215,Nariño,Cumbal,Ejecutivo,Centralizada,Territorial
+189,718960065,INSTITUCION EDUCATIVA INDIGENA DACHI DADA KERA,901393794,Risaralda,Pueblo Rico,Ejecutivo,Centralizada,Territorial
+190,733558407,INSTITUCION EDUCATIVA INDIGENA DACHI DRUA,901802567,Risaralda,Pueblo Rico,Corporación Autónoma,Centralizada,Territorial
+191,718979255,INSTITUCION EDUCATIVA INDIGENA EL MESON,900003853,Cauca,Morales,Ejecutivo,Centralizada,Territorial
+192,720896422,INSTITUCION EDUCATIVA INDIGENA NO. 01,839000861,La Guajira,Maicao,Ejecutivo,Centralizada,Territorial
+193,720901040,INSTITUCION EDUCATIVA INDIGENA NUMERO 9,839000864,La Guajira,Maicao,Ejecutivo,Centralizada,Territorial
+194,704917095,INSTITUCION EDUCATIVA INDIGENA TECNICA AGROAMBIENTAL BILINGÜE AWA,900000095,Not defined,Not defined,Ejecutivo,Centralizada,National
+195,705760262,INSTITUCION EDUCATIVA INEM MANUEL MURILLO TORO,800093734,Tolima,Ibagué,Ejecutivo,Centralizada,Territorial
+196,718379894,INSTITUCION EDUCATIVA JOAQUIN GARCIA BORRERO - NEIVA,800107836,Huila,Baraya,Ejecutivo,Centralizada,Territorial
+197,718714025,INSTITUCION EDUCATIVA JORGE ELIECER GAITAN 804003930-5,804003930,Santander,Bucaramanga,Ejecutivo,Centralizada,Territorial
+198,718923444,INSTITUCION EDUCATIVA JOSE DE LA VEGA,806012497,Bolívar,Cartagena,Ejecutivo,Centralizada,Territorial
+199,705241065,INSTITUCION EDUCATIVA JOSE EUSTACIO RIVERA,813001590,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+200,720598648,INSTITUCION EDUCATIVA JOSE HILARIO LOPEZ,891104838,Huila,Campoalegre,Corporación Autónoma,Centralizada,Territorial
+201,718235302,INSTITUCION EDUCATIVA JOSE INOCENCIO CHINCA DE FORTUL.,9000774102,Arauca,Fortul,Corporación Autónoma,Centralizada,Territorial
+202,705867448,INSTITUCION EDUCATIVA JOSE MARIA CARBONELL+,890703044,Tolima,San Antonio,Ejecutivo,Centralizada,Territorial
+203,718529910,INSTITUCION EDUCATIVA JOSE MARIA VIVAS BALCAZAR,800094786,Valle del Cauca,Cali,Ejecutivo,Centralizada,Territorial
+204,705281129,INSTITUCION EDUCATIVA JUAN DE CABRERA,813004119,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+205,718611767,INSTITUCION EDUCATIVA JUAN HURTADO,891410507,Risaralda,Belén De Umbría,Ejecutivo,Centralizada,Territorial
+206,719594657,INSTITUCION EDUCATIVA JUAN JOSE NIETO,800240605,Bolívar,Cartagena,Corporación Autónoma,Centralizada,Territorial
+207,706572625,INSTITUCION EDUCATIVA JUAN LUIS LONDOÑO DE LA CUESTA,900132830,Cundinamarca,Mosquera,Corporación Autónoma,Centralizada,Territorial
+208,719145179,INSTITUCION EDUCATIVA JUAN XXIII,805023700,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+209,718692890,INSTITUCION EDUCATIVA JULIO ERNESTO ANDRADE,809004609,Tolima,Rovira,Corporación Autónoma,Centralizada,Territorial
+210,718221088,INSTITUCION EDUCATIVA LA ARMONIA,900900742,Cundinamarca,Mosquera,Ejecutivo,Centralizada,Territorial
+211,718365752,INSTITUCION EDUCATIVA LA CANDELARIA,811022161,Antioquia,Medellín,Ejecutivo,Centralizada,Territorial
+212,724615760,INSTITUCION EDUCATIVA LA HUMILDAD,9009598085,Nariño,Barbacoas,Corporación Autónoma,Centralizada,Territorial
+213,718815673,INSTITUCION EDUCATIVA LA INMACULADA,840000935,Nariño,Olaya Herrera,Corporación Autónoma,Centralizada,Territorial
+214,722025822,INSTITUCION EDUCATIVA LA LIBERTAD,800200331,Bolívar,Cartagena,Corporación Autónoma,Centralizada,Territorial
+215,718364540,INSTITUCION EDUCATIVA LA MARINA,900042540,Risaralda,Santuario,Corporación Autónoma,Centralizada,Territorial
+216,718760523,INSTITUCION EDUCATIVA LA MEDALLA MILAGROSA,900020615,Santander,Bucaramanga,Ejecutivo,Centralizada,Territorial
+217,718220452,INSTITUCION EDUCATIVA LA MERCED.,899999105,Cundinamarca,Mosquera,Ejecutivo,Centralizada,Territorial
+218,719209181,INSTITUCION EDUCATIVA LA TRIBUNA,900037932,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+219,718434228,INSTITUCION EDUCATIVA LA VICTORIA-VILLAVIEJA,813003248,Huila,Villavieja,Ejecutivo,Centralizada,Territorial
+220,719459364,INSTITUCION EDUCATIVA LAS DELICAS,814005959,Nariño,Leiva,Corporación Autónoma,Centralizada,Territorial
+221,719279325,INSTITUCION EDUCATIVA LAS DELICIAS,814006658,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+222,719302333,INSTITUCION EDUCATIVA LAS MARIAS,900083252,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+223,718439730,INSTITUCION EDUCATIVA LEONOR LOURIDO DE VELASCO,805014041,Valle del Cauca,Yumbo,Ejecutivo,Centralizada,Territorial
+224,719756454,INSTITUCION EDUCATIVA LIBORIO MEJIA,800028435,Cauca,El Tambo,Ejecutivo,Centralizada,Territorial
+225,719840571,INSTITUCION EDUCATIVA LICEO DEL PACIFICO++,840000788,Not defined,Not defined,Corporación Autónoma,Centralizada,National
+226,701708034,INSTITUCION EDUCATIVA LITORAL PACIFICO,800147624,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+227,720695469,INSTITUCION EDUCATIVA LORENZA VILLEGAS DE SANTOS,811017316,Antioquia,Medellín,Ejecutivo,Centralizada,Territorial
+228,701719015,INSTITUCION EDUCATIVA LOS ANDES DE CUAICAL,900081185,Nariño,Cumbal,Ejecutivo,Centralizada,Territorial
+229,718100472,INSTITUCION EDUCATIVA LOS LAURELES BARRANCABERMEJA,900112222,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+230,718660608,INSTITUCION EDUCATIVA LUCILA PIRAGAUTA,844001746,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+231,718353873,INSTITUCION EDUCATIVA LUIS IGNACIO ANDRADE,891102755,Huila,Neiva,Ejecutivo,Centralizada,Territorial
+232,721345296,INSTITUCION EDUCATIVA MALALA YOUSAFZAI,901677031,Meta,Villavicencio,Ejecutivo,Centralizada,Territorial
+233,719452708,INSTITUCION EDUCATIVA MANUEL DE VALVERDE,817005831,Cauca,Guapi,Ejecutivo,Centralizada,Territorial
+234,718407935,INSTITUCION EDUCATIVA MANUELA BELTRAN,844001450,Casanare,Yopal,Ejecutivo,Centralizada,Territorial
+235,706302247,INSTITUCION EDUCATIVA MANUELA BELTRAN - SOACHA,832002888,Cundinamarca,Soacha,Corporación Autónoma,Centralizada,National
+236,706447489,INSTITUCION EDUCATIVA MARIA AUXILIADORA DE LOS CEDROS,900011804,Not defined,Not defined,Corporación Autónoma,Centralizada,National
+237,719382046,INSTITUCION EDUCATIVA MARIA AUXILIADORA FORTALECILLAS,800122676,Huila,Neiva,Ejecutivo,Centralizada,Territorial
+238,718533433,INSTITUCION EDUCATIVA MARIA REINA DE CARTAGENA,900000097,Bolívar,Cartagena,Corporación Autónoma,Centralizada,Territorial
+239,719069445,INSTITUCION EDUCATIVA MARILOPEZ BELLAVISTA,900014871,Cauca,Suárez,Ejecutivo,Centralizada,Territorial
+240,717440317,INSTITUCION EDUCATIVA MARINO RENGIFO SALCEDO,815004606,Valle del Cauca,Candelaria,Ejecutivo,Centralizada,Territorial
+241,705028389,INSTITUCION EDUCATIVA MARTICAS,900017520,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+242,718296205,INSTITUCION EDUCATIVA MAYOR DE YUMBO,8002058252,Valle del Cauca,Yumbo,Ejecutivo,Centralizada,Territorial
+243,718495179,INSTITUCION EDUCATIVA MEGACOLEGIO EL PROGRESO,900607903,Casanare,Yopal,Ejecutivo,Centralizada,Territorial
+244,701904278,INSTITUCION EDUCATIVA MERIZALDE PORVENIR,900327686,Not defined,Not defined,Corporación Autónoma,Centralizada,National
+245,718748247,INSTITUCION EDUCATIVA MUNICIPAL CIUDADELA EDUCATIVA DE PASTO,814001128,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+246,718862683,INSTITUCION EDUCATIVA MUNICIPAL CRISTO REY,814001579,Nariño,Pasto,Corporación Autónoma,Centralizada,Territorial
+247,707837241,INSTITUCION EDUCATIVA MUNICIPAL EL ENCANO,800060022,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+248,718938582,INSTITUCION EDUCATIVA MUNICIPAL EL SOCORRO,814001691,Nariño,Pasto,Corporación Autónoma,Centralizada,Territorial
+249,709827596,INSTITUCION EDUCATIVA MUNICIPAL FRANCISCO DE LA VILLOTA,800206349,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+250,704002302,INSTITUCION EDUCATIVA MUNICIPAL GUALMATAN,814006513,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+251,718690357,INSTITUCION EDUCATIVA MUNICIPAL LA CALDERA,814006569,Nariño,Pasto,Corporación Autónoma,Centralizada,Territorial
+252,707906160,INSTITUCION EDUCATIVA MUNICIPAL LIBERTAD,814006334,Nariño,Pasto,Ejecutivo,Centralizada,Territorial
+253,718853864,INSTITUCION EDUCATIVA MUNICIPAL LUIS EDUARDO MORA OSEJO,900000585,Nariño,Pasto,Ejecutivo,Centralizada,Territorial
+254,707766168,INSTITUCION EDUCATIVA MUNICIPAL MARCO FIDEL SUAREZ,891201273,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+255,720131895,INSTITUCION EDUCATIVA MUNICIPAL MORASURCO,814006378,Nariño,Pasto,Ejecutivo,Centralizada,Territorial
+256,709857270,INSTITUCION EDUCATIVA MUNICIPAL OBONUCO,800178980,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+257,709106793,INSTITUCION EDUCATIVA MUNICIPAL TECNICO INDUSTRIAL - PASTO,891224703,Nariño,Pasto,Corporación Autónoma,Centralizada,Territorial
+258,718824048,INSTITUCION EDUCATIVA MUNICIPIO DE MALLAMA,814003417,Nariño,Mallama,Corporación Autónoma,Centralizada,National
+259,726464993,INSTITUCION EDUCATIVA N 5 - MAICAO; LA GUAJIRA,892120019,La Guajira,Maicao,Corporación Autónoma,Centralizada,Territorial
+260,705073112,INSTITUCION EDUCATIVA NILO MUNICIPIO DE PALERMO HUILA,813011696,Huila,Palermo,Ejecutivo,Centralizada,Territorial
+261,718452022,INSTITUCION EDUCATIVA NIÑO JESUS PRAGA,809000090,Tolima,Ibagué,Ejecutivo,Centralizada,Territorial
+262,706060258,INSTITUCION EDUCATIVA NORMAL SUPERIOR FABIO LOZANO TORRIJOS,890702925,Tolima,Falan,Ejecutivo,Centralizada,Territorial
+263,701722241,INSTITUCION EDUCATIVA NUESTRA SEÑORA DE FATIMA,800178626,Nariño,Potosí,Ejecutivo,Centralizada,Territorial
+264,720741420,INSTITUCION EDUCATIVA NUESTRA SEÑORA DE LA PRESENTACION,891412224,Risaralda,La Virginia,Ejecutivo,Centralizada,Territorial
+265,719263774,INSTITUCION EDUCATIVA NUESTRA SEÑORA DE LAS LAJAS,814006422,Nariño,Ancuyá,Ejecutivo,Centralizada,Territorial
+266,701493173,INSTITUCION EDUCATIVA NUESTRA SEÑORA DE LOURDES,800178994,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+267,719365546,INSTITUCION EDUCATIVA NUESTRA SEÑORA DEL CARMEN - CARTAGENA,8060120797,Bolívar,Cartagena,Ejecutivo,Centralizada,Territorial
+268,706045754,INSTITUCION EDUCATIVA NUESTRA SEÑORA DEL CARMEN-COYAIMA,809010059,Tolima,Coyaima,Ejecutivo,Centralizada,Territorial
+269,705122463,INSTITUCION EDUCATIVA NUESTRA SEÑORA DEL SOCORRO,900014711,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+270,702522517,INSTITUCION EDUCATIVA NUESTRO SEÑOR DEL RIO DE CHILES,800045612,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+271,718401417,INSTITUCION EDUCATIVA NUEVO HORIZONTE - GIRARDOT,900520731,Cundinamarca,Girardot,Ejecutivo,Centralizada,National
+272,718467418,INSTITUCION EDUCATIVA NUMERO 7,839000491,La Guajira,Maicao,Ejecutivo,Centralizada,National
+273,705229680,INSTITUCION EDUCATIVA NUMERO 8,839000154,La Guajira,Maicao,Ejecutivo,Centralizada,Territorial
+274,729354027,INSTITUCION EDUCATIVA NUMERO 9,839000100,La Guajira,Maicao,Ejecutivo,Centralizada,Territorial
+275,726424385,INSTITUCION EDUCATIVA PALO VERDE,901003195,Nariño,La Unión,Ejecutivo,Centralizada,Territorial
+276,705529097,INSTITUCION EDUCATIVA PAULO VI,891100708,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+277,720593193,INSTITUCION EDUCATIVA PICHINDE,805009883,Valle del Cauca,Cali,Ejecutivo,Centralizada,Territorial
+278,718165103,INSTITUCION EDUCATIVA PIO XI,811017464,Antioquia,La Unión,Ejecutivo,Centralizada,Territorial
+279,719011017,INSTITUCION EDUCATIVA PIZANDA,900479556,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+280,719294902,INSTITUCION EDUCATIVA POLICARPA,891201736,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+281,718455983,INSTITUCION EDUCATIVA POLICARPA SALAVARRIETA,808001340,Cundinamarca,Girardot,Ejecutivo,Centralizada,Territorial
+282,729155192,INSTITUCION EDUCATIVA POLITECNICA SANTA BARBARA,8140010941,Nariño,Santa Bárbara,Corporación Autónoma,Centralizada,Territorial
+283,705275378,INSTITUCION EDUCATIVA PROMOCION SOICAL DE NEIVA,891180032,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+284,711952143,INSTITUCION EDUCATIVA RAFAEL NAVIA VARON,805027641,Valle del Cauca,Cali,Corporación Autónoma,Centralizada,Territorial
+285,717872162,INSTITUCION EDUCATIVA RAFAEL URIBE URIBE *,807000367,Norte de Santander,Cúcuta,Ejecutivo,Centralizada,Territorial
+286,718120728,INSTITUCION EDUCATIVA RAFAEL URIBE URIBE-,891201287,Nariño,Buesaco,Ejecutivo,Centralizada,Territorial
+287,718931041,INSTITUCION EDUCATIVA REPUBLICA DE ARGENTINA 1,806012616,Bolívar,Cartagena,Corporación Autónoma,Centralizada,Territorial
+288,724651971,INSTITUCION EDUCATIVA RESTREPO,9017313579,Nariño,Policarpa,Corporación Autónoma,Centralizada,Territorial
+289,718792286,INSTITUCION EDUCATIVA RIOMANSO,809004849,Tolima,Rovira,Corporación Autónoma,Centralizada,Territorial
+290,718635238,INSTITUCION EDUCATIVA ROBERTO DURAN ALVIRA,800149360,Huila,Neiva,Ejecutivo,Centralizada,National
+291,718220486,INSTITUCION EDUCATIVA ROBERTO VELANDIA,832007049,Cundinamarca,Mosquera,Ejecutivo,Centralizada,Territorial
+292,718353246,INSTITUCION EDUCATIVA RODRIGO LARA BONILLA,813003567,Huila,Neiva,Ejecutivo,Centralizada,National
+293,718628415,INSTITUCION EDUCATIVA RODRIGO LARA BONILLA,811019616,Antioquia,Medellín,Ejecutivo,Centralizada,Territorial
+294,718676786,INSTITUCION EDUCATIVA ROSA LIA MAFLA,805011696,Valle del Cauca,Jamundí,Corporación Autónoma,Centralizada,Territorial
+295,718122039,INSTITUCION EDUCATIVA RURAL AGROPECUARIA CIUDAD DE VILLAGARZON,901064198,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+296,718214075,INSTITUCION EDUCATIVA RURAL AVENIDA EL CARAÑO,828002097,Caquetá,Florencia,Ejecutivo,Centralizada,National
+297,718019201,INSTITUCION EDUCATIVA RURAL BAJO CALDAS,900022567,Caquetá,Florencia,Ejecutivo,Centralizada,National
+298,730484458,INSTITUCION EDUCATIVA RURAL DEPARTAMENTAL GAZADUJE,901501420,Cundinamarca,Medina,Legislativo,Descentralizada,National
+299,718529464,INSTITUCION EDUCATIVA RURAL DEPARTAMENTAL TECNICO AGROPECUARIO JAIME DE NARVAEZ PAQUILO,808003795,Cundinamarca,Beltrán,Ejecutivo,Centralizada,Territorial
+300,705233252,INSTITUCION EDUCATIVA RURAL EL SABALO,8460037611,Not defined,Not defined,Ejecutivo,Centralizada,National
+301,717883680,INSTITUCION EDUCATIVA RURAL EL SALITRE FLORENCIA - CAQUETA,800045645,Caquetá,Florencia,Ejecutivo,Centralizada,National
+302,718255573,INSTITUCION EDUCATIVA RURAL LUIS ANTONIO DUQUE PEÑA,808003282,Cundinamarca,Girardot,Ejecutivo,Centralizada,Territorial
+303,719973513,INSTITUCION EDUCATIVA RURAL LUIS ANTONIO ROBLES,800036063,La Guajira,Riohacha,Ejecutivo,Centralizada,Territorial
+304,718659105,INSTITUCION EDUCATIVA RURAL LUIS CARLOS GALAN SARMIENTO,844000098,Casanare,Yopal,Ejecutivo,Centralizada,Territorial
+305,719405599,INSTITUCION EDUCATIVA RURAL LUIS VIDALES DE PIÑUÑA NEGRO,846003423,Putumayo,Leguízamo,Ejecutivo,Centralizada,National
+306,718658156,INSTITUCION EDUCATIVA RURAL NOBOGACITA,811029325,Antioquia,Frontino,Ejecutivo,Centralizada,National
+307,721948198,INSTITUCION EDUCATIVA RURAL VIJAGUA,804006409,Santander,Bucaramanga,Ejecutivo,Centralizada,Territorial
+308,701706475,INSTITUCION EDUCATIVA SAGRADO CORAZON DE JESUS,814006897,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+309,725424360,INSTITUCION EDUCATIVA SAGRADO CORAZON DE JESUS1,8380002711,Amazonas,Leticia,Ejecutivo,Centralizada,National
+310,722522216,INSTITUCION EDUCATIVA SALIM BECHARA,806012606,Bolívar,Cartagena,Ejecutivo,Centralizada,Territorial
+311,706124021,INSTITUCION EDUCATIVA SAMARIA,900006187,Tolima,Ortega,Ejecutivo,Centralizada,Territorial
+312,718387160,INSTITUCION EDUCATIVA SAN ANTONIO DE ANACONIA - NEIVA,813001766,Huila,Neiva,Ejecutivo,Centralizada,Territorial
+313,702052010,INSTITUCION EDUCATIVA SAN BARTOLOME -CORDOBA*,891201561,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+314,720651199,INSTITUCION EDUCATIVA SAN ISIDORO,890701776,Tolima,Espinal,Ejecutivo,Centralizada,National
+315,719453391,INSTITUCION EDUCATIVA SAN JOSE CALABAZAL,840000229,Nariño,Olaya Herrera,Corporación Autónoma,Centralizada,Territorial
+316,719150583,INSTITUCION EDUCATIVA SAN JOSE DEL TAPAJE,840001138,Nariño,El Charco,Corporación Autónoma,Centralizada,Territorial
+317,719336570,INSTITUCION EDUCATIVA SAN JUAN DE MAYASQUER,814006476,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+318,718354111,INSTITUCION EDUCATIVA SAN LUIS BELTRAN - NEIVA,800228413,Huila,Neiva,Ejecutivo,Centralizada,Territorial
+319,724575931,INSTITUCION EDUCATIVA SAN PABLO DE LA MAR,9016396366,Nariño,La Tola,Corporación Autónoma,Centralizada,Territorial
+320,719123903,INSTITUCION EDUCATIVA SAN PEDRO,800209906,Nariño,Cumbitara,Corporación Autónoma,Centralizada,Territorial
+321,724576715,INSTITUCION EDUCATIVA SAN PEDRO DEL VINO,9015839961,Nariño,Francisco Pizarro,Corporación Autónoma,Centralizada,Territorial
+322,705043354,INSTITUCION EDUCATIVA SANTA ANA - HUILA,813007522,Huila,Colombia,Ejecutivo,Centralizada,Territorial
+323,711372052,INSTITUCION EDUCATIVA SANTA ANA MIRANDA CAUCA,817003352,Cauca,Miranda,Ejecutivo,Centralizada,Territorial
+324,726762594,INSTITUCION EDUCATIVA SANTA ANA12,800095117,Tolima,Mariquita,Ejecutivo,Centralizada,Territorial
+325,717844518,INSTITUCION EDUCATIVA SANTA CRUZ DE ISLOTE,806009730,Bolívar,Cartagena,Corporación Autónoma,Centralizada,National
+326,705456564,INSTITUCION EDUCATIVA SANTA LIBRADA NEIVA,891180005,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+327,717710362,INSTITUCION EDUCATIVA SANTA MARIA GORETTI,890203882,Santander,Bucaramanga,Ejecutivo,Centralizada,Territorial
+328,718586738,INSTITUCION EDUCATIVA SANTA ROSA DE LIMA,890705465,Tolima,Suárez,Corporación Autónoma,Centralizada,Territorial
+329,719762023,INSTITUCION EDUCATIVA SANTA ROSA DE LIMA -CAUCA,817000360,Cauca,Suárez,Ejecutivo,Centralizada,Territorial
+330,718293194,INSTITUCION EDUCATIVA SANTA TERESITA,834000166,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+331,719686305,INSTITUCION EDUCATIVA SANTA TERESITA DE ALTAQUER,891201905,Nariño,Barbacoas,Corporación Autónoma,Centralizada,Territorial
+332,718099567,INSTITUCION EDUCATIVA SANTANDER,814005581,Nariño,Córdoba,Ejecutivo,Centralizada,Territorial
+333,732538848,INSTITUCION EDUCATIVA SANTO DOMINGO SAVIO,9001059476,Risaralda,Balboa,Ejecutivo,Centralizada,Territorial
+334,719530867,INSTITUCION EDUCATIVA SEÑOR DEL MAR,800254333,Nariño,Francisco Pizarro,Corporación Autónoma,Centralizada,Territorial
+335,724615539,INSTITUCION EDUCATIVA SIDON,9015850958,Nariño,Cumbitara,Corporación Autónoma,Centralizada,Territorial
+336,718547581,INSTITUCION EDUCATIVA SIGLO XXI,844002735,Casanare,Tauramena,Ejecutivo,Centralizada,Territorial
+337,718434020,INSTITUCION EDUCATIVA SIMON BOLIVAR,800104342,Arauca,Arauca,Ejecutivo,Centralizada,Territorial
+338,719496408,INSTITUCION EDUCATIVA SIXTO MARIA ROJAS,805011810,Valle del Cauca,Jamundí,Ejecutivo,Centralizada,Territorial
+339,719672941,INSTITUCION EDUCATIVA SOLEDAD ROMAN DE NUÑEZ,806012177,Bolívar,Cartagena,Corporación Autónoma,Centralizada,National
+340,706060019,INSTITUCION EDUCATIVA TECNICA AGROINDUSTRIAL JUAN XXIII,800002221,Tolima,Coyaima,Ejecutivo,Centralizada,Territorial
+341,719608150,INSTITUCION EDUCATIVA TECNICA AGROPECUARIA INDIGENA CUMBE,814004128,Nariño,Cumbal,Ejecutivo,Centralizada,Territorial
+342,718527971,INSTITUCION EDUCATIVA TECNICA AGROPECUARIA LA INMACULADA,844002298,Casanare,Yopal,Ejecutivo,Centralizada,Territorial
+343,718476104,INSTITUCION EDUCATIVA TECNICA AGROPECUARIA POLICARPA SALAVARRIETA,844003490,Casanare,Yopal,Ejecutivo,Centralizada,Territorial
+344,708499405,INSTITUCION EDUCATIVA TECNICA ALFONSO PALACIO RUDAS,809007194,Tolima,Ibagué,Corporación Autónoma,Centralizada,Territorial
+345,706117892,INSTITUCION EDUCATIVA TECNICA ARTURO MEJIA JARAMILLO,890706353,Tolima,Lérida,Ejecutivo,Centralizada,Territorial
+346,718453541,INSTITUCION EDUCATIVA TECNICA ATANASIO GIRARDOT,890680017,Cundinamarca,Girardot,Ejecutivo,Centralizada,Territorial
+347,706116019,INSTITUCION EDUCATIVA TECNICA COLOMBO ALEMAN SCALAS,800074418,Tolima,Lérida,Ejecutivo,Centralizada,Territorial
+348,710354564,INSTITUCION EDUCATIVA TECNICA COMERCIAL DE PALMAR DE VARELA1,890105087,Atlántico,Palmar De Varela,Corporación Autónoma,Centralizada,Territorial
+349,718467764,INSTITUCION EDUCATIVA TECNICA EL DANUBIO,809000750,Tolima,Ambalema,Ejecutivo,Centralizada,Territorial
+350,718496326,INSTITUCION EDUCATIVA TECNICA EMPRESARIAL LLANO LINDO,900261948,Casanare,Yopal,Ejecutivo,Centralizada,Territorial
+351,706119583,INSTITUCION EDUCATIVA TECNICA FRANCISCO JOSE DE CALDAS,890706334,Tolima,Natagaima,Ejecutivo,Centralizada,Territorial
+352,718580806,INSTITUCION EDUCATIVA TECNICA GENERAL ROBERTO LEYVA,890706749,Tolima,Saldaña,Ejecutivo,Centralizada,Territorial
+353,719672214,INSTITUCION EDUCATIVA TECNICA GENERAL SANTANDER,900003201,Tolima,Rioblanco,Ejecutivo,Descentralizada,Territorial
+354,706120276,INSTITUCION EDUCATIVA TECNICA LEPANTO,800014311,Tolima,Murillo,Ejecutivo,Centralizada,Territorial
+355,706038015,INSTITUCION EDUCATIVA TECNICA MARTIN POMALA,890703659,Tolima,Ataco,Ejecutivo,Centralizada,Territorial
+356,706445269,INSTITUCION EDUCATIVA TECNICA MORENO Y ESCANDON,809002832,Tolima,Mariquita,Corporación Autónoma,Centralizada,Territorial
+357,718445968,INSTITUCION EDUCATIVA TECNICA NICOLAS RAMIREZ,800014626,Tolima,Ortega,Corporación Autónoma,Centralizada,Territorial
+358,706116027,INSTITUCION EDUCATIVA TECNICA NUESTRA SEÑORA DEL CARMEN,890706737,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+359,708709225,INSTITUCION EDUCATIVA TECNICA PEREZ Y ALDANA,800025311,Tolima,Purificación,Corporación Autónoma,Centralizada,Territorial
+360,718807076,INSTITUCION EDUCATIVA TECNICA REMEDIOS SOLANO,825002609,La Guajira,Barrancas,Ejecutivo,Centralizada,Territorial
+361,718931520,INSTITUCION EDUCATIVA TECNICA SAN LUIS BELTRAN,800138495,Boyacá,Covarachía,Corporación Autónoma,Centralizada,Territorial
+362,706141702,INSTITUCION EDUCATIVA TECNICA SANTA LUCIA,800029884,Tolima,Purificación,Ejecutivo,Descentralizada,Territorial
+363,718296486,INSTITUCION EDUCATIVA TECNICO COMERCIAL HERNANDO NAVIA VARON,800099769,Valle del Cauca,Cali,Ejecutivo,Centralizada,Territorial
+364,719647125,INSTITUCION EDUCATIVA TECNICO EL ORTIGAL,891501593,Cauca,Miranda,Ejecutivo,Centralizada,Territorial
+365,718542715,INSTITUCION EDUCATIVA TECNICO FRANCISCO LUCEA,844002430,Casanare,San Luis De Palenque,Ejecutivo,Centralizada,Territorial
+366,718625429,INSTITUCION EDUCATIVA TECNICO INDUSTRIAL JOSE MARIA CARBONEL,805026272,Valle del Cauca,Cali,Ejecutivo,Centralizada,Territorial
+367,718490782,INSTITUCION EDUCATIVA TECNICO SUPERIOR,800092907,Huila,Neiva,Ejecutivo,Centralizada,National
+368,718648421,INSTITUCION EDUCATIVA TECNICO SUPERIOR INDUSTRIAL,890270004,Santander,Barrancabermeja,Corporación Autónoma,Centralizada,Territorial
+369,724685391,INSTITUCION EDUCATIVA TERAIMBE,9017391586,Nariño,Barbacoas,Corporación Autónoma,Centralizada,Territorial
+370,718546120,INSTITUCION EDUCATIVA TERESA DE CALCUTA YOPAL,844003616,Casanare,Yopal,Ejecutivo,Centralizada,Territorial
+371,718442981,INSTITUCION EDUCATIVA TITAN,805009830,Valle del Cauca,Yumbo,Ejecutivo,Centralizada,Territorial
+372,721816494,INSTITUCION EDUCATIVA VALLE DEL ORTIGAL,901458898,Cauca,Popayán,Corporación Autónoma,Centralizada,Territorial
+373,718563695,INSTITUCION EDUCATIVA VILLA ESTADIO,802004479,Atlántico,Soledad,Ejecutivo,Centralizada,Territorial
+374,702072067,INSTITUCION EDUCATIVA YO REINARE,900012754,Not defined,Not defined,Ejecutivo,Centralizada,National
+375,732571112,INSTITUCION EDUCATIVA YUC KWET ZUUN,901091559,Cauca,Inzá,Ejecutivo,Centralizada,Territorial
+376,719898108,INSTITUCION EDUCATIVA ZARAGOZA TAMARINDO,900051024,Tolima,Coyaima,Corporación Autónoma,Centralizada,National
+377,707766010,INSTITUCION EDUCATIVO MUNICIPAL SAN FRANCISCO DE ASÍS,814006542,Nariño,Pasto,Ejecutivo,Centralizada,Territorial
+378,719661647,INSTITUCION ETNOEDUCATIVA No. 13,900459315,La Guajira,Riohacha,Corporación Autónoma,Centralizada,Territorial
+379,718296155,INSTITUCION ETNOEDUCATIVO LA GLORIA,825003614,La Guajira,Manaure,Ejecutivo,Centralizada,Territorial
+380,700608052,INSTITUCION UNIVERSITARIA BELLAS ARTES Y CIENCIAS DE BOLIVAR,890480308,Bolívar,Cartagena,Corporación Autónoma,Centralizada,Territorial
+381,701715807,INSTITUCION UNIVERSITARIA DE BARRANQUILLA-IUB,802011065,Atlántico,Barranquilla,Ejecutivo,Descentralizada,Territorial
+382,702208604,INSTITUCION UNIVERSITARIA DE ENVIGADO,811000278,Antioquia,Envigado,Ejecutivo,Descentralizada,Territorial
+383,723112322,INSTITUCION UNIVERSITARIA DE SANTA MARTA,901736641,Magdalena,Santa Marta,Ejecutivo,Centralizada,Territorial
+384,718744105,INSTITUCIÒN EDUCATIVA AGROINDUSTRIAL SANTA TERESITA,900004976,Nariño,Potosí,Ejecutivo,Centralizada,Territorial
+385,721956753,INSTITUCIÒN ETNOEDUCATIVA No.9 MAÑATURE,900475683,La Guajira,Riohacha,Ejecutivo,Centralizada,Territorial
+386,719165086,INSTITUCIÓN EDUCATIVA AGROPECUARIA MARISCAL SUCRE,817000052,Cauca,Sucre,Ejecutivo,Centralizada,Territorial
+387,706435435,INSTITUCIÓN EDUCATIVA ANTONIO NARIÑO MOSQUERA,8320026861,Cundinamarca,Mosquera,Corporación Autónoma,Centralizada,Territorial
+388,718846546,INSTITUCIÓN EDUCATIVA CAMILO TORRES,800252706,Nariño,Cuaspud,Ejecutivo,Centralizada,Territorial
+389,706391455,INSTITUCIÓN EDUCATIVA CAZUCA,832002394,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+390,718846769,INSTITUCIÓN EDUCATIVA COLEGIO AGROECOLOGICO SAGRADO CORAZON DE JESUS DE CUETIAL,814007201,Nariño,Cumbal,Ejecutivo,Centralizada,Territorial
+391,718584055,INSTITUCIÓN EDUCATIVA DE LA BOQUILLA,800119213,Bolívar,Cartagena,Corporación Autónoma,Centralizada,Territorial
+392,718619091,INSTITUCIÓN EDUCATIVA DE TIERRA BOMBA,806002878,Bolívar,Cartagena,Ejecutivo,Centralizada,Territorial
+393,704242098,INSTITUCIÓN EDUCATIVA DEPARTAMENTAL JOSUE MANRIQUE,832000733,Not defined,Not defined,Corporación Autónoma,Centralizada,National
+394,704162742,INSTITUCIÓN EDUCATIVA DISTRITAL RODRIGO ARENAS BETANCOURT,830034928,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Centralizada,Territorial
+395,718812555,INSTITUCIÓN EDUCATIVA DIVINO NIÑO JESUS,814001432,Nariño,Cumbal,Ejecutivo,Centralizada,Territorial
+396,719675381,INSTITUCIÓN EDUCATIVA EL BOSQUE,810002512,Caldas,Samaná,Ejecutivo,Centralizada,National
+397,725112882,INSTITUCIÓN EDUCATIVA EL MADROÑO,810002560,Caldas,Belalcázar,Ejecutivo,Centralizada,Territorial
+398,709094163,INSTITUCIÓN EDUCATIVA EL PESCADOR,813003429,Huila,La Argentina,Ejecutivo,Centralizada,Territorial
+399,719403321,INSTITUCIÓN EDUCATIVA EL TABLON,900001535,Cauca,Almaguer,Ejecutivo,Centralizada,Territorial
+400,718571029,INSTITUCIÓN EDUCATIVA ESCUELA NORMAL SUPERIOR CRISTO REY,8000360290,Santander,Barrancabermeja,Corporación Autónoma,Centralizada,Territorial
+401,718538309,INSTITUCIÓN EDUCATIVA ESCUELA NORMAL SUPERIOR DE COROZAL,890480112,Sucre,Corozal,Corporación Autónoma,Centralizada,Territorial
+402,700578024,INSTITUCIÓN EDUCATIVA FEDERICO GARCIA LORCA,830036283,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+403,728048729,INSTITUCIÓN EDUCATIVA FUNDACIÓN PIES DESCALZOS,900732396,Bolívar,Cartagena,Ejecutivo,Centralizada,Territorial
+404,717711279,INSTITUCIÓN EDUCATIVA INEM CUSTODIO GARCÍA ROVIRA,804001555,Santander,Bucaramanga,Ejecutivo,Centralizada,Territorial
+405,718699119,INSTITUCIÓN EDUCATIVA JOSÉ ANTONIO LLORENTE,814001747,Nariño,Cumbal,Ejecutivo,Centralizada,Territorial
+406,707564704,INSTITUCIÓN EDUCATIVA JOSÉ FÉLIX DE RESTREPO VÉLEZ,811017572,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+407,700043045,INSTITUCIÓN EDUCATIVA JUAN XXIII - ALGECIRAS 2,891180094,Huila,Algeciras,Corporación Autónoma,Centralizada,Territorial
+408,719104150,INSTITUCIÓN EDUCATIVA LA HERRADURA,817006060,Cauca,Almaguer,Ejecutivo,Centralizada,Territorial
+409,717883284,INSTITUCIÓN EDUCATIVA LICEO DEL LLANO,834001030,Arauca,Arauquita,Ejecutivo,Centralizada,Territorial
+410,719085268,INSTITUCIÓN EDUCATIVA LICEO PATRIA,8040117223,Santander,Bucaramanga,Ejecutivo,Centralizada,Territorial
+411,711008086,INSTITUCIÓN EDUCATIVA MARCOFIDEL SUAREZ*,800029061,Caquetá,El Doncello,Ejecutivo,Centralizada,Territorial
+412,705849891,INSTITUCIÓN EDUCATIVA MARIA AUXILIADORA,891102505,Huila,Not defined,Ejecutivo,Centralizada,Territorial
+413,726398373,INSTITUCIÓN EDUCATIVA MATECANDELA,834001394,Arauca,Arauca,Ejecutivo,Centralizada,Territorial
+414,700563042,INSTITUCIÓN EDUCATIVA MAYOR DE MOSQUERA,832005423,Cundinamarca,Mosquera,Ejecutivo,Centralizada,Territorial
+415,707765996,INSTITUCIÓN EDUCATIVA MUNICIPAL EDUARDO ROMO ROSERO,814006512,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+416,707872875,INSTITUCIÓN EDUCATIVA MUNICIPAL INEM LUIS DELFÍN INSUASTY RODRIGUEZ,800168203,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+417,700878119,INSTITUCIÓN EDUCATIVA MUNICIPAL LA VICTORIA,814006536,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+418,705284271,INSTITUCIÓN EDUCATIVA MUNICIPAL NUESTRA SEÑORA DE GUADALUPE-,891224079,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+419,718434202,INSTITUCIÓN EDUCATIVA MUNICIPAL TÉCNICA COMERCIAL SANTA RITA - FACATATIVÁ,800058047,Cundinamarca,Facatativá,Ejecutivo,Centralizada,Territorial
+420,706060191,INSTITUCIÓN EDUCATIVA NICANOR VELASQUEZ ORTIZ,809009472,Tolima,Ambalema,Ejecutivo,Descentralizada,Territorial
+421,717710487,INSTITUCIÓN EDUCATIVA ORIENTE MIRAFLORES,804006675,Santander,Bucaramanga,Ejecutivo,Centralizada,Territorial
+422,717710529,INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL DEL NORTE,800157653,Santander,Bucaramanga,Ejecutivo,Centralizada,Territorial
+423,721009397,INSTITUCIÓN EDUCATIVA PROPIA BILINGUE E INTERCULTURAL NASA IEPBIN MANUEL QUINTIN LAME CHANTRE,900607273,Putumayo,Puerto Asís,Ejecutivo,Centralizada,National
+424,718412679,INSTITUCIÓN EDUCATIVA RURAL DEL SUR TUNJA,8200044038,Boyacá,Tunja,Ejecutivo,Centralizada,Territorial
+425,706807559,INSTITUCIÓN EDUCATIVA SAN FRANCISCO DE ASÍS 2,846000050,Putumayo,Puerto Asís,Corporación Autónoma,Centralizada,Territorial
+426,718812860,INSTITUCIÓN EDUCATIVA SAN JOSE DE CHILLANQUER,837000325,Nariño,Guachucal,Ejecutivo,Centralizada,Territorial
+427,703907683,INSTITUCIÓN EDUCATIVA SANTIAGO PEREZ,800151251,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+428,718660814,INSTITUCIÓN EDUCATIVA SEMINARIO,800254779,Nariño,Ipiales,Ejecutivo,Centralizada,Territorial
+429,718755242,INSTITUCIÓN EDUCATIVA TECNICA AGROPECUARIA INDIGENA PANAM,800215020,Nariño,Cumbal,Ejecutivo,Centralizada,Territorial
+430,706059623,INSTITUCIÓN EDUCATIVA TECNICA AGROPECUARIA NUESTRA SEÑORA DE LA ASUNCION,809000232,Tolima,Fresno,Ejecutivo,Centralizada,Territorial
+431,718734544,INSTITUCIÓN EDUCATIVA TECNICA GABRIELA MISTRAL,809009531,Tolima,Melgar,Ejecutivo,Centralizada,Territorial
+432,706122934,INSTITUCIÓN EDUCATIVA TÉCNICA ALFONSO ARANGO TORO,890706589,Not defined,Not defined,Ejecutivo,Centralizada,Territorial
+433,710572967,INSTITUCIÓN EDUCATIVA TÉCNICA FRANCISCO MANZANERA HENRIQUEZ,890680240,Cundinamarca,Girardot,Ejecutivo,Centralizada,Territorial
+434,728584103,INSTITUCIÓN EDUCATIVA TÉCNICA JUAN LOZANO SANCHEZ,800162007,Tolima,Coyaima,Ejecutivo,Centralizada,Territorial
+435,718002025,INSTITUCIÓN EDUCATIVA TÉCNICA MODELIA,900262481,Tolima,Ibagué,Ejecutivo,Centralizada,Territorial
+436,721557338,INSTITUCIÓN EDUCATIVA TÉCNICO INDUSTRIAL,891500762,Cauca,Popayán,Ejecutivo,Centralizada,Territorial
+437,722080157,INSTITUCIÓN INDÍGENA BUSCANDO HORIZONTES DE TIERRADENTRO,900004047,Cauca,Morales,Corporación Autónoma,Centralizada,National
+438,707436283,INSTITUCIÓN TECNICA COMERCIAL SAN JUAN BOSCO,809010612,Tolima,San Luis,Ejecutivo,Centralizada,Territorial
+439,704629146,INSTITUCIÓN UNIVERSITARIA COLEGIO MAYOR DE ANTIOQUIA,890980134,Antioquia,Medellín,Ejecutivo,Descentralizada,Territorial
+440,721787943,INSTITUCIÓN UNIVERSITARIA DEL PUTUMAYO,800247940,Putumayo,Mocoa,Legislativo,Centralizada,Territorial
+441,704740679,INSTITUCIÓN UNIVERSITARIA DIGITAL DE ANTIOQUIA,901168222,Antioquia,Medellín,Ejecutivo,Descentralizada,Territorial
+442,703000075,INSTITUCIÓN UNIVERSITARIA ITM,800214750,Antioquia,Medellín,Corporación Autónoma,Centralizada,National
+443,705478170,INSTITUTO AGRICOLA PEDRO URIBE MEJIA SANTA ROSA DE CABAL,891409839,Risaralda,Santa Rosa De Cabal,Corporación Autónoma,Descentralizada,Autonomous corporation
+444,702350083,INSTITUTO COLOMBIANO DE CREDITO EDUCATIVO Y ESTUDIO TÉCNICOS EN EL EXTERIOR MARIANO OSPINA PEREZ.,899999035,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Centralizada,National
+445,702412826,INSTITUTO COLOMBIANO PARA LA EVALUACIÓN DE LA EDUCACIÓN - ICFES,860024301,Distrito Capital de Bogotá,Bogotá,Corporación Autónoma,Centralizada,National
+446,705200061,INSTITUTO EDUCATIVO EL PARAISO,844000818,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+447,704593789,INSTITUTO EDUCATIVO LUIS HERNANDEZ VARGAS,844000601,Casanare,Not defined,Ejecutivo,Centralizada,Territorial
+448,704247972,INSTITUTO MUNICIPAL DE EDUCACION PARA EL TRABAJO Y DESARROLLO HUMANO DE YUMBO -IMETY-,900586342,Valle del Cauca,Yumbo,Corporación Autónoma,Centralizada,Territorial
+449,704079748,INSTITUTO MUNICIPAL DE VIVIENDA URBANA Y RURAL IMVIUR,832002424,Cundinamarca,La Calera,Ejecutivo,Descentralizada,Territorial
+450,704033232,INSTITUTO NACIONAL DE FORMACION TECNICA PROFESIONAL DE SAN ANDRES Y PROVIDENCIA ISLAS,892400461,Not defined,Not defined,Ejecutivo,Centralizada,National
+451,701129140,INSTITUTO NACIONAL PARA CIEGOS,860015971,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Descentralizada,National
+452,700930142,INSTITUTO NACIONAL PARA SORDOS,860016627,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Centralizada,National
+453,718657869,INSTITUTO TECNICO AMBIENTAL SAN MATEO,900152645,Casanare,Yopal,Ejecutivo,Centralizada,Territorial
+454,718593593,INSTITUTO TECNICO EMPRESARIAL EL YOPAL,832000724,Casanare,Yopal,Ejecutivo,Centralizada,Territorial
+455,719039190,INSTITUTO TECNICO GONZALO SUAREZ RENDON,820001460,Boyacá,Tunja,Ejecutivo,Centralizada,Territorial
+456,700150022,INSTITUTO TECNICO NACIONAL DE COMERCIO SIMON RODRIGUEZ,800248004,Valle del Cauca,Cali,Ejecutivo,Centralizada,National
+457,700930035,INSTITUTO TOLIMENSE DE FORMACION TECNICA PROFESIONAL,800173719,Tolima,Espinal,Ejecutivo,Centralizada,National
+458,708090428,INSTITUTO TÉCNICO AURELIO PATIÑO PATIÑO,901100653,Antioquia,La Ceja,Ejecutivo,Centralizada,Territorial
+459,703935064,INSTITUTO UNIVERSITARIO DE LA PAZ,800024581,Not defined,Not defined,Corporación Autónoma,Centralizada,Territorial
+460,719403255,INTITUCION EDUCATIVA LAS GAVIOTAS,806011970,Bolívar,Cartagena,Corporación Autónoma,Centralizada,Territorial
+461,719986374,IPC,825001850,La Guajira,Riohacha,Ejecutivo,Centralizada,Territorial
+462,718108673,Insitución Educativa Gabriela Mistral,805009326,Valle del Cauca,Cali,Ejecutivo,Centralizada,Territorial
+463,705446516,Institucion Educativa Municipal Escuela Normal Superior de Pasto,814006505,Nariño,Pasto,Ejecutivo,Descentralizada,Territorial
+464,718908346,Institución Educativa Agropecuaria Nuestra Señora del Rosario,800226793,Cauca,San Sebastián,Corporación Autónoma,Centralizada,Territorial
+465,718383375,Institución Educativa Santa Teresa,800200115,Tolima,Líbano,Ejecutivo,Centralizada,Territorial
+466,712721034,Institución Universitaria Pascual Bravo COMPRADOR,8909801583,Antioquia,Medellín,Corporación Autónoma,Centralizada,National
+467,715529277,Instituto Superior de Educacion Rural,890501578,Norte de Santander,Pamplona,Ejecutivo,Centralizada,Territorial
+468,700066053,MINISTERIO DE EDUCACION NACIONAL (MEN),899999001,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Centralizada,National
+469,719368060,NARIÑO - INSTITUCION EDUCATIVA TECNICA NUESTRA SEÑORA DE LOURDES,814003752,Nariño,Santacruz,Ejecutivo,Centralizada,Territorial
+470,702435959,SECRETARIA DE EDUCACION DE CALI,890399011,Valle del Cauca,Cali,Ejecutivo,Centralizada,Territorial
+471,701321135,SECRETARIA DE EDUCACION DEL DISTRITO,8999990619,Distrito Capital de Bogotá,Not defined,Ejecutivo,Centralizada,Territorial
+472,724860960,SENA PUERTO BOYACA,899999034,Boyacá,Boyacá,Ejecutivo,Centralizada,National
+473,702633314,SENA REGIONAL ATLANTICO,899999034,Atlántico,Barranquilla,Ejecutivo,Centralizada,National
+474,703914952,SENA REGIONAL CUNDINAMARCA Grupo de Apoyo Administrativo Mixto+,899999034,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Centralizada,National
+475,703931881,SENA REGIONAL GUAVIARE,899999034,Guaviare,San José Del Guaviare,Ejecutivo,Centralizada,National
+476,700861115,SENA REGIONAL NORTE DE SANTANDER Grupo de Apoyo Administrativo Mixto,899999034,Norte de Santander,Cúcuta,Ejecutivo,Descentralizada,National
+477,703932673,SENA REGIONAL RISARALDA Grupo de Apoyo Administrativo Mixto//,899999034,Risaralda,Pereira,Ejecutivo,Centralizada,National
+478,703940056,SENA REGIONAL VALLE Grupo Administrativo CNPB,899999034,Valle del Cauca,Buenaventura,Ejecutivo,Descentralizada,National
+479,700763170,SENA REGIONAL VALLE Grupo de Apoyo Administrativo Mixto,899999034,Valle del Cauca,Cali,Ejecutivo,Centralizada,National
+480,703940072,SERVICIO NACIONAL DE APRENDIZAJE SENA REGIONAL SAN ANDRES,899999034,"San Andrés, Providencia y Santa Catalina",Not defined,Ejecutivo,Descentralizada,National
+481,703938217,Sena - Centro Agropecuario de Buga,899999034,Valle del Cauca,Guadalajara De Buga,Ejecutivo,Centralizada,National
+482,702217464,TECNOLÓGICO DE ARTES DEBORA ARANGO INSTITUCIÓN REDEFINIDA,811042967,Antioquia,Envigado,Ejecutivo,Centralizada,Territorial
+483,718459191,TOLIMA - INSTITUCION EDUCATIVA MANUEL ELKIN PATARROYO,800168612,Tolima,Roncesvalles,Corporación Autónoma,Centralizada,Territorial
+484,700582034,UMAYOR,890480054,Bolívar,Cartagena,Ejecutivo,Centralizada,Territorial
+485,701265068,UNIAJC,805000889,Valle del Cauca,Cali,Corporación Autónoma,Descentralizada,Territorial
+486,718600463,UNIATLANTICO,890102257,Atlántico,Puerto Colombia,Corporación Autónoma,Centralizada,Territorial
+487,711601906,UNIDAD CENTRAL DEL VALLE DEL CAUCA,891900853,Valle del Cauca,Tuluá,Ejecutivo,Centralizada,Territorial
+488,703076125,UNINTEP,891902811,Valle del Cauca,Roldanillo,Ejecutivo,Centralizada,National
+489,718387582,UNIVERSIDAD DE SUCRE,892200323,Sucre,Sincelejo,Corporación Autónoma,Descentralizada,Territorial
+490,700785025,UNIVERSIDAD DEL VALLE,890399010,Valle del Cauca,Not defined,Corporación Autónoma,Centralizada,Territorial
+491,703827485,UNIVERSIDAD PEDAGÓGICA NACIONAL,899999124,Distrito Capital de Bogotá,Not defined,Corporación Autónoma,Descentralizada,National
+492,709442024,Unidad Administrativa Especial de Alimentación Escolar -Alimentos para Aprender-,901377527,Distrito Capital de Bogotá,Bogotá,Ejecutivo,Centralizada,National
+493,717141568,Universidad Central,8600247461,Not defined,Not defined,Corporación Autónoma,Centralizada,Autonomous corporation
+494,721810042,Universidad Icesi1,8903167455,Valle del Cauca,Cali,Corporación Autónoma,Centralizada,Territorial
+495,714098233,Universidad Pontificia Bolivariana,8909029226,Antioquia,Medellín,Corporación Autónoma,Centralizada,National

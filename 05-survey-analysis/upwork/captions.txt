@@ -1,0 +1,5 @@
+shot-1.png: Every number uses the official survey weight, and the confidence intervals account for the stratified, clustered sample design (68 strata, 137 sampling units), as in Stata svy or R survey.
+shot-2.png: Cross-tabulations with row percentages, chi-square tests of independence and Cramér's V, with the expected-count assumption checked for each table.
+shot-3.png: 23% of US adults say they are very happy (95% CI 20.8% to 25.3%), from 15% of people in poor health to 41% of those in excellent health.
+shot-4.png: Weighted logistic regression with cluster-robust errors: odds ratios, 95% CIs and average marginal effects in percentage points, so the results are easy to explain.
+shot-5.png: Assumptions checked and reported: events per predictor, multicollinearity (VIF), influential cases, calibration and goodness of fit, followed by the results in plain language and the limitations.

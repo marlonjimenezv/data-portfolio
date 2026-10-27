@@ -1,0 +1,5 @@
+shot-1.png: A sample invoice (synthetic, watermarked) and the fields extracted from it: supplier, tax ID, number, dates, currency, subtotal, tax, total and line items.
+shot-2.png: The Invoices sheet: one row per PDF with status OK, Check or Review. 36 of 41 sample invoices are ready to load; the rest go to a person.
+shot-3.png: Summary: files processed, problems by type, and accuracy against the synthetic answer key (98% on totals; the one miss is the scanned image).
+shot-4.png: The error log explains each problem in plain words and what to do: wrong total, wrong line amount, due date before issue date, duplicate invoice, scanned image.
+shot-5.png: One command processes the whole folder and prints a status line per file. Four layouts, English and Spanish. The AI step runs only when an API key is set.

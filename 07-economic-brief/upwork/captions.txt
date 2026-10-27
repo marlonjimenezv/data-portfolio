@@ -1,0 +1,5 @@
+shot-1.png: Executive summary with four key figures: real minimum wage +46% and GDP per worker +38% since 2004, 90.5% of the median wage, $843 PPP a month.
+shot-2.png: Every year the increase matched or beat the previous year's inflation; from 2022 the margin widened, with +16% in 2023 against 13.1% inflation.
+shot-3.png: Until 2022 the real minimum wage grew more slowly than GDP per worker; since then it rose 13.6% while productivity changed -2.3%.
+shot-4.png: Two comparisons, two pictures: the highest minimum-to-median ratio of 32 countries (OECD), but 8th of 15 in Latin America in purchasing-power dollars (ILO).
+shot-5.png: Plain-language implications for employers, analysts and researchers, and honest limitations, including a series break detected in two countries' data. Sources are listed with access date and licence.

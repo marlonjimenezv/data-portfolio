@@ -1,0 +1,14 @@
+modality_key,modality_es,modality_group,is_direct,is_competitive
+1,Concurso de méritos abierto,Merit-based selection,0,1
+2,Contratación Directa (con ofertas),Direct contracting,1,0
+3,Contratación directa,Direct contracting,1,0
+4,Contratación régimen especial,Special regime,0,0
+5,Contratación régimen especial (con ofertas),Special regime,0,0
+6,Enajenación de bienes con sobre cerrado,Sale of public assets,0,0
+7,Enajenación de bienes con subasta,Sale of public assets,0,0
+8,Licitación pública,Public tender,0,1
+9,Licitación pública Obra Publica,Public tender,0,1
+10,Mínima cuantía,Minimum-value selection,0,1
+11,Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes,Abbreviated selection,0,1
+12,Selección Abreviada de Menor Cuantía,Abbreviated selection,0,1
+13,Selección abreviada subasta inversa,Abbreviated selection,0,1

@@ -1,0 +1,91 @@
+{
+ "start": 2004,
+ "end": 2025,
+ "wage_start": 358000,
+ "wage_end": 1423500,
+ "nominal_growth_pct": 297.6,
+ "prices_growth_pct": 172.1,
+ "real_growth_pct": 46.1,
+ "productivity_growth_pct": 38.3,
+ "productivity_last_year": 2025,
+ "compare_first": 2005,
+ "compare_years": 21,
+ "years_above_prev_inflation": 20,
+ "years_matching_prev_inflation": {
+  "2009": [
+   7.67,
+   7.68
+  ]
+ },
+ "years_below_prev_inflation": [],
+ "avg_gap_to_2021_pp": 1.5,
+ "avg_gap_2022_on_pp": 3.61,
+ "recent": {
+  "2022": {
+   "increase": 10.07,
+   "prev_inflation": 5.62,
+   "inflation": 13.12
+  },
+  "2023": {
+   "increase": 16.0,
+   "prev_inflation": 13.12,
+   "inflation": 9.28
+  },
+  "2024": {
+   "increase": 12.07,
+   "prev_inflation": 9.28,
+   "inflation": 5.2
+  },
+  "2025": {
+   "increase": 9.5,
+   "prev_inflation": 5.2,
+   "inflation": 5.1
+  }
+ },
+ "real_growth_2022_2025_pct": 13.6,
+ "productivity_growth_2022_2025_pct": -2.3,
+ "inflation_peak": {
+  "year": 2022,
+  "value": 13.12
+ },
+ "latam_year": 2024,
+ "latam_n": 15,
+ "latam_breaks": [
+  "Ecuador",
+  "Uruguay"
+ ],
+ "latam_col": 843.0,
+ "latam_col_rank": 8,
+ "latam_median": 843.0,
+ "latam_top": [
+  "Costa Rica",
+  1093.2
+ ],
+ "latam_bottom": [
+  "Peru",
+  525.9
+ ],
+ "oecd_year": 2025,
+ "oecd_n": 32,
+ "oecd_col": 90.5,
+ "oecd_col_rank": 1,
+ "oecd_median": 52.4,
+ "oecd_second": [
+  "Costa Rica",
+  84.7
+ ],
+ "col_ratio_first": [
+  2015,
+  82.6
+ ],
+ "col_ratio_last": [
+  2025,
+  90.5
+ ],
+ "wage_2026": 1750905,
+ "increase_2026_pct": 23.0,
+ "cpi_latest": {
+  "year": 2025,
+  "month": 12
+ }
+}

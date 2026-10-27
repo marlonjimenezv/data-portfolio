@@ -1,0 +1,3 @@
+Live dashboard (GitHub Pages): https://marlonjimenezv.github.io/data-portfolio/procurement-dashboard/
+GitHub project folder: https://github.com/marlonjimenezv/data-portfolio/tree/main/02-procurement-dashboard
+DAX measures: https://github.com/marlonjimenezv/data-portfolio/blob/main/02-procurement-dashboard/powerbi/dax_measures.md
