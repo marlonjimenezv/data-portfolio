@@ -173,8 +173,9 @@ def method_lines(log: pd.DataFrame, enr_year: str, run_date: str) -> list[str]:
         "browser.",
         "- **Site error**: the server answered with an error code (HTTP 4xx/5xx).",
         "- **Not verified**: no answer reached our checking server (connection refused or closed, timeout, or TLS "
-        "certificate rejected). Many Colombian institutional sites block traffic from foreign cloud servers, so this "
-        "does not prove the site is down: re-check from a local connection before using these rows.",
+        "certificate rejected). Re-checking from a connection in Colombia changed little: most of these are registry "
+        "addresses whose domain no longer exists, so the listed website is probably outdated. Look the institution up "
+        "before using these rows.",
         "- **No website listed**: neither the registry nor Wikidata had a usable website.",
         "",
         "## Limitations",

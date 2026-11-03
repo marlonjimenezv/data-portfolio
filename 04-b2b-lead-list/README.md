@@ -32,16 +32,17 @@ Organisation-level data only: no names, e-mails or phone numbers of people.
 | With enrolment figures (semester 2021-1) | 278, 1.86 million students in total |
 | Websites from the registry / from Wikidata / none | 283 / 2 / 15 |
 | Website values corrected (e-mail typed as website, `wwww.`, missing dot) | 6 |
-| Websites that answered (status starts with "Online") | **220** (193 online, 14 moved to another domain, 13 online but blocking scripts) |
-| Not verified from the checking server (refused, timeout, TLS) | 61, plus 1 whose robots.txt disallows checks |
-| Site error (HTTP 5xx) | 3 |
+| Websites that answered (status starts with "Online") | **229** (203 online, 17 moved to another domain, 9 online but blocking scripts) |
+| Not verified (no connection, TLS certificate rejected) | 55: 45 with no connection (31 of them on a domain that no longer exists) and 10 TLS |
+| Site error (HTTP 5xx) | 1 |
 
 Finding: the 80 institutions with high-quality accreditation are much larger, with a median of 10,407 students
 against 1,296 for the rest, so they are a natural first segment for most B2B offers.
 
-**Important:** the check ran from a cloud server outside Colombia, and many Colombian institutional sites refuse
-foreign cloud traffic. "Not verified" therefore means "could not be confirmed from here", not "site is down".
-Re-run `python run.py --refresh` from a Colombian connection before using those rows.
+**About "Not verified":** the first check ran from a cloud server outside Colombia and left 61 sites unverified.
+Re-running it from a home connection in Bogotá on 2026-11-03 changed little (55), and 31 of the 45 sites with no
+connection are on a domain that no longer exists in DNS. Those rows most likely carry an outdated website in the
+official registry: look the institution up before using them.
 
 ## Reproduce
 

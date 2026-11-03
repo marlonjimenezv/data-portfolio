@@ -13,7 +13,7 @@ Sample project built with public data. Organisation-level data only: no names, e
 - Main records with no usable website in the registry: **17**
 - Websites added from Wikidata (exact or near-exact name match): **2**
 - Website values corrected (e-mail typed as website, 'wwww.', missing dot): **6**
-- Institutions with a website that answered (verified online): **220**
+- Institutions with a website that answered (verified online): **229**
 - Phones normalised to +57 with the 2021 numbering plan (60 + area code of the department + 7 digits).
 - Each website checked once, see below. The verified home page (after redirects) goes in `website`.
 
@@ -22,13 +22,13 @@ Sample project built with public data. Organisation-level data only: no names, e
 - robots.txt is read first; if it does not allow our agent to fetch the home page, the site is not requested.
 - Normally 2 requests per site (robots.txt, then the home page after a 1.5-second pause). Only when the home page does not answer: the same address with or without 'www.', one retry 10 seconds later, and a second pass at the end, one site at a time. 6 different sites are checked in parallel; never the same site twice at once.
 - Only the home page is requested; no links are followed and no forms are submitted. Only the first 300 KB are read, to get the page title.
-- Checked on 2026-10-26. Results are cached, so re-running the script does not contact the sites again (use `--refresh` to re-check).
+- Checked on 2026-11-03. Results are cached, so re-running the script does not contact the sites again (use `--refresh` to re-check).
 
 ## Reading the status column
 - **Online**: the home page answered with HTTP 2xx. **Online (redirects to another domain)**: the institution moved its site; `website` has the new address.
 - **Online but blocks automated checks**: the server answered (HTTP 403/429) but blocks scripts; open it in a browser.
 - **Site error**: the server answered with an error code (HTTP 4xx/5xx).
-- **Not verified**: no answer reached our checking server (connection refused or closed, timeout, or TLS certificate rejected). Many Colombian institutional sites block traffic from foreign cloud servers, so this does not prove the site is down: re-check from a local connection before using these rows.
+- **Not verified**: no answer reached our checking server (connection refused or closed, timeout, or TLS certificate rejected). Re-checking from a connection in Colombia changed little: most of these are registry addresses whose domain no longer exists, so the listed website is probably outdated. Look the institution up before using these rows.
 - **No website listed**: neither the registry nor Wikidata had a usable website.
 
 ## Limitations

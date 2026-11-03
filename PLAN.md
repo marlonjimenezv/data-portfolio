@@ -53,7 +53,8 @@ Publicado en https://github.com/marlonjimenezv/data-portfolio y https://marlonji
 - ~~Publicar el repositorio y activar Pages~~: hecho.
 - **Power BI** (proyecto 2): armar el `.pbix` en Power BI Desktop con `POWERBI_PASO_A_PASO.md`.
 - **Upwork**: subir los proyectos con `PORTAFOLIO_UPWORK.md`.
-- **Proyecto 4**: 61 sitios no se pudieron verificar desde el servidor de esta sesión (fuera de Colombia). Opcional:
-  `python 04-b2b-lead-list/run.py --refresh` desde Colombia.
+- ~~**Proyecto 4**: repetir la verificación desde Colombia~~: hecho el 2026-11-03 (229 en línea, 55 sin verificar;
+  31 de ellos con dominio inexistente). Las imágenes y textos de `04-b2b-lead-list/upwork/` siguen con la
+  verificación del 2026-10-26 (220): regenerarlas pide LibreOffice, pandoc, poppler y node.
 - **Proyecto 8**: el paso de IA está construido y probado contra una API falsa, pero no se corrió con la API real
   porque no hay API key. Opcional: activarlo con tu key (ver la guía).

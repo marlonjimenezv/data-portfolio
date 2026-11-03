@@ -176,13 +176,14 @@ registro oficial es más confiable y legal que hacer scraping.
 5. Chequeos: 150–300 filas, columnas requeridas, sin NIT duplicados, sin correos, coherencia sitio/estado.
 
 **Resultados.** 300 instituciones en 27 departamentos (122 en Bogotá); 292 con teléfono +57; 278 con matrícula
-(1,86 millones de estudiantes). 220 sitios respondieron (193 en línea, 14 movidos a otro dominio, 13 en línea pero
-bloquean scripts). 61 no se pudieron verificar desde el servidor (conexión rechazada, tiempo agotado, certificado).
+(1,86 millones de estudiantes). 229 sitios respondieron (203 en línea, 17 movidos a otro dominio, 9 en línea pero
+bloquean scripts). 55 no se pudieron verificar (45 sin conexión y 10 con certificado rechazado).
 Las 80 instituciones con acreditación de alta calidad tienen mediana de 10.407 estudiantes vs 1.296 las demás.
 
-**Ojo:** la verificación corrió desde un servidor fuera de Colombia y muchos sitios colombianos bloquean ese tráfico.
-Si quieres mejorar la cifra, corre `python 04-b2b-lead-list/run.py --refresh` desde tu computador en Colombia
-(tarda unos minutos por las pausas) y haz commit de los resultados.
+**Ojo:** la primera verificación corrió desde un servidor fuera de Colombia (61 sin verificar). Repetida desde
+Bogotá el 3 de noviembre de 2026 bajó solo a 55, y 31 de los 45 sitios sin conexión tienen un dominio que ya no
+existe. Conclusión para la entrevista: el problema no era el país, sino que el registro oficial tiene sitios web
+desactualizados; por eso cada fila trae su estado y su fecha de verificación.
 
 **Preguntas de entrevista.**
 1. *¿Por qué no hiciste scraping de directorios?* Porque existe un registro oficial con licencia abierta: es más
